@@ -1,0 +1,278 @@
+# Special considerations for the index page:
+# - info: Workshop proposals due
+# - index page will show date only if important==true
+
+# All listed dates will appear in the specified order, so for chronological order, please place your items in a chronological order :D
+
+# info: general info field included in the corresponding site
+# info_main: the same info with additional text appearing in the home page
+# i.e., submission deadline for papers, but Main conference submission deadline for the home page to avoid confusing other submission deadlines...entendi?
+# HOWEVER, info_main will only appear on the main site if important:true is present!
+hackathon:
+  track: hackathon
+  info: Hackathon
+  info_main: Hackathon
+  date: August 25, 2018
+  important: true
+
+
+
+workshop:
+  track: workshop
+  info_main: "Workshops: NetAI, SecSoN, VR/AR Network (morning), SelfDN (afternoon), and ERC Networking"
+  date: August 24, 2018
+  important: true
+
+tutorials:
+  track: tutorials
+  info_main: "Tutorials: HPNFV, SO-RAN (morning), and IoN (afternoon)"
+  date: August 24, 2018
+  important: true
+
+
+main-program:
+  track: main
+  info_main: Main conference and parallel events
+  date: August 21-23, 2018
+  important: true
+
+
+workshop2:
+  track: workshop
+  info_main: "Workshops: Big-DAMA, IoT S&P, MECOMM, NEAT, WTMC, NetCompute (morning), and KBNets (afternoon)"
+  date: August 20, 2018
+  important: true
+
+tutorials2:
+  track: tutorials
+  info_main: "Tutorials: P4, HDA (morning), and RCM (afternoon)"
+  date: August 20, 2018
+  important: true
+
+hackathon-notification:
+  track: hackathon
+  info_main: Hackathon notification
+  info: Notification
+  date: July 16, 2018
+  important: true
+
+registration-earlybird:
+  track: registration
+  info_main: Early registration deadline
+  date: July 14, 2018
+  important: true
+
+
+
+
+hackathon-application:
+  track: hackathon
+  info_main: Hackathon application submission deadline (extended)
+  info: Application submission deadline (extended)
+  date: July 12, 2018
+  important: true
+
+
+
+posters-due:
+  track: posters_demos
+  info: Camera ready deadline
+  info_main: Posters and demos camera ready deadline
+  date: <del>June 30, 2018</del>
+  important: true
+
+
+travelgrant-acceptance:
+  track: travel_grant
+  info: Award acceptance
+  info_main: Travel grants award acceptance
+  date: <del>June 27, 2018</del>
+  important: true
+
+
+
+
+camera-ready:
+  track: camera_ready
+  info_main: Camera-ready deadline for the main conference
+  info: Camera-ready deadline for the main conference
+  date: <del>June 22, 2018</del>
+  important: true
+
+travelgrant-notif:
+  track: travel_grant
+  info_main: Travel grants award notification
+  info: Award notification
+  date: <del>June 20, 2018</del>
+  important: true
+
+
+posters-notification:
+  track: posters_demos
+  info_main: Posters and demos acceptance notification
+  info: Acceptance notification
+  date: <del>June 19, 2018</del>
+  important: true
+
+
+src-notification:
+  track: src
+  info: Acceptance notification
+  info_main: SRC acceptance notification
+  date: <del>June 19, 2018</del>
+  important: true
+
+camera-ready-ws:
+  track: camera_ready
+  info: Camera-ready deadline for the workshops
+  info_main: Camera-ready deadline for the workshops
+  date: <del>June 10, 2018</del>
+  important: true
+
+travelgrant-deadline:
+  track: travel_grant
+  info_main: Travel grants application submission deadline
+  info: Application submission deadline
+  date: <del>May 31, 2018</del>
+  important: true
+
+
+main-industrial-demos:
+  track: industrial-demos
+  info_main: Industrial demo submission deadline
+  info: Submission deadline
+  date: <del>May 29, 2018</del>
+  important: true
+
+posters-submission:
+  track: posters_demos
+  info_main: Poster and demo submission deadline
+  info: Submission deadline
+  date: <del>May 22, 2018</del>
+  important: true
+
+
+src-submission:
+  track: src
+  info_main: ACM SIGCOMM SRC submission deadline
+  info: Submission deadline
+  date: <del>May 22, 2018</del>
+  important: true
+
+main-notification:
+  track: main
+  info_main: Reviews returned to authors of the main conference
+  info: Reviews returned to authors of the main conference
+  date: <del>May 11, 2018</del>
+  important: true
+
+
+workshop-submission:
+  track: workshops
+  info_main: Workshop paper submission
+  info: Paper submission
+  date: <del>March 25, 2018</del>
+  important: true
+
+tutorials-notification:
+  track: tutorials
+  info: Notification of acceptance
+  info_main: Notification of tutorial acceptance
+  date: <del>March 20, 2018</del>
+  important: true
+
+workshop-abstract:
+  track: workshops
+  info_main: Workshop abstract registration
+  info: Abstract registration
+  date: <del>March 18, 2018</del>
+  important: true
+
+
+tutorials-proposals:
+  track: tutorials
+  info_main: Extended deadline for tutorial submissions
+  info: Extended deadline for submissions
+  date: <del>March 12, 2018</del>
+  important: true
+
+main-submission:
+  track: main
+  info_main: Paper submission deadline of the main conference
+  info: Paper submission deadline
+  date: <del>January 31, 2018</del>
+  important: true
+
+
+main-registration:
+  track: main
+  info_main: Abstract submission deadline of the main conference
+  info: Abstract submission deadline
+  date: <del>January 24, 2018</del>
+  important: true
+
+
+
+
+
+
+
+
+
+workshops-notification:
+  track: workshops
+  info_main: Announcement of workshops CFPs
+  info: Announcement of CFPs
+  date: <del>December 22, 2017</del>
+  important: true
+
+workshops-papers-due:
+  track: workshops
+  info_main: Announcement of selected workshops
+  info: Announcement of selected workshops
+  date: <del>December 4, 2017</del>
+
+
+workshops-proposals:
+  track: workshops
+  info_main: Submission of workshop proposals
+  info: Submission of workshop proposals
+  date: <del>November 23, 2017</del>
+  important: true
+
+
+
+
+
+
+
+
+
+### Workshop planning dates
+workshops-planning-submission:
+  track: workshops-planning
+  date:  Before March 25, 2018
+  info_main:  Paper submissions deadline
+  info:  Paper submissions deadline
+workshops-planning-notification:
+  track: workshops-planning
+  date:  Before end of April, 2018
+  info_main:  Paper acceptance notification
+  info:  Paper acceptance notification
+workshops-planning-due:
+  track: workshops-planning
+  date:  Before end of May, 2018
+  info_main:  Camera ready due
+  info:  Camera ready due
+workshops-planning-program:
+  track: workshops-planning
+  date:  Before mid-June, 2018
+  info:  Program available online
+  info_main:  Program available online
+workshops-planning-org:
+  track: workshops-planning
+  date:  Before mid-June, 2018
+  info-main:  List of organization details
+  info:  List of organization details
+
+

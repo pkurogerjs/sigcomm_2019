@@ -1,0 +1,95 @@
+# Special considerations for the index page:
+# - info: Workshop proposals due
+# - index page will show date only if important==true
+
+# All listed dates will appear in the specified order, so for chronological order, please place your items in a chronological order :D
+
+# info: general info field included in the corresponding site
+# info_main: the same info with additional text appearing in the home page
+# i.e., submission deadline for papers, but Main conference submission deadline for the home page to avoid confusing other submission deadlines...entendi?
+# HOWEVER, info_main will only appear on the main site if important:true is present!
+main-registration:
+  track: main
+  info_main: Abstract submission deadline of the main conference
+  info: Abstract submission deadline
+  date: January 24, 2019 23:59 UTC
+  important: true
+
+main-submission:
+  track: main
+  info_main: Paper submission deadline of the main conference
+  info: Paper submission deadline
+  date: January 31, 2019 23:59 UTC
+  important: true
+
+main-notification:
+  track: main
+  info_main: Reviews returned to authors of the main conference
+  info: Reviews returned to authors
+  date: May 10, 2019
+  important: true
+
+camera-ready:
+#  track: camera_ready
+  track: main
+  info_main: Camera-ready papers due
+  info: Camera-ready papers due
+  date: June 20, 2019
+  important: true
+
+main-program:
+  track: main
+  info: Conference
+  info_main: Conference
+  date: Week of August 19, 2019
+  important: true
+
+#workshops-notification:
+#  track: workshops
+#  info_main: Announcement of workshops CFPs
+#  info: Announcement of CFPs
+#  date: <del>December 22, 2017</del>
+#  important: true
+
+tutorial-submission:
+  track: tutorials
+  info_main: Submission deadline
+  info: Submission deadline
+  date: February 22, 2019
+  important: true
+
+tutorial-acceptance:
+  track: tutorials
+  info_main: Notification of acceptance
+  info: Notification of acceptance
+  date: March 10, 2019
+  important: true
+
+### Workshop planning dates
+workshops-planning-submission:
+  track: workshops-planning
+  date:  Before March 25, 2018
+  info_main:  Paper submissions deadline
+  info:  Paper submissions deadline
+workshops-planning-notification:
+  track: workshops-planning
+  date:  Before end of April, 2018
+  info_main:  Paper acceptance notification
+  info:  Paper acceptance notification
+workshops-planning-due:
+  track: workshops-planning
+  date:  Before end of May, 2018
+  info_main:  Camera ready due
+  info:  Camera ready due
+workshops-planning-program:
+  track: workshops-planning
+  date:  Before mid-June, 2018
+  info:  Program available online
+  info_main:  Program available online
+workshops-planning-org:
+  track: workshops-planning
+  date:  Before mid-June, 2018
+  info-main:  List of organization details
+  info:  List of organization details
+
+

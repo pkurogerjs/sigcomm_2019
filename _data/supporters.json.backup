@@ -1,0 +1,26 @@
+[
+  [10, "VDMS_Logo_secondary_three_lines.png", "https://www.verizondigitalmedia.com/", "verizon", 0, 840, 1200, "bronze"],
+  [10, "akamai.png", "https://www.akamai.com/", "akamai", 0, 195, 450,                     "bronze"],
+  [10, "netapp.jpeg", "https://www.netapp.com/", "netapp", 0, 478, 1200,                   "bronze"],
+  [10, "comcast.jpg", "https://www.comcast.com/", "comcast", 0, 263, 594,                  "bronze"],
+  [10, "nokia.jpg", "https://www.bell-labs.com/", "nokia", 0, 825, 217,                    "bronze"],
+
+  [100, "huawei.png", "https://www.huawei.com/", "huawei", 0, 406, 406,                    "gold"],
+  [100, "alibaba.jpg", "http://alibabagroup.com/en/global/home", "alibaba", 0, 600, 178,   "gold"],
+  [100, "google.png", "https://www.google.com/", "google", 0, 416, 140,                    "gold"],
+
+  [300, "cisco.png",    "https://www.cisco.com/", "cisco", 0, 200, 379,                    "platinum"],
+  [300, "facebook.png", "https://research.fb.com/", "facebook", 0, 713, 2026,              "platinum"],
+  [300, "ericsson.png", "https://ericsson.com/", "ericsson", 0, 116, 104,                  "platinum"],
+
+
+  [50, "amazon.png", "https://www.amazon.com/", "amazon", 0, 300, 120,                     "silver"],
+  [50, "microsoft.jpg", "https://www.microsoft.com/research", "microsoft", 0, 600, 250,    "silver"],
+
+  [5, "sig.png", "https://www.sigcomm.org", "sigcomm", 0, 843, 324,                        "travel_grant"],
+  [5, "nsf.jpg", "https://www.nsf.gov", "nsf", 0, 295, 298,                                "travel_grant"],
+  [5, "netflix.png", "https://www.netflix.com", "netflix", 0, 1800, 756,                   "travel_grant"],
+
+
+]
+
