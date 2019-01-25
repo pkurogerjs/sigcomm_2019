@@ -58,6 +58,8 @@ committees:
         affiliation: NTU
       - name: Te-yuan Huang
         affiliation: Netflix
+      - name: Kyle Jamieson
+        affiliation: Princeton
       - name: Keon Jang
         affiliation: MPI-SWS/Google
       - name: Mobin Javed
@@ -130,8 +132,6 @@ committees:
         affiliation: Harvard
       - name: Ben Zhao
         affiliation: U. Chicago
-      - name: Kyle Jamieson
-        affiliation: Princeton 
 ---
 
 [Contact the PC chairs](mailto:katerina.argyraki@epfl.ch,johnh@isi.edu?subject=[SIGCOMM 2019]){: data-role="button" class="button" }
