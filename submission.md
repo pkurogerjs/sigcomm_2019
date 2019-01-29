@@ -23,27 +23,26 @@ These are <span style="color:red">hard deadlines</span> and no extensions will b
 ## Paper Formatting
 All submissions must obey the following formatting requirements. 
 
-- Submit papers of no more than **<span style="color:red">twelve (12) single--spaced pages</span>**, including figures and tables, followed by as many pages as necessary for references and optional appendicies. Papers whose pre-reference content is longer than 12 pages will not be reviewed.
-- Appendices will not be considered in reviews, so we  caution
-authors to ensure that the core paper is complete and self-contained.
+- Paper bodies (all content before references and appendices) must be no more than **<span style="color:red">twelve (12) single--spaced pages</span>**, including figures and tables, followed by as many pages as necessary for references and optional appendicies. Papers whose pre-reference content is longer than 12 pages will not be reviewed.
+- Appendices will not be considered in reviews, so the paper body must be complete and self-contained.
 (For example, if the appendix provides details of a proof or experiment,
 the body should summarize the key result.)
 - The paper body must include some statement about ethical considerations. This could be simply the sentence "This work does not raise any ethical issues", or for a paper involving human subjects, the discussion may be more detailed.
-- Submit papers formatted for printing on Letter-sized (8.5” by 11”) paper. Paper text blocks must follow ACM guidelines: double-column, with each column 9.25” by 3.33”, 0.33” space between columns. Each column must use 10-point font or larger, and contain no more than 55 lines of text. 
-- It is your responsibility to ensure that your submission satisfies the above requirements. If you are using LaTeX, you can make use of [this template for ACM conference proceedings](https://github.com/scyue/ccp-sigcomm18). With this template you *must add "10pt" to the documentclass command to meet the submission requirements. (Unlike the official template, it only includes example for conference proceedings.)
+- Papers must be formatted for printing on Letter-sized (8.5” by 11”) paper. Paper text blocks must follow ACM guidelines: double-column, with each column 9.25” by 3.33”, 0.33” space between columns. Each column must use 10-point font or larger, and contain no more than 55 lines of text. 
+- It is your responsibility to ensure that your submission satisfies the above requirements. If you are using LaTeX, you may make use of [this template for ACM conference proceedings](https://github.com/scyue/ccp-sigcomm18). With the older versions of this template you *must add "10pt" to the documentclass command to meet the submission requirements. The current template sets 10pt by default. (Unlike the official template, it only includes example for conference proceedings.)
 
 Your goal as an author is to produce a clearly readable submission within the above constraints. Authors are strongly discouraged from violating the formatting requirements with the aim of including additional material: <span style="color:red">**submissions that violate the formatting requirements may not be reviewed**</span>. You can visually inspect a page-by-page report of your paper format using the same tool as the submission system via a separate [online form](https://www.sysnet.ucsd.edu/sigops/banal/index.php).
 
 After the submission deadline, we will use the same tool to check the conformance of papers. The format checking tool uses heuristics and can make mistakes. The PC chairs will manually inspect and possibly reject those papers with evident format violations. 
 
 Please make sure that your submitted paper satisfies the following:
-- List the submission number and the number of pages in your paper in the author block, e.g., “Paper #N, 14 pages”, beneath your title. Registering your title, abstract, etc., will provide a paper submission number. Per the anonymity guidelines, remember to remove any author names.
-- Provide an abstract of no more than 200 words.
-- Number the pages.
-- Submit papers in PDF (Portable Document Format) and ensure that they are compatible with Adobe Acrobat (English version). Other formats, including Postscript, will not be accepted. Avoid using non-standard fonts. The PC must be able to display and print your submission exactly as we receive it using only standard tools and printers, so we strongly suggest that you use only standard fonts that are embedded in the PDF file.
-- Ensure that the paper prints well on black-and-white printers, not color printers. Pay particular attention to figures and graphs in the paper to ensure that they are legible without color. Explicitly using grayscale colors will provide best control over how graphs and figures will print on black-and-white printers.
-- Ensure that labels and symbols used in graphs and figures are legible, including the font sizes of tick marks, axis labels, legends, etc.
-- Limit the file size to less than 15 MB. Contact the PC chairs if you have a file larger than 15 MB.
+- You must list the submission number and the number of pages (ideally) in your paper in the author block, e.g., “Paper #N, 12 pages body, 14 pages total”, beneath your title. Registering your title, abstract, etc., will provide a paper submission number. Per the anonymity guidelines, you must remove any author names.
+- You must provide an abstract, and it should be of no more than 200 words.
+- You must number the pages.
+- You must submit papers in PDF (Portable Document Format) and ensure that they are compatible with Adobe Acrobat (English version). Other formats, including Postscript, will not be accepted. Avoid using non-standard fonts. The PC must be able to display and print your submission exactly as we receive it using only standard tools and printers, so we strongly suggest that you use only standard fonts that are embedded in the PDF file.
+- You should ensure that the paper prints well on black-and-white printers, not color printers. Pay particular attention to figures and graphs in the paper to ensure that they are legible without color. Explicitly using grayscale colors will provide best control over how graphs and figures will print on black-and-white printers.
+- You should ensure that labels and symbols used in graphs and figures are legible, including the font sizes of tick marks, axis labels, legends, etc.
+- You should limit the file size to less than 15 MB. Contact the PC chairs if you have a file larger than 15 MB.
 
 
 ## Paper Registration
