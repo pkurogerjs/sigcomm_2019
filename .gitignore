@@ -4,4 +4,3 @@ Gemfile.lock
 _site
 .sass-cache
 *.pyc
-_config.yml
