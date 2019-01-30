@@ -151,9 +151,9 @@ menu:
 #  - name: MECOMM
 #    url: /workshop-mecomm.html
 #    icon: fa-circle
-#  - name: NEAT
-#    url: /workshop-neat.html
-#    icon: fa-circle
+  - name: NEAT
+    url: /workshop-neat.html
+    icon: fa-circle
 #  - name: WTMC
 #    url: /workshop-wtmc.html
 #    icon: fa-circle

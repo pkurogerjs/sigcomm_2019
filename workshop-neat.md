@@ -1,94 +1,76 @@
 ---
 layout: default
-title: "ACM SIGCOMM 2018 Workshop on Networking for Emerging Applications and Technologies (NEAT 2018)"
+title: "ACM SIGCOMM 2019 Workshop on Networking for Emerging Applications and Technologies (NEAT 2019)"
 group: Workshops
 
 dates:
     - info: Workshop
-      date: August 20, 2018
-    - info: List of organization details
-      date: Mid-June, 2018
-    - info: Program available online
-      date: Mid-June, 2018
+      date: August 19 or 23 20, 2019
     - info: Camera-ready deadline
-      date: June 10, 2018
+      date: TBA
     - info: Paper acceptance notification
-      date: May 14, 2018
-    - info: Submission deadline (firm)
-      date: <del>April 07, 2018</del>
+      date: April 29, 2019
+    - info: Submission deadline
+      date: March 24, 2019
+    - info: Paper registration deadline
+      date: March 17, 2019
 
 committees:
     - role: General Chairs
       people:
-       - name:        Jiasi Chen
-         affiliation: UCR, USA
-       - name:        Bingyang Liu
-         affiliation: Huawei, China
+       - name:        K.K. Ramakrishnan
+         affiliation: University of California, Riverside, USA
        - name:        Kiran Makhijani
-         affiliation: Huawei, USA   
+         affiliation: Future Networks, Futurewei, Santa Clara, USA
 
     - role: Program Committee Chairs
       people:
        - name:        Richard Li
-         affiliation: Huawei, USA
+         affiliation: Future Networks, Futurewei, Santa Clara, USA
        - name:        Dipankar Raychaudhuri
-         affiliation: Rutgers, USA
-    
-    - role: Program Committee Members
+         affiliation: Rutgers,USA 
+       - name:        Stuart Clayman
+         affiliation: University College London,UK
+
+    - role: Technical Program Committee 
       people:
-       - name:        Francesco Bronzino  
-         affiliation: Inria, France
-       - name:        Jiasi Chen
-         affiliation: UCR, USA
-       - name:        Sajal Das
-         affiliation: Missouri S&T, USA
-       - name:        Varun Gupta 
-         affiliation: AT&T, USA
-       - name:        Mansoor Hanif
-         affiliation: BT, UK
-       - name:        Tao Huang
-         affiliation: BUPT, China
-       - name:        Rüdiger Kays
-         affiliation: TU Dortmund, Germany
-       - name:        Diego López
-         affiliation: Telefónica, Spain
-       - name:        Marie-José Montpetit
-         affiliation: TriangleVideo, USA
-       - name:        David Meyer
-         affiliation: Huawei, USA
-       - name:        Thomas Nadeau
-         affiliation: UMass Lowell, USA
-       - name:        Dave Oran
-         affiliation: Cisco, USA
-       - name:        Fabio Pianese
-         affiliation: Nokia, France
-       - name:        Yingzhen Qu
-         affiliation: Huawei, USA
-       - name:        Byrav Ramamurthy
-         affiliation: UNL, USA
-       - name:        Kevin Smith
-         affiliation: Vodafone, UK
-       - name:        Don Towsley
-         affiliation: UMass, USA
-       - name:        Yanyong Zhang
-         affiliation: Rutgers, USA
+       - name:        Feng Qian  
+         affiliation: UMN, USA
+       - name:        Yong Liu
+         affiliation: NYU, USA
+       - name:        Marinos Charalambedes
+         affiliation: UCL, UK 
+       - name:        Daphne Tuncer
+         affiliation: Imperial College. UK
+       - name:        Muge Sayit
+         affiliation: Ege University, Turkey 
+       - name:        Lefteris Mamatas
+         affiliation: University of Macedonia, Greece 
+       - name:        Panagiotis Papadimitriou
+         affiliation: University of Macedonia, Greece 
+       - name:        Jo Zhang
+         affiliation: Fujitsu Laboratories, USA
+       - name:        Walter Ceroni
+         affiliation: University of Bologna, Italy 
+       - name:        Barbara Martini
+         affiliation: CNIT, Italy 
+       - name:        Stefano Secci
+         affiliation: LIP6, France 
+       - name:        Flavio Esposito
+         affiliation: Saint Louis University, USA 
+       - name:        Javier Rubio Loyola
+         affiliation: CINVESTAV, Mexico
+       - name:        Francesco Tusa
+         affiliation: UCL, UK 
+       - name:        Martin Serrano
+         affiliation: DERI, Ireland
+       - name:        Larysa Globa
+         affiliation: Kiev Polytechnic Institute, Ukraine 
+       - name:        Federica Paganelli
+         affiliation: University of Florence, Italy 
 
   
-         
-    - role: Steering Committee
-      people:
-       - name:        Mansoor Hanif
-         affiliation: BT, UK
-       - name:        T.V. Lakshman
-         affiliation: Nokia, USA
-       - name:        Diego López
-         affiliation: Telefónica, Spain
-       - name:        David Meyer
-         affiliation: Huawei, USA
-       - name:        Ramesh Rao
-         affiliation: Calit2 and UCSD, USA
-       - name:        Kevin Smith
-         affiliation: Vodafone, UK                  
+                   
 ---
 
 # {{ page.title }}
@@ -99,30 +81,43 @@ committees:
 {% include program-online.html type="neat" %}
 
 ### Call for Papers
-This workshop aims to provide a forum for both industry and academia to exchange  ideas about new network architectures, technologies and protocols specifically in the context of emerging applications such as those promised by 5G, with a particular focus on achieving accurate prescribed latency, high throughput, and meeting service level objectives in complex and large-scale networks. 
-The goal is to explore possibilities beyond the traditional statistical multiplexing-based internet architecture, protocols, network resource allocation, control and packet scheduling in favor of new approaches such as deterministic packet delivery techniques, data-driven adaptation, in large scale networks, for emerging applications such as vehicular networks, tactile networks, industrial networks, and AR/VR media delivery. Participants will be able to share their viewpoints, the findings, the latest research, and their project descriptions and goals. 
 
+The 2nd NEAT workshop aims to provide a forum for both industry and academia to exchange ideas about network architectures, technologies, and protocols specifically in the context of emerging applications, with a particular focus on internetworking technologies that achieve accurate prescribed latency, high throughput, and meet service level objectives in complex and high scale networks.
+
+Beyond the Internet of today, applications in Industrial Internet, Vehicular Networks, Tactile Internet, etc. are soon going to be the mainstream. A non-exhaustive list of such applications are Smart cities, Smart health, Smart agriculture, Industrial automation Remote-controlled operations, etc.; The insatiable demand of network resources from such new and emerging applications continue to grow and in the near future networks will be limited by how much and how fast can they deliver services within the framework of currently available technologies. 
+
+“New Media” based applications are foreseen as well. They include not only Augmented Reality (AR) and Virtual Reality (VR) but hologram-based applications demanding a new communication methodology called Holographic Type Communications (HTC). Collectively they are going to influence not just the entertainment and gaming industry but are expected to inspire the next generation of immersive and visualization technologies in the fields of personal & social communications, education, design, medicine etc.
+
+Overall, applications are advancing to be lot more immersive, remotely controlled, and fully automated. The interactions in future society, industry and manufacturing comprises of robotic automation of both mundane and sophisticated tasks, real-time interactive control between digital replica and their real counterparts. These applications mandate very tight resource constraints of reliability, performance, throughput, short latencies, etc. as well as programmability, customizability, and security. The challenge is a non-trivial one and asks researchers to think beyond traditional techniques of coarse-grained quality of service, congestion / management / traffic engineering, and flow control.
+
+These applications may demand new kinds of absolute and precise communication attributes such as on-time, in-time and coordinated guarantees of services or alternatively, may allow networks with certain entropy or qualitative attributes such as tolerable degradation, partial packet reliability, recoverable loss of information as long as networks ensure that mandatory information is delivered intact.
+
+The goal is to explore possibilities such as those beyond statistical resource scheduling in favor of deterministic packet delivery techniques, exploring new precision-based packet delivery, algorithms, switching and multiplexing technologies where ever necessary in large scale networks. Potential authors will be able to share their viewpoints, the latest research and project findings.
+ 
 ### Topics of Interest
-We solicit original, previously unpublished ideas on research/engineering work, position papers, and/or work-in-progress papers in the form of extended abstracts. We further encourage papers that propose new research directions or that could stimulate lively debate at the workshop. 
+We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We further encourage papers that propose new research directions or could stimulate lively debate at the workshop. 
+
 We invite submissions on a wide range of topics of interest, including, but not limited to:
-
-- New network architectures, technologies and protocols, evolutionary or disruptive, for future applications
-- Convergence and optimizations of protocols for industrial, tactile or vehicular networks
-- Techniques and solutions for deterministic services in industrial, tactile or vehicular networks
+- Architecture and frameworks for delivering high precision of services
+- Convergence and optimizations of protocols for Industrial and Tactile networks
+- Solutions for deterministic services in Industrial and Tactile networks
+- Investigations, survey and techniques in data plane for Industrial and Tactile internet.
 - Network challenges and requirements for emerging, resource-sensitive applications
-- Architecture and protocols for ultra-reliable packet delivery at low latency
-- Mechanisms to maximize link utilization for high-throughput applications
+- Mechanisms to support ultra-low-latency in packet based networks
+- Internetworking frameworks for deterministic multi-access edge applications 
+- Maximizing link utilization for high-throughput applications
+- Architecture and protocols for reliable packet delivery
 - Network security and privacy issues in Industrial and Tactile internet
-- Resource allocation mechanisms for deterministic and reliable data transmission
-- Architectures to enable edge computing and its seamless integration with remote clouds
-- New network resource allocation based on data-driven adaptation and machine learning
-- Quality of Services and Experience of Service  guarantees: the key metrics that will allow future networks to meet industry demands
-
+- Resource allocation mechanisms deterministic and reliable data transmission
+- Requirements and challenges in Holographic type communications 
+- Networking requirements and challenges of VR/AR
+- High-throughput transport for VR/AR and Holographic type communications
+- Adaptive video streaming for network/user dynamics
+- Video analytics and smart offloading for VR/AR
+- Measurement study of existing VR/AR and HTC applications
 
 ### Submission Instructions
-Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must be at most six (6) pages long, including all figures, tables, references, and appendices in two-column 10pt ACM format. Papers must include author’s names and affiliations for single-blind peer reviewing by the TPC. Authors of accepted papers are expected to present their papers at the workshop.  Financial assistances will be provided to student authors to cover their travel expenses, with the specific process and policy being coordinated and approved by the organizers. The selected papers will be included in its proceedings and published in the ACM Digital Library. 
-
-Please submit your paper via [https://sigcomm18neat.hotcrp.com/](https://sigcomm18neat.hotcrp.com/).
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the  [2018 ACM consolidated template package](https://www.acm.org/publications/proceedings-template)[ (you can also use this barebone LaTeX template)](https://github.com/conference-websites/acmart-sigproc-template).The font size must be 9 points. The length of the final paper with all its content except references must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop. 
 
 ### Authors Take Note
 {% include workshop_authorstakenote.html %}
@@ -142,4 +137,3 @@ Please submit your paper via [https://sigcomm18neat.hotcrp.com/](https://sigcomm
 
 {% include committees.html committees=page.committees %}
 
-[Contact the NEAT chairs](mailto:renwei.li@huawei.com,ray@winlab.rutgers.edu?subject=[NEAT 2018]){: data-role="button" class="button" }
