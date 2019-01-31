@@ -76,10 +76,6 @@ committees:
 # {{ page.title }}
 
 
-### Workshop Program
-
-{% include program-online.html type="neat" %}
-
 ### Call for Papers
 
 The 2nd NEAT workshop aims to provide a forum for both industry and academia to exchange ideas about network architectures, technologies, and protocols specifically in the context of emerging applications, with a particular focus on internetworking technologies that achieve accurate prescribed latency, high throughput, and meet service level objectives in complex and high scale networks.
