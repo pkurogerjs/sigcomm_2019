@@ -148,9 +148,9 @@ menu:
 #  - name: IoT S&P
 #    url: /workshop-iotsp.html
 #    icon: fa-circle
-#  - name: MECOMM
-#    url: /workshop-mecomm.html
-#    icon: fa-circle
+  - name: EPIQ
+    url: /workshop-epiq.html
+    icon: fa-circle
   - name: NEAT
     url: /workshop-neat.html
     icon: fa-circle
