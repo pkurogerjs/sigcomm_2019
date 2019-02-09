@@ -5,13 +5,13 @@ group: Workshops
 
 dates:
     - info: Workshop
-      date: August 19 or 23 20, 2019
+      date: August 19 or 23, 2019
     - info: Camera-ready deadline
-      date: TBA
+      date: June 20, 2019
     - info: Paper acceptance notification
       date: April 29, 2019
     - info: Submission deadline
-      date: March 24, 2019
+      date: March 25, 2019
     - info: Paper registration deadline
       date: March 17, 2019
 
@@ -21,60 +21,84 @@ committees:
        - name:        K.K. Ramakrishnan
          affiliation: University of California, Riverside, USA
        - name:        Kiran Makhijani
-         affiliation: Future Networks, Futurewei, Santa Clara, USA
+         affiliation: Future Networks, Futurewei, CA, USA
 
     - role: Program Committee Chairs
       people:
        - name:        Richard Li
-         affiliation: Future Networks, Futurewei, Santa Clara, USA
+         affiliation: Future Networks, Futurewei, CA, USA
        - name:        Dipankar Raychaudhuri
-         affiliation: Rutgers,USA 
+         affiliation: Winlab, Rutgers University, New Jersey, USA
        - name:        Stuart Clayman
-         affiliation: University College London,UK
-
+         affiliation: University College London, London, UK
+     
     - role: Technical Program Committee 
       people:
-       - name:        Feng Qian  
-         affiliation: UMN, USA
-       - name:        Yong Liu
-         affiliation: NYU, USA
-       - name:        Marinos Charalambedes
-         affiliation: UCL, UK 
+       - name:        Barbara Martinii
+         affiliation: CNIT, Italy
        - name:        Daphne Tuncer
          affiliation: Imperial College. UK
-       - name:        Muge Sayit
-         affiliation: Ege University, Turkey 
-       - name:        Lefteris Mamatas
-         affiliation: University of Macedonia, Greece 
-       - name:        Panagiotis Papadimitriou
-         affiliation: University of Macedonia, Greece 
-       - name:        Jo Zhang
-         affiliation: Fujitsu Laboratories, USA
-       - name:        Walter Ceroni
-         affiliation: University of Bologna, Italy 
-       - name:        Barbara Martini
-         affiliation: CNIT, Italy 
-       - name:        Stefano Secci
-         affiliation: LIP6, France 
+       - name:        Diego R. Lopez
+         affiliation: Telefonica, Spain
+       - name:        Federica Paganelli
+         affiliation: University of Florence, Italy
+       - name:        Feng Qian
+         affiliation: UMN, USA
        - name:        Flavio Esposito
-         affiliation: Saint Louis University, USA 
+         affiliation: Saint Louis University, USA
+       - name:        Francesco Tusa
+         affiliation: UCL, UK
+       - name:        Imen Grida Ben Yahia
+         affiliation: Orange, France
        - name:        Javier Rubio Loyola
          affiliation: CINVESTAV, Mexico
-       - name:        Francesco Tusa
+       - name:        Jo Zhang
+         affiliation: Fujitsu Laboratories, USA
+       - name:        Larysa Globa
+         affiliation: Kiev Polytechnic Institute, Ukraine 
+       - name:        Lefteris Mamatas
+         affiliation: University of Macedonia, Greece 
+       - name:        Lixia Zhang
+         affiliation: UCLA, USA
+       - name:        Marinos Charalambedes
          affiliation: UCL, UK 
        - name:        Martin Serrano
          affiliation: DERI, Ireland
-       - name:        Larysa Globa
-         affiliation: Kiev Polytechnic Institute, Ukraine 
-       - name:        Federica Paganelli
-         affiliation: University of Florence, Italy 
+       - name:        Mehmet Toy
+         affiliation: Verizon, USA
+       - name:        Mohamed Faten Zhani
+         affiliation: l'École de Technologie Supérieure (ÉTS), Canada
+       - name:        Mostafa Essa
+         affiliation: Vodafone, Egypt
+       - name:        Muge Sayit
+         affiliation: Ege University, Turkey 
+       - name:        Ning Wang
+         affiliation: University of Surrey, UK
+       - name:        Panagiotis Papadimitriou
+         affiliation: University of Macedonia, Greece 
+       - name:        Pedro Martinez-Julia
+         affiliation: NICT, Tokyo
+       - name:        Rui Aguiar
+         affiliation: Instituto de Telecomunicações, Portugal
+       - name:        Stefano Secci
+         affiliation: LIP6, France 
+       - name:        Stewart Bryant
+         affiliation: University of Surrey, UK
+       - name:        Tao Huang
+         affiliation: BUPT, China
+       - name:        Tim Wauters
+         affiliation: University of Gent, Belgium
+       - name:        TV Lakshman
+         affiliation: Nokia Bell Labs, USA
+       - name:        Walter Cerroni 
+         affiliation: University of Bologna, Italy
+       - name:        Yong liu
+         affiliation: New York University, USA           
 
-  
                    
 ---
 
 # {{ page.title }}
-
 
 ### Call for Papers
 
@@ -103,7 +127,7 @@ We invite submissions on a wide range of topics of interest, including, but not 
 - Internetworking frameworks for deterministic multi-access edge applications 
 - Maximizing link utilization for high-throughput applications
 - Architecture and protocols for reliable packet delivery
-- Network security and privacy issues in Industrial and Tactile internet
+- Network security and privacy issues in Industrial and Tactile interne
 - Resource allocation mechanisms deterministic and reliable data transmission
 - Requirements and challenges in Holographic type communications 
 - Networking requirements and challenges of VR/AR
@@ -113,7 +137,7 @@ We invite submissions on a wide range of topics of interest, including, but not 
 - Measurement study of existing VR/AR and HTC applications
 
 ### Submission Instructions
-Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the  [2018 ACM consolidated template package](https://www.acm.org/publications/proceedings-template)[ (you can also use this barebone LaTeX template)](https://github.com/conference-websites/acmart-sigproc-template).The font size must be 9 points. The length of the final paper with all its content except references must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop. 
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the  [2018 ACM consolidated template package](https://www.acm.org/publications/proceedings-template)[ (you can also use this barebone LaTeX template)](https://github.com/conference-websites/acmart-sigproc-template). The **font size must be 9 points**. The length of the final paper with all its content except references **must not exceed 6 pages**. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop. 
 
 ### Authors Take Note
 {% include workshop_authorstakenote.html %}
@@ -132,4 +156,3 @@ Submissions must be original, unpublished work, and not under consideration at a
 ### Committees
 
 {% include committees.html committees=page.committees %}
-
