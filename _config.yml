@@ -163,9 +163,9 @@ menu:
 #  - name: KBNets
 #    url: /workshop-kbnets.html
 #    icon: fa-adjust
-#  - name: NetAI
-#    url: /workshop-netaim.html
-#    icon: fa-circle
+  - name: NetAI
+    url: /workshop-netaim.html
+    icon: fa-circle
 #  - name: SecSoN
 #    url: /workshop-secson.html
 #    icon: fa-circle

@@ -1,159 +1,133 @@
 ---
 layout: default
-title: "ACM SIGCOMM 2018 Workshop on Network Meets AI & ML (NetAI 2018)"
+title: "ACM SIGCOMM 2019 Workshop on Network Meets AI & ML (NetAI 2019)"
 group: Workshops
 
 dates:
-    - info: Workshop
-      date: August 24, 2018
-    - info: List of organization details
-      date: Mid-June, 2018
-    - info: Program available online
-      date: Mid-June, 2018
-    - info: Camera-ready deadline
-      date: June 10, 2018
+    - info: Paper registration deadline
+      date: March 29, 2019 11:59 PST
+    - info: Paper submission deadline
+      date: April 5, 2019 11:59 PST
     - info: Paper acceptance notification
-      date: <del>May 07, 2018</del>
-    - info: Submission deadline
-      date: <del>April 07, 2018</del>
-
+      date: May 17, 2019 11:59 PST
+    - info: Camera-ready deadline
+      date: June 20, 2019 11:59 PST
 
 committees:
     - role: General Chairs
       people:
-       - name:        Jon Crowcroft
-         affiliation: Cambridge, UK
+       - name:        Marco Canini
+         affiliation: KAUST
+       - name:        Jon Crowcraft 
+         affiliation: University of Cambridge
+       - name:        Nick Feamster
+         affiliation: Princeton University
+       - name:        Jennifer Rexford
+         affiliation: Princeton University
+       - name:        Walter Willinger
+         affiliation: NIKSUN Inc.
        - name:        Nicholas Zhang
-         affiliation: Huawei, China
+         affiliation: Huawei
+
     
     - role: Program Committee Chairs
       people:
-       - name:        Marco Canini
-         affiliation: KAUST, KSA
-       - name:        Chen Tian
-         affiliation: NJU, China
+       - name:        Theophilus Benson 
+         affiliation: Brown University
+       - name:        Arpit Gupta
+         affiliation: UC Santa Barbara
+       - name:        Junchen Jiang
+         affiliation: University of Chicago
          
     - role: Program Committee Members
       people:
-       - name:        Rocky Chang
-         affiliation: PolyU, China     
-       - name:        Hanhua Chen
-         affiliation: HUST, China
-       - name:        Jon Crowcroft
-         affiliation: Cambridge, UK
-       - name:        Lixin Gao
-         affiliation: UMass, USA
-       - name:        Deke Guo
-         affiliation: NUDT, China      
-       - name:        Qun Huang
-         affiliation: CAS, China
-       - name:        Juncheng Jiang
-         affiliation: UChicago, USA      
-       - name:        David Koll
-         affiliation: GAU, Germany
-       - name:        Dan Li
-         affiliation: Tsinghua, China       
-       - name:        John C.S. Lui
-         affiliation: CUHK, China        
-       - name:        David Meyer
-         affiliation: Huawei, USA       
-       - name:        Peter Pietzuch
-         affiliation: Imperial, UK        
-       - name:        K. K. Ramakrishnan
-         affiliation: UCR, USA      
-       - name:        Timothy Wood
-         affiliation: GWU, USA       
-       - name:        Fengyuan Xu
-         affiliation: NJU, China       
-       - name:        Henry Xu
-         affiliation: CityU, China         
-       - name:        Eiko Yoneki
-         affiliation: Cambridge, UK
-       - name:        Nicholas Zhang
-         affiliation: Huawei, China      
-       - name:        Ying Zhang
+       - name:        Mohammad Alizadeh 
+         affiliation: MIT, USA
+       - name:        Behnaz Arzani 
+         affiliation: Microsoft Research, USA
+       - name:        Sujata Banerjee 
+         affiliation: VMWare, USA
+       - name:        Marco Canini 
+         affiliation: KAUST, Saudi Arabia
+       - name:        Aakanksha Chowdhery 
+         affiliation: Google Brain, USA
+       - name:        Jon Crowcraft 
+         affiliation: University of Cambridge, UK
+       - name:        Nick Feamster 
+         affiliation: Princeton, USA
+       - name:        Chuanxiong Guo 
+         affiliation: Bytedance, USA
+       - name:        Xin Jin 
+         affiliation: John Hopkins Univ, USA
+       - name:        Srikanth Kandula 
+         affiliation: Microsoft Research, USA
+       - name:        Changhoon Kim 
+         affiliation: Barefoot, USA
+       - name:        Bryan Larish 
+         affiliation: Verizon, USA
+       - name:        Dan Li 
+         affiliation: Tsinghua Univ, China
+       - name:        Ihsan Ayyub Qazi 
+         affiliation: LUMS, Pakistan
+       - name:        Matthew Roughan 
+         affiliation: University of Adelaide, Australia
+       - name:        Rijurekha Sen 
+         affiliation: IIT Delhi, India
+       - name:        Michael Shapira 
+         affiliation: Hebrew University of Jerusalem, Israel
+       - name:        Chen Tian 
+         affiliation: Nanjing University, China
+       - name:        Shobha Venkatraman 
+         affiliation: AT&T, USA
+       - name:        Walter Willinger 
+         affiliation: NIKSUN Inc., USA
+       - name:        Ying Zhang 
          affiliation: Facebook, USA
-       - name:        Zhi-Li Zhang
-         affiliation: UMN, USA
- 
+       - name:        Ben Zhao 
+         affiliation: University of Chicago, USA
 ---
 
 # {{ page.title }}
 
-## Workshop Program
-
-{% include program-online.html type="netai" %}
-
-### Overview
-Distributed processing systems for Artificial Intelligence (AI) and Machine Learning (ML), such as Hadoop, Spark, Storm, GraphLab, TensorFlow etc., are widely used by industry. On the one hand, networking is a well-known bottleneck for AI & ML systems. For example, traffic patterns experienced by ML applications during training can be optimized using techniques such as parameter servers and vertex-cut for graphs. New technologies are also being embedded in the network; examples include RDMA over converged Ethernet (RoCE) and GPU direct. On the other hand, the ever increasing complexity of networks makes effective monitoring, modeling, auditing, and overall control of network traffic difficult if not impossible. Hence there is a need for more powerful methods to solve the challenges faced in network design, deployment, and management. AI & ML have been successfully applied to various perceptual domains, including computer vision, natural language processing, and voice recognition. In addition, ML techniques are showing impressive results in new domains such as medicine, finance and astronomy, to name a few. This success in non-perceptual domains suggests that ML techniques could be successfully applied to problems in the network space. The networking community should look upon all these challenges as their opportunities in the Machine Learning era.
-
-
 ### Call for Papers
-NetAI 2018 provides a venue for presenting innovative ideas to discuss future research agendas in computer networking of/by/for AI & ML systems. We look for submissions of previously unpublished work on topics including, but not limited to, the following: 
+In recent years, we have witnessed: (1) development of fully programmable, protocol-independent data planes and languages for programming them; and (2) the emergence of new platforms, tools, and algorithms for Artificial Intelligence (AI) and Machine Learning (ML).  These technological advancements and scientific innovations create exciting new opportunities. On the one hand, the scientific innovations in the area of AI/ML have the potential to simplify network management (monitoring as well as control). On the other hand, recent advancements in the area of networking technology have the potential to improve the performance of AI and ML systems.  
 
-- telemetry in DC
-- network measurement
-- closed loop control
-- AI &amp; ML algorithm for network scheduling and control
-- self learning network architecture and system
-- services identify with AI &amp; ML
-- traffic engineer with AI &amp; ML
-- congestion control based on AI &amp; ML
-- network security based on AI &amp; ML
-- network verification
-- network QoS based on AI &amp; ML
-- measurement and analysis of network traffic for AI &amp; ML systems
-- optimizing AI &amp; ML systems with new networking options (e.g., RDMA, NVLink)
-- AI &amp; ML application-driven networking optimization (e.g., MPI offload)
-- networking AI &amp; ML computation with large-scale storage technologies (e.g., NVMe over Fabric, FCoE)
-- networking for distributed ML systems
-- networking for large-scale distributed graph processing systems
-- new network functionality for AI &amp; ML system ( e.g., computation in network )
-- application-driven network architecture design
+**AI/ML for Networking.** AI & ML have been successfully applied to various perceptual domains, including computer vision, natural language processing, and voice recognition. In addition, ML techniques are showing impressive results in new domains such as medicine, finance, and astronomy, to name a few. This success in non-perceptual domains suggests that ML techniques could be successfully applied to simplify network management. For at least a decade, networking researchers, equipment vendors, and Internet service providers alike have argued for “autonomous” or “self-driving” networks, where network management and control decisions are made in real time and in an automated fashion. Yet, building such “self-driving” networks that are practically deployable has largely remained unrealized.  The coupling of the programmable control of software-defined networking (SDN) with scientific innovations in AI and ML promises unprecedented opportunities for querying high-volume and high-velocity, distributed streaming data at scale; this new technical capability can provide the necessary information to the many different network monitoring and control tasks that self-driving networks should perform automatically and autonomously. Building a self-driving network is one of the “grand challenges” of networking research today. Realizing this vision will require incorporating the collective expertise and input from the networking research community.
 
-### Keynotes
-<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl ui-listview ui-listview-inset ui-corner-all ui-shadow ui-group-theme-a">
-              <li data-icon="false" class="ui-li-static ui-body-inherit ui-last-child">
-                <div class="ui-grid-a">
-                  <div class="ui-block-a">
-                    <h2>
-                      <em>Balaji Prabhakar</em>
-                    </h2>
-                  </div>
-                  <div class="ui-block-b">
-                    <p>Stanford, USA</p>
-                  </div>
-                </div>
-              </li>
-              <li data-icon="false" class="ui-li-static ui-body-inherit ui-last-child">
-                <div class="ui-grid-a">
-                  <div class="ui-block-a">
-                    <h2>
-                      <em>Chuanxiong Guo</em>
-                    </h2>
-                  </div>
-                  <div class="ui-block-b">
-                    <p>ByteDance, China</p>
-                  </div>
-                </div>
-              </li>
-            </ul>
+**Networking for AI/ML.** Distributed processing systems for Artificial Intelligence (AI) and Machine Learning (ML), such as Hadoop, Spark, Storm, GraphLab, TensorFlow etc., are widely used by industry. Networking is a well-known bottleneck for AI & ML systems. Though the recent technological advances, such as reconfigurable switches, programmable NICs, RDMA- over-converged Ethernet (RoCE) and GPU direct, etc., provide exciting opportunities to improve the performance of AI and ML solutions, but the ever-increasing complexity of networks composed of a heterogeneous set of targets makes effective monitoring, modeling, auditing, and overall control of network traffic difficult if not impossible. Hence there is a need for more powerful methods to solve the challenges faced in the design, deployment, and management of networks for distributed processing systems for AI and ML. 
 
+This workshop will provide a forum for networking researchers to present and share their latest research on building self-driving networks and coupling the technological advances in networking with scientific innovations in AI and ML. This workshop seeks contributions from experts in areas such as network programming, formal methods, control theory, distributed systems, machine learning, data science, data structures and algorithms, and optimization who share in the excitement of realizing the vision of self-driving networks as well as improving the performance of AI and ML solutions. 
+ 
+### Topics of Interest
 
+- Design and implementation of systems for flexible and scalable network monitoring
+- Design and implementation of closed-loop systems (modular) that use monitoring to drive network control (e.g., congestion control, TE, QoE, QoS, etc.) with minimal human intervention
+- Unified programming languages/abstractions for expressing both network monitoring (streaming as well as offline) and control tasks
+- Algorithms to train learning models for inferring network attacks, device/service fingerprinting, congestion, failures, QoE metrics, etc. in (real time) at scale
+- New data structures, algorithms, network protocols, and switch architectures for storing and/or processing network monitoring data (single-site and/or distributed settings)
+- Query-planning algorithms to scale the execution of network-monitoring queries
+- Techniques to collect and analyze network data in a privacy-preserving manner
+- Learning models to capture the relationship between network events and control actions
+- Design data structures and algorithms for consistently and correctly updating the distributed states (e.g., forwarding table entries) 
+- Examples of design choices informed by control-theoretic findings (e.g., hard limits, unavoidable tradeoffs)
+- New use cases for self-driving networks in DCs, WANs, IXPs, wireless networks, cloud networks, CDNs, home networks, etc.
+- Case studies demonstrating (dis)advantages of choosing AI/ML techniques for networking over more traditional ones
+- New topology, algorithms, network protocols, and switch architectures for AI/ML applications
+- Techniques to optimize distributed AI, ML and graph processing algorithms/systems with new networking options (e.g., PISA switches,  SmartNICs, RDMA, NVLink, etc.)
+- Measurement and analysis of network traffic for AI & ML systems
         
-
 ### Submission Instructions
-Submission implies the willingness of at least one author to attend the workshop and present the paper. Accepted papers will be included in the ACM SIGCOMM conference proceedings. Workshop organizers reserve the right to exclude a paper from distribution after the workshop if the paper is not presented at the conference. Submitted papers should contain original material that have not be previously published, nor currently submitted for consideration elsewhere. All submissions should be written in English, with a maximum length limit of 6 printed pages, including all the figures, references and appendices. The ACM SIGCOMM LaTeX and Microsoft Word templates, as well as related information, can be found at the [ACM SIG Proceedings website](https://www.acm.org/publications/proceedings-template).
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must be at most six (6) pages long, including all figures, tables, references, and appendices in two-column 10pt ACM format. This six-page limit does not include the reproducibility section (see below). Papers must include authors names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop. Please submit your paper via https://netai19.hotcrp.com.
 
-Specifically, please note the following format requirements:
+### Research Reproducibility
 
-- All papers submitted will be peer-reviewed (single-blind) and evaluated based on their suitability (i.e., within the workshop scope), novelty, and merit.
-- All papers must be submitted in Portable Document Format (PDF) electronically. Whatever text processor or formatter you use to write your paper (LaTeX, Microsoft Word, FrameMaker, etc.), please convert the output to PDF before submission.
-- Submissions must be limited to **6 pages**, single-spaced, double-column, with each column 9.25” by 3.33”, 0.33” space between columns, use at least a 10pt font, and be correctly formatted to be printed on letter-sized (8.5” by 11”) paper. <span style="color:red">**Submissions that violate the formatting requirements may not be reviewed**</span>. 
-- We must be able to print your paper once it is submitted. Therefore, all fonts used in the paper MUST be embedded in the submitted PDF file.
-- The paper must be in a state where it can be printed clearly on standard black-and-white printers. Reviewers are not required to view your paper in color.
+As the interest in coupling networking and AI/ML is growing, we recognize that reproducible work becomes ever more important, in particular, due to the somewhat inherent lack of interpretability associated with ML methods. 
 
-Please submit your paper via [https://sigcomm18netaim.hotcrp.com/](https://sigcomm18netaim.hotcrp.com/) 
+- To encourage reproducibility,  authors are allowed an additional **but optional** half a page (i.e., a single (1) column) in addition to the six pages. This additional space is meant to be used to explicitly discuss the reproducibility and interpretability of their solution.  In general, all authors are encouraged to consult the [reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) to verify that their submission is reproducible. 
+
+- In NetAI, we want to encourage authors to go the extra mile and release their research artifacts. We plan to reward the reproducible work with special [ACM badging](https://www.acm.org/publications/policies/artifact-review-badging). All the accepted papers at the workshop are eligible for artifacts review. 
+
+**Note:** While NetAI encourages reproducibility, the reviewers will not place any additional preferences, while reviewing,  towards papers with a reproducibility section.
 
 ### Authors Take Note
 {% include workshop_authorstakenote.html %}
@@ -174,4 +148,4 @@ Please submit your paper via [https://sigcomm18netaim.hotcrp.com/](https://sigco
 
 {% include committees.html committees=page.committees %}
 
-[Contact the NetAIM chairs](mailto:jon.crowcroft@cl.cam.ac.uk,nicholas.zhang@huawei.com,tianchen@nju.edu.cn,marco@kaust.edu.sa?subject=[NetAIM 2018]){: data-role="button" class="button" }
+
