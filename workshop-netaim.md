@@ -18,7 +18,7 @@ committees:
       people:
        - name:        Marco Canini
          affiliation: KAUST
-       - name:        Jon Crowcraft 
+       - name:        Jon Crowcroft 
          affiliation: University of Cambridge
        - name:        Nick Feamster
          affiliation: Princeton University
@@ -51,7 +51,7 @@ committees:
          affiliation: KAUST, Saudi Arabia
        - name:        Aakanksha Chowdhery 
          affiliation: Google Brain, USA
-       - name:        Jon Crowcraft 
+       - name:        Jon Crowcroft 
          affiliation: University of Cambridge, UK
        - name:        Nick Feamster 
          affiliation: Princeton, USA
@@ -73,11 +73,11 @@ committees:
          affiliation: University of Adelaide, Australia
        - name:        Rijurekha Sen 
          affiliation: IIT Delhi, India
-       - name:        Michael Shapira 
+       - name:        Michael Schapira 
          affiliation: Hebrew University of Jerusalem, Israel
        - name:        Chen Tian 
          affiliation: Nanjing University, China
-       - name:        Shobha Venkatraman 
+       - name:        Shobha Venkataraman 
          affiliation: AT&T, USA
        - name:        Walter Willinger 
          affiliation: NIKSUN Inc., USA
@@ -123,7 +123,7 @@ Submissions must be original, unpublished work, and not under consideration at a
 
 As the interest in coupling networking and AI/ML is growing, we recognize that reproducible work becomes ever more important, in particular, due to the somewhat inherent lack of interpretability associated with ML methods. 
 
-- To encourage reproducibility,  authors are allowed an additional **but optional** half a page (i.e., a single (1) column) in addition to the six pages. This additional space is meant to be used to explicitly discuss the reproducibility and interpretability of their solution.  In general, all authors are encouraged to consult the [reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) to verify that their submission is reproducible. 
+- To encourage reproducibility,  authors are allowed an additional **but optional** page in addition to the six pages. This additional space is meant to be used to explicitly discuss the reproducibility and interpretability of their solution.  In general, all authors are encouraged to consult the [reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) to verify that their submission is reproducible. 
 
 - In NetAI, we want to encourage authors to go the extra mile and release their research artifacts. We plan to reward the reproducible work with special [ACM badging](https://www.acm.org/publications/policies/artifact-review-badging). All the accepted papers at the workshop are eligible for artifacts review. 
 
