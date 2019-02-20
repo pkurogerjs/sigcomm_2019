@@ -1,4 +1,5 @@
 [
+  [300, "amazon.png",    "https://www.amazon.com/", "amazon", 0, 120, 300,                    "platinum"],
   [300, "cisco.png",    "https://www.cisco.com/", "cisco", 0, 200, 379,                    "platinum"],
   [200, "facebook.png", "https://research.fb.com/", "facebook", 0, 713, 2026,              "platinum"],
   [100, "barefoot-networks.jpg", "https://www.barefootnetworks.com/", "barefoot networks", 0, 246, 600,              "silver"],
@@ -6,6 +7,6 @@
   [90, "akamai.png", "https://www.akamai.com/", "akamai", 0, 195, 450,                     "bronze"],
   [80, "comcast.jpg", "https://www.comcast.com/", "comcast", 0, 263, 594,                  "bronze"],
   [70, "netapp.jpg", "https://www.netapp.com/", "netapp", 0, 1208, 1279,                   "bronze"],
-  [70, "vmware.jpg", "https://www.netapp.com/", "netapp", 0, 100, 400,                   "bronze"],
+  [70, "vmware.jpg", "https://www.vmware.com/", "netapp", 0, 100, 400,                   "bronze"],
 ]
 
