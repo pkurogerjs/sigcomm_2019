@@ -148,6 +148,9 @@ menu:
 #  - name: IoT S&P
 #    url: /workshop-iotsp.html
 #    icon: fa-circle
+
+
+
   - name: EPIQ
     url: /workshop-epiq.html
     icon: fa-circle
@@ -166,6 +169,10 @@ menu:
   - name: NetAI
     url: /workshop-netaim.html
     icon: fa-circle
+  - name: OptSys
+    url: /workshop-optsys.html
+    icon: fa-circle
+
 #  - name: SecSoN
 #    url: /workshop-secson.html
 #    icon: fa-circle
