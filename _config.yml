@@ -185,6 +185,10 @@ menu:
 #  - name: ERC Networking
 #    url: /erc_networking_symposium.html
 #    icon: fa-circle
+  - name: MAGESys
+    url: /workshop-magesys.html
+    icon: fa-circle
+
   - name: Call for workshops
     url: /cf-workshops.html
     icon: fa-wrench
