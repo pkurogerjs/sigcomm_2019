@@ -14,7 +14,7 @@ dates:
       date: Aug 19 or 23, 2019
 
 committees:
-    - role: General Chairs
+    - role: Program Chairs
       people:
        - name:        Chen Avin
          affiliation: Ben Gurion University, Israel
@@ -36,7 +36,7 @@ committees:
 
 ### Call for Oral Presentations
 
-Optical equipment is a fundamental component of modern systems. Today, nearly all wide-area, metro, and data center communications are carried over optical technology making optics a billion dollar industry. Optics is posed to play an even bigger role in next-generation networks. The high bandwidth and ultra-low latency requirements of modern Cloud-centric systems, such as machine learning and business analytics, are hard to meet in a cost-effective manner with traditional electrical devices. 
+Optical equipment is a fundamental component of modern systems. Today, nearly all wide-area, metro, and data center communications are carried over optical technology making optics a billion dollar industry. Optics is poised to play an even bigger role in next-generation networks. The high bandwidth and ultra-low latency requirements of modern Cloud-centric systems, such as machine learning and business analytics, are hard to meet in a cost-effective manner with traditional electrical devices. 
 
 The OptSys workshop focuses on the design and implementation of optical networked systems for the next-generation Cloud infrastructure. These systems pose a number of research challenges spanning multiple research areas, e.g., physical layer, scheduling, synchronization, congestion control, orchestration, and topology reconfiguration, which require cross-layer and cross-disciplinary solutions. The workshop aims to bring together participants across the optics, networking, systems, and distributed algorithms community to jointly tackle these challenges and foster discussions and collaboration opportunities across these communities.
  
@@ -60,9 +60,6 @@ Topics of interest include, but are not limited to, the following areas:
 
 ### Submission Instructions
 Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the  [2018 ACM consolidated template package](https://www.acm.org/publications/proceedings-template)[ (you can also use this barebone LaTeX template)](https://github.com/conference-websites/acmart-sigproc-template). The font size must be 9 points. The length of the final extended abstract with all its content except references must not exceed 1 page. The extended abstract must include author’s names and affiliations for single-blind peer reviewing by the PC. Use this link for submission: [https://optsys19.hotcrp.com](https://optsys19.hotcrp.com). Abstracts will not be published.  
-
-### Authors Take Note
-{% include workshop_authorstakenote.html %}
 
 ### Registration
 {% include workshop_registration.html %}
