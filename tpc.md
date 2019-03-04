@@ -40,7 +40,7 @@ committees:
         affiliation: IIJ
       - name: Mosharaf Chowdhury
         affiliation: UMich
-      - name: Nandita Dukkippati
+      - name: Nandita Dukkipati
         affiliation: Google
       - name: Lars Eggert
         affiliation: NetApp
@@ -104,12 +104,12 @@ committees:
         affiliation: U. Oregon
       - name: Philipp Richter
         affiliation: MIT
+      - name: Michael Schapira
+        affiliation: Hebrew University of Jerusalem
       - name: Ricardo Schmidt
         affiliation: U. Passo Fundo
       - name: Srini Seshan
         affiliation: CMU
-      - name: Michael Schapira
-        affiliation: Hebrew University of Jerusalem
       - name: Justine Sherry
         affiliation: CMU
       - name: Ankit Singla
