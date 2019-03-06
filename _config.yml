@@ -148,14 +148,14 @@ menu:
 #  - name: IoT S&P
 #    url: /workshop-iotsp.html
 #    icon: fa-circle
-
-
-
   - name: EPIQ
     url: /workshop-epiq.html
     icon: fa-circle
   - name: NEAT
     url: /workshop-neat.html
+    icon: fa-circle
+  - name: NetPL
+    url: /workshop-netpl.html
     icon: fa-circle
 #  - name: WTMC
 #    url: /workshop-wtmc.html
