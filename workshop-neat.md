@@ -11,9 +11,9 @@ dates:
     - info: Paper acceptance notification
       date: April 29, 2019
     - info: Submission deadline
-      date: <del>March 25, 2019</del> April 9, 2019   3:59 AM EDT (US) 
+      date: April 9, 2019   3:59 AM EDT (US) 
     - info: Paper registration deadline
-      date: <del>March 17, 2019</del> April 2, 2019   3:59 AM EDT  (US)
+      date: April 2, 2019   3:59 AM EDT  (US)
 
 committees:
     - role: General Chairs
