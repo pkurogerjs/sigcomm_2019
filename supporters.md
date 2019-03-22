@@ -46,7 +46,7 @@ title: Supporters
 <div style="text-align: center;">
 {% for supporter in site.data.supporters
 %}{% if supporter[7] == "diamond"
-%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 100px; margin: 10px" /></a>
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 180px; margin: 10px" /></a>
 {% endif
 %}{% endfor %}
 </div>
