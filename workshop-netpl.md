@@ -57,6 +57,9 @@ The workshop will consist of invited and contributed talks, mini-tutorials, and 
 
 Participation in the workshop is open to everyone. To give a talk, please submit a one page description of the proposed talk; these will be lightly reviewed by the workshop co-chairs.
  
+**Paper Submission:**
+
+Please submit your paper via [https://sigcomm19netpl.hotcrp.com/](https://sigcomm19netpl.hotcrp.com/). 
 
 ### Authors Take Note
 {% include workshop_authorstakenote.html %}
