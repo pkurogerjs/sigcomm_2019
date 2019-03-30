@@ -4,10 +4,8 @@ title: "ACM SIGCOMM 2019 Workshop on Network Meets AI & ML (NetAI 2019)"
 group: Workshops
 
 dates:
-    - info: Paper registration deadline
-      date: March 29, 2019 11:59 PST
     - info: Paper submission deadline
-      date: April 5, 2019 11:59 PST
+      date: <mark>April 12, 2019 11:59 PST</mark>
     - info: Paper acceptance notification
       date: May 17, 2019 11:59 PST
     - info: Camera-ready deadline
