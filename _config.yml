@@ -106,15 +106,15 @@ menu:
       url:  /cfp.html
       icon: fa-bell-o
 #  url: /program.html
-#- name: Parallel events
-#  icon: fa-list-ul
-#  submenu:
+- name: Parallel events
+  icon: fa-list-ul
+  submenu:
 #  - name: Venue
 #    url:  /vigado_pd.html
 #    icon: fa-map-marker
-#  - name: Posters and demos
-#    url: /cf-posters.html
-#    icon: fa-eye
+  - name: Posters and demos
+    url: /cf-posters.html
+    icon: fa-eye
 #  - name: Industrial demos
 #    url: /cf-industrial-demos.html
 #    icon:  fa-industry
@@ -124,9 +124,9 @@ menu:
 #  - name: Mentoring
 #    url: /mentoring.html
 #    icon: fa-user-circle-o
-#  - name: Student research competition
-#    url: /src.html
-#    icon: fa-graduation-cap
+  - name: Student research competition
+    url: /src.html
+    icon: fa-graduation-cap
 #  - name: Topic preview
 #    url: /topic-preview.html
 #    icon:  fa-comments-o

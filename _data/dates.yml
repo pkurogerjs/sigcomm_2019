@@ -92,4 +92,19 @@ workshops-planning-org:
   info-main:  List of organization details
   info:  List of organization details
 
-
+### Poster and Demo dates
+poster_demo-submission:
+  track: posters_demos
+  date: May 20 (23:59 PDT), 2019
+  info_main: Submission Deadline
+  info: Submission Deadline
+poster_demo-notification:
+  track: posters_demos
+  date: June 19, 2019
+  info_main: Acceptance Notification
+  info: Acceptance Notification
+poster_demo-camera_ready:
+  track: posters_demos
+  date: June 30, 2019
+  info_main: Camera Ready Deadline
+  info: Camera Ready Deadline
