@@ -2,47 +2,19 @@
 layout: default
 title: ACM SIGCOMM Student Research Competition (SRC)
 group: Parallel events
-
-
-
-committees:
-    - role: Student Research Competition Chairs
-      mailing_list:  CompetitionChairs2018@sigcomm.org
-      people:
-      - name:        Marco Chiesa
-        affiliation: KTH, Sweden
-        homepage:    http://marchiesa.bitbucket.io
-
-      - name:        Zhi-Li Zhang
-        affiliation: UMN, USA
-        homepage:    https://www-users.cs.umn.edu/~zhang089/
-
-    - role: Pre-selection reviewers
-      people:
-      - name:        Same reviewers of Posters and demos
-        affiliation:  
-        homepage:    https://conferences.sigcomm.org/sigcomm/2018/cf-posters.html
-      
-        
-    - role: First and second phase judges
-      people:
-      - name:       TBA
-        affiliation:  few days before the conference
 ---
 
 # {{ page.title }}
 
 ## Introduction
-The {{ page.title }} offers a unique forum for undergraduate and graduate students to present their original research before a panel of judges and attendees at well-known ACM-sponsored and co-sponsored conferences.
-Winners of the ACM SIGCOMM SRC at SIGCOMM will advance to ACM Grand Finals of the Student Research Competition to compete against the winners of other ACM conferences. The SRC, including a small travel budget for each participant, is sponsored by Microsoft Research.
+The ACM SIGCOMM Student Research Competition (SRC) offers a unique forum for undergraduate and graduate students to present their original research before a panel of judges and attendees at well-known ACM-sponsored and co-sponsored conferences. Winners of the ACM SIGCOMM SRC at SIGCOMM will advance to ACM Grand Finals of the Student Research Competition to compete against the winners of other ACM conferences. The SRC, including a small travel budget for each participant, is sponsored by Microsoft Research.
 
 ## How does the competition work?
-The ACM SRC at SIGCOMM organizes two distinct competitions for undergraduate and graduate students. 
-The timeline of the competition is as follows:
+The ACM SRC at SIGCOMM organizes two distinct competitions for undergraduate and graduate students. The timeline of the competition is as follows:
 
 1. *Pre-selection*: Students submit their work as a poster/demo here. See eligibility criteria below.
 
-2. *1st round “Poster session”*: The selected students register to the conference and present their work in front of the conference attendees. Specifications on poster size and content will be defined by the SRC chairs. Students are expected to discuss their work with evaluators who visit their presentation areas. Each evaluator will rate the student's visual presentation based on the criteria of uniqueness of the approach, the significance of the contribution, visual presentation, and format of presentation. The evaluation criteria used can be found under [General Judging Criteria](https://src.acm.org/judging).
+2. *1st round “Poster session”*: The selected students register to the conference and present their work in front of the conference attendees. Specifications on poster size and content will be defined by the SRC chairs. Students are expected to discuss their work with evaluators who visit their presentation areas. Each evaluator will rate the student’s visual presentation based on the criteria of uniqueness of the approach, the significance of the contribution, visual presentation, and format of presentation. The evaluation criteria used can be found under [General Judging Criteria](https://src.acm.org/judging).
 
 3. *2nd round “Presentation session”*: A separate session is scheduled for semi-finalists to give a ten minute presentation followed by a five minute question and answer period. This session will be attended by the evaluators and any interested conference attendees. The top three finalists in each category will be chosen based on these presentations.
 
@@ -62,17 +34,10 @@ You can only participate in one ACM SIGCOMM SRC per year.
 Selected students must register to the ACM SIGCOMM conference.
 
 ## How to participate?
-  The ACM SIGCOMM poster and demo sessions will also serve as an ACM  SIGCOMM Student Research Competition. To enter the first stage of the SRC, **submit a poster or demo abstract**. SRC submissions should be at most 100 word abstracts. Submissions should not exceed the minimum between two (2) pages and 800 words. If a submission has multiple authors, please provide the name of your advisor or supervisor when submitting the paper. The candidate student should be the first author. While not mandatory, entrants are encouraged to submit a letter from their advisor/supervisors describing the specific contributions made by the student. Undergraduates and graduate students will be treated in separate divisions (students starting their first year of graduate school at the time of the conference will be considered as undergraduates). Tick the corresponding box when submitting your work.
+The ACM SIGCOMM poster and demo sessions will also serve as an ACM  SIGCOMM Student Research Competition. To enter the first stage of the SRC, **submit a poster or demo abstract**. Submissions should not exceed the minimum between two (2) pages and 800 words. If a submission has multiple authors, please provide the name of your advisor or supervisor when submitting the paper. The candidate student should be the first author. While not mandatory, entrants are encouraged to submit a letter from their advisor/supervisors describing the specific contributions made by the student. Undergraduates and graduate students will be treated in separate divisions (students starting their first year of graduate school at the time of the conference will be considered as undergraduates). Tick the corresponding box when submitting your work.
     
-   A small travel supplement of 500 USD is made available to accepted SRC entrants; please also submit applications for travel grant support. More information [here](https://src.acm.org/about/for-students).
+A small travel supplement of 500 USD is made available to accepted SRC entrants; please also submit applications for travel grant support. More information [here](https://src.acm.org/).
    
 ## Sponsors
-<img src="{{ site.baseurl }}/images/sponsors/microsoft.jpeg" style="width:45%;"/>
+<div align="center"><img src="{{ site.baseurl }}/images/sponsors/microsoft.jpeg" style="width:45%;"/></div>
 
-## <i class="fa fa-calendar"></i> Important Dates
-
-{% include dates.html track = "src" %}
-
-## Organizers
-
-{% include committees.html committees = page.committees %}

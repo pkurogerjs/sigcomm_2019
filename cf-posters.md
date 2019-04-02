@@ -5,109 +5,151 @@ title: ACM SIGCOMM 2019 Posters, Demos, and Student Research Competition
 group: Parallel events
 
 committees:
-  - role: Poster Chairs
-    mailing_list:  akuzma@northwestern.edu,varvello@research.att.com
+  - role: Poster and Demo Chairs
+    mailing_list:  kaichen@cse.ust.hk,fu@cs.uni-goettingen.de,xie@ict.ac.cn,zhzhang@cs.umn.edu
     people:
-    - name:        Aleksandar Kuzmanovic
-      affiliation: Northwestern, USA
+    - name:        Kai Chen
+      affiliation: HKUST
 
-    - name:        Matteo Varvello
-      affiliation:   AT&amp;T, USA
+    - name:        Xiaoming Fu
+      affiliation: University of Goettingen
+    
+    - name:        Gaogang Xie
+      affiliation: ICT/CAS
+
+    - name:        Zhi-Li Zhang
+      affiliation: UMN
       
-  - role: Demo Chairs
-    mailing_list:  marco@kaust.edu.sa, sonkoly@tmit.bme.hu
+  - role: SRC Chairs
+    mailing_list:  jcliu@cs.sfu.ca,kun.tan@huawei.com
     people:
-    - name:        Marco Canini
-      affiliation: KAUST, KSA
+    - name:        Jiangchuan Liu
+      affiliation: SFU
 
-    - name:        Balázs Sonkoly
-      affiliation: BME, Hungary
+    - name:        Kun Tan
+      affiliation: Huawei
       
   - role: Programm Committee Members
     people:
-    - name:        Gianni Antichi
-      affiliation: Cambridge, UK
-    
-    - name:        Chadi Barakat
-      affiliation: Inria, France
-
-    - name:        Marinho Barcellos
-      affiliation: UFRGS, Brazil
-      
-    - name:        Pramod Bhatotia
-      affiliation: Edinburgh, UK
-      
-    - name:        Pedro Casas
-      affiliation: AIT, Austria
-       
     - name:        Ang Chen
-      affiliation: Rice, USA
-       
-    - name:        Jiasi Chen
-      affiliation: UCR, USA
+      affiliation: Rice
+    
+    - name:        Yingying Chen
+      affiliation: Microsoft
+
+    - name:        Jin Cheng
+      affiliation: Facebook
       
-    - name:        Kai Chen
-      affiliation: HKUST, China
+    - name:        Marco Chiesa
+      affiliation: KTH
       
     - name:        Kenjiro Cho
-      affiliation: IIJ, Japan
-      
+      affiliation: IIJ
+       
+    - name:        Baek-Young Choi
+      affiliation: UMKC
+       
     - name:        Marcel Flores
-      affiliation: Verizon, USA
+      affiliation: Verizon
       
-    - name:        Phillipa Gill
-      affiliation: UMass USA
+    - name:        Aaron Gember-Jacobson
+      affiliation: Colgate University
       
-    - name:        Bo Han
-      affiliation: AT&T, USA
+    - name:        Matthias Hollick
+      affiliation: TU Darmstadt
       
-    - name:        Ralph Holz
-      affiliation: USYD, Australia
+    - name:        Oliver Hohlfeld
+      affiliation: RWTH Aachen
       
-    - name:        Junchen Jiang
-      affiliation: Microsoft and UChicago, USA
+    - name:        Toru Hasegawa
+      affiliation: Osaka University
       
-    - name:        Srinivas Narayana
-      affiliation: MIT, USA
+    - name:        Yusheng Ji
+      affiliation: NII
       
-    - name:        Diego Perino
-      affiliation: Telefonica, Spain
+    - name:        Yuming Jiang
+      affiliation: NTNU
       
-    - name:        Gergely Pongrácz
-      affiliation: Ericsson, Hungary
+    - name:        Lei Jiao
+      affiliation: UOregon
       
+    - name:        Xin Jin
+      affiliation: JHU
+      
+    - name:        Dali Kaafar
+      affiliation: CSIRO
+      
+    - name:        Dongsheng Li
+      affiliation: NUDT
+      
+    - name:        Ruidong Li
+      affiliation: NICT
+      
+    - name:        Zhenyu Li
+      affiliation: ICT/CAS
+      
+    - name:        Kate Lin
+      affiliation: NCTU
+      
+    - name:        Xin Liu
+      affiliation: UC Davis
+      
+    - name:        John Lui
+      affiliation: CUHK
+      
+    - name:        Cristian Lumezanu
+      affiliation: NEC Lab
+      
+    - name:        Harsha V. Madhyastha
+      affiliation: UMich
+
+    - name:        Hesham Mekky
+      affiliation: Snapchat
+
+    - name:        Srihari Nelukuditi
+      affiliation: University of South Carolina
+
+    - name:        Ioannis Psaras
+      affiliation: UCL
+
+    - name:        Feng Qian
+      affiliation: UMN
+
     - name:        Sanjay Rao
-      affiliation: Purdue, USA
-      
-    - name:        Gábor Rétvári
-      affiliation: BME, Hungary
-      
-    - name:        Dario Rossi
-      affiliation: ENST, France
-      
-    - name:        Stefan Schmid
-      affiliation: Univie, Austria
-      
-    - name:        Anees Shaikh
-      affiliation: Google, USA
-      
-    - name:        Basem Shihada
-      affiliation: KAUST, KSA
-      
-    - name:        Moritz Steiner
-      affiliation: Akamai, USA
+      affiliation: Purdue
+
+    - name:        Amedeo Sapio
+      affiliation: Cisco
 
     - name:        Nik Sultana
-      affiliation: UPenn, USA
+      affiliation: UPenn
 
-    - name:        Róbert Szabó
-      affiliation: Ericsson, Hungary
+    - name:        Matthias Wählisch
+      affiliation: FU Berlin
 
-    - name:        László Toka
-      affiliation: BME, Hungary
+    - name:        Wenye Wang
+      affiliation: NCSU
 
-    - name:        James Zeng
-      affiliation: Facebook, USA
+    - name:        Wenfei Wu
+      affiliation: Tsinghua
+
+    - name:        Chuan Wu
+      affiliation: HKU
+
+    - name:        Henry Xu
+      affiliation: CityU of Hong Kong
+
+    - name:        Kuai Xu
+      affiliation: ASU
+
+    - name:        Tong Yang
+      affiliation: Peking University
+
+    - name:        Haifeng Yu
+      affiliation: NUS
+
+    - name:        Hong Zhang
+      affiliation: UC Berkeley
 
 ---
 
@@ -137,38 +179,35 @@ We expect both poster and demo presenters to prepare a poster. A poster is A0 pa
 
 ### What To Submit <span class="show_hide" onclick="show_hide('what_to_submit')"><i id="what_to_submit_button" class="fa fa-arrow-circle-o-down"></i></span>
 <div id="what_to_submit" style="display:none;">
-
-If you are submitting a poster, you must submit a two-page abstract in PDF format that describes your work.
-<br/>
+If you are submitting a poster, you must submit a two-page abstract in PDF format that describes your work.<br/>
 If you are submitting a demo, you must submit a three-page abstract (two page overview, one page demo requirements). The third page of technical requirements should detail:<br/>
 - Equipment to be used for the demo<br/>
 - Space needed<br/>
 - Setup time required<br/>
 - Additional facilities needed, including power and any Internet access requirements<br/>
 <br/>
-All demos will be provided with table space, a poster board and wireless Internet access by default.
-<br/>
-In both cases, acceptance will be primarily based on review of the submitted abstract.
-<br/>
-All submissions must obey the following formatting requirements.<br/>
+All demos will be provided with table space, a poster board and wireless Internet access by default.<br/>
+
+In both cases, acceptance will be primarily based on review of the submitted abstract.<br/><br/>
+
+All submissions must obey the following formatting requirements:<br/>
 - Submit abstracts of no more than two single–spaced pages, including references, figures, tables, etc.; for demos, an additional third page is required solely for describing the technical requirements. Abstracts whose content is longer than the page limit will not be reviewed.<br/>
 - Submit abstracts formatted for printing on Letter-sized (8.5” by 11”) paper. Paper text blocks must follow ACM guidelines: double-column, with each column 9.25” by 3.33”, 0.33” space between columns. Each column must use 10-point font or larger, and contain no more than 55 lines of text.<br/>
-- It is your responsibility to ensure that your submission satisfies the above requirements. If you are using LaTeX, you can make use of <a href="https://github.com/scyue/ccp-sigcomm18">this template for ACM conference proceedings</a>. Unlike the official template, it only includes example for conference proceedings.<br/><br/>
+- It is your responsibility to ensure that your submission satisfies the above requirements. If you are using LaTeX, you can make use of <a href="https://github.com/scyue/latex-sigcomm18">this template for ACM conference proceedings</a>. Unlike the official template, it only includes example for conference proceedings.<br/> 
 
-It is highly encouraged that each demo proposal includes a video clip showcasing the work, in addition to the abstract. The video should be no more than 3 minutes and should give a good idea of what the demo is about and what it would look like. Including a video clip will help the committee better understand and evaluate your proposal. Poster submissions may also include a video clip.<br/>
-
-The abstracts of accepted posters and demos will be available to all attendees at the conference.<br/>
+It is highly encouraged that each demo proposal includes a video clip showcasing the work, in addition to the abstract. The video should be no more than 3 minutes and should give a good idea of what the demo is about and what it would look like. Including a video clip will help the committee better understand and evaluate your proposal. Poster submissions may also include a video clip.<br/><br/>
+The abstracts of accepted posters and demos will be available to all attendees at the conference.<br/><br/>
 
 Authors of accepted demos and posters will be encouraged to publish auxiliary material in the ACM Digital Library with their poster/demo (source code, packet traces, and so forth) to improve the reproducibility of their results. The auxiliary material does not need to be submitted but can be referenced in the submission.
-<br/>
-The posters and demos submitted to SIGCOMM 2018 must be original and cannot be concurrently submitted to other workshops or conferences during the SIGCOMM poster/demo review period. Dual submissions are a waste of the reviewer's time.
+<br/><br/>
+The posters and demos submitted to SIGCOMM 2019 must be original and cannot be concurrently submitted to other workshops or conferences during the SIGCOMM poster/demo review period. Dual submissions are a waste of the reviewer&apos;s time.
 <br/>
 </div>
 
 ### Where To Submit <span class="show_hide" onclick="show_hide('where_to_submit')"><i id="where_to_submit_button" class="fa fa-arrow-circle-o-down"></i></span>
 <div id="where_to_submit" style="display:none;">
 
-Please submit your abstract at <a href="https://sigcomm18posters.hotcrp.com/">https://sigcomm18posters.hotcrp.com/</a>. Submissions are single blind, so please include authors’ names and affiliation. When submitting (a poster or demo), indicate if the submission should be considered for the SRC.
+Please submit your abstract at <a href="https://sigcomm19posters.hotcrp.com/">https://sigcomm19posters.hotcrp.com/</a>. Submissions are single blind, so please include authors’ names and affiliation. When submitting (a poster or demo), indicate if the submission should be considered for the SRC.
 
 </div>
 
