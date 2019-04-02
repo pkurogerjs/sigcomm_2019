@@ -46,9 +46,12 @@ committees:
     - name:        Kenjiro Cho
       affiliation: IIJ
        
+    - name:        David Choffnes
+      affiliation: Northeastern
+
     - name:        Baek-Young Choi
       affiliation: UMKC
-       
+ 
     - name:        Marcel Flores
       affiliation: Verizon
       
