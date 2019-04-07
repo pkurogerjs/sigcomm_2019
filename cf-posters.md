@@ -37,7 +37,7 @@ committees:
     - name:        Yingying Chen
       affiliation: Microsoft
 
-    - name:        Jin Cheng
+    - name:        Cheng Jin
       affiliation: Facebook
       
     - name:        Marco Chiesa
