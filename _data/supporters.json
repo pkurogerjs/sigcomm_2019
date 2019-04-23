@@ -4,6 +4,7 @@
   [300, "cisco.png",    "https://www.cisco.com/", "cisco", 0, 200, 379,                    "platinum"],
   [300, "facebook.png", "https://research.fb.com/", "facebook", 0, 713, 2026,              "platinum"],
   [100, "barefoot-networks.jpg", "https://www.barefootnetworks.com/", "barefoot networks", 0, 246, 600,              "silver"],
+   [100, "google.png", "https://www.google.com/", "google", 0, 140, 416,              "silver"],
    [100, "intel.png", "https://www.intel.com/", "intel", 0, 1978, 3000,              "silver"],
    [100, "microsoft.jpg", "https://www.microsoft.com/", "microsoft", 0, 250, 600,              "silver"],
   [90, "akamai.png", "https://www.akamai.com/", "akamai", 0, 195, 450,                     "bronze"],
