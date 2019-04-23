@@ -5,7 +5,7 @@ group: Workshops
 
 dates:
     - info: Deadline to submit talk proposals (1 page, minimum 10 pt point)
-      date: April 1, 2019
+      date: April 8, 2019
     - info: Acceptance notifications
       date: April 15, 2019
 

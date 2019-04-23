@@ -6,11 +6,11 @@ group: Workshops
 
 dates:
     - info: Submission deadline
-      date: April 15, 2019 (hard)
+      date: May 6, 2019 
     - info: Notification deadline
-      date: May 24, 2019
+      date: May 31, 2019
     - info: Camera-ready deadline
-      date: June 20, 2019 (hard)
+      date: June 20, 2019
     - info: Workshop
       date: August 19 or 23, 2019
 

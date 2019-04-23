@@ -188,7 +188,9 @@ menu:
   - name: MAGESys
     url: /workshop-magesys.html
     icon: fa-circle
-
+  - name: APNet'19
+    url: /workshop-apnet.html
+    icon: fa-circle
   - name: Call for workshops
     url: /cf-workshops.html
     icon: fa-wrench
