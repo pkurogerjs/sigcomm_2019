@@ -148,6 +148,9 @@ menu:
 #  - name: IoT S&P
 #    url: /workshop-iotsp.html
 #    icon: fa-circle
+  - name: APNet'19
+    url: /workshop-apnet.html
+    icon: fa-circle
   - name: EPIQ
     url: /workshop-epiq.html
     icon: fa-circle
@@ -187,9 +190,6 @@ menu:
 #    icon: fa-circle
   - name: MAGESys
     url: /workshop-magesys.html
-    icon: fa-circle
-  - name: APNet'19
-    url: /workshop-apnet.html
     icon: fa-circle
   - name: Call for workshops
     url: /cf-workshops.html
