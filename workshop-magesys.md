@@ -5,7 +5,7 @@ group: Workshops
 
 dates:
     - info: Submission deadline
-      date: April 30, 2019 AoE
+      date: May 14, 2019 AoE
     - info: Paper acceptance notification
       date: June 3, 2019 AoE
     - info: Camera-ready deadline
