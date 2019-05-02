@@ -234,12 +234,15 @@ menu:
 #  - name: Call for participation
 #    url: /hackathon.html
 #    icon: fa-bell-o
-#- name: Hotel
-#  icon: fa-building-o
-#  url: /hotel.html
-#- name: Visa
-#  icon: fa-address-card-o
-#  url: /visa.html
+- name: Hotel
+  icon: fa-building-o
+  url: /hotel.html
+- name: Visa
+  icon: fa-address-card-o
+  url: /visa.html
+- name: Venue
+  icon: fa fa-university
+  url: /venue.html
 #- name: Registration
 #  icon: fa-user-plus
 #  url: /registration.html

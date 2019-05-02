@@ -1,28 +1,22 @@
 ---
 layout: default
-title: Venue
-group: Local information
+title: Venue 
+group: Venue
 ---
 
 # {{ page.title }}
-TBA
+Beijing as the Capital of China with a long history was famous for "Capital of a thousand years". The long history leaves Beijing precious cultural treasure. Winding for several kilometers in Beijing area, the Great Wall is the only man-made structure that could been seen in the space. The Summer Palace is a classic composition of ancient royal gardens, and the Forbidden City is the largest royal palaces in the world. 
 
-<!--<img src="{{ site.baseurl }}/images/ucla.jpg" align="right" width="300" alt="UCLA, Royce Hall" class="photo-right" />
-SIGCOMM 2018 will take place on University of California, Los Angeles campus in [UCLA Meyer and Renee Luskin Conference Center](http://luskinconferencecenter.ucla.edu/) located in the heart of the campus.
+The main conference and parallel events of SIGCOMM2019 will be held on August 19-24 in Shangri-La Hotel, Beijing. Beijing Shangri-La Hotel is located in the center of the financial and high-tech park in the west of Beijing, adjacent to many famous scenic spots and historic sites in Chinese history.
 
-You can download UCLA [the offline campus map](http://maps.ucla.edu/downloads/pdf/UCLA_Campus_Colored_Map.pdf) or access [the interactive map](http://maps.ucla.edu/campus/).
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/venue/venue1_1.jpg" style="width:49%;"  alt="The Shangri-La Hotel" />
+   <img src="{{ site.baseurl }}/images/venue/venue1_2.jpg" style="width:49%;"  alt="The Shangri-La Hotel" />
+</div> 
 
-<div style="clear: both"></div>
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/venue/venue2_1.jpg" style="width:49%;"  alt="The Shangri-La Hotel" />
+   <img src="{{ site.baseurl }}/images/venue/venue2_2.jpg" style="width:49%;"  alt="The Shangri-La Hotel" />
+</div>
 
-## Getting to Conference Venue
 
-The conference center is just 12 miles from Los Angeles Internation Airport (LAX).
-
-Venue address:
-
-  > UCLA Meyer & Renee Luskin Conference Center  
-  > 425 Westwood Plaza  
-  > Los Angeles 90095
-
-[Google Maps Directions](https://www.google.com/maps/dir/Los+Angeles+International+Airport,+1+World+Way,+Los+Angeles,+CA+90045/425+Westwood+Plaza,+Los+Angeles,+CA+90095/@34.0051917,-118.4488899,13z/data=!4m13!4m12!1m5!1m1!1s0x80c2b0d213b24fb5:0x77a87b57698badf1!2m2!1d-118.40853!2d33.941589!1m5!1m1!1s0x80c2bc88a8fef1bb:0x9d3811ef974a159e!2m2!1d-118.4448196!2d34.0688039)
--->
