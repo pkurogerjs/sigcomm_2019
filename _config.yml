@@ -234,15 +234,15 @@ menu:
 #  - name: Call for participation
 #    url: /hackathon.html
 #    icon: fa-bell-o
+- name: Venue
+  icon: fa fa-university
+  url: /venue.html
 - name: Hotel
   icon: fa-building-o
   url: /hotel.html
 - name: Visa
   icon: fa-address-card-o
   url: /visa.html
-- name: Venue
-  icon: fa fa-university
-  url: /venue.html
 #- name: Registration
 #  icon: fa-user-plus
 #  url: /registration.html
@@ -272,18 +272,21 @@ menu:
   icon: fa-users
 
 
-#- name: Local information
-#  icon:  fa-map-pin
-#  submenu:
-#  - name: Currency
-#    url: /currency.html
-#    icon: fa-money
-#  - name: Power
-#    url: /power.html
-#    icon: fa-plug
-#  - name: Getting here
-#    url: /getting_here.html
-#    icon: fa-plane
+- name: Local information
+  icon:  fa-map-pin
+  submenu:
+  - name: Currency
+    url: /currency.html
+    icon: fa-money
+  - name: Power
+    url: /power.html
+    icon: fa-plug
+  - name: Language
+    url: /language.html
+    icon: fa-commenting
+  - name: Getting here
+    url: /getting_here.html
+    icon: fa-plane
 #  - name: Bike to SIGCOMM
 #    url: /bike-to-sigcomm.html
 #    icon: fa-bicycle

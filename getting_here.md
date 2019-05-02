@@ -9,60 +9,51 @@ group: Local information
 
 # {{ page.title }}
 
-## How to get to Budapest
+## Flying to Beijing
 
-### Arriving by air
-50 int'l airways have direct daily connections from European cities
-11 discount airways serve 22 destinations.
-The Hungarian international airport is Liszt Ferenc International Airport (BUD).
+If you are flying to Beijing from abroad, the chances are that you are landing in the Beijing Capital International Airport. The Beijing Capital International Airport has three terminal buildings (T1, T2, and T3). Please follow the signs to find the places for baggage claiming, currency exchanging, shuttle bus and taxi taking.
 
-### Budapest by car or by train
-Budapest can be reached in 2-5 hours from several neighboring capitals (e.g. Vienna, Bratislava, Zagreb, Ljubljana, Belgrade, Prague), this being faster than flying.
+##Transportation between airport and hotel 
 
+Taking a taxi is the most convenient transportation option between the airport and the hotel, which usually costs around 110 RMB, i.e., $16.5 U.S. dollars. **But let us remind you here, taxis do not accept credit card payment.** All of the taxis in Beijing are metered taxis, so the prices are relatively fair and inexpensive. The typical travel distance from the airport to the conference hotel is about 34 kilometers, which takes about one hour by car.
 
-## How to get in town from the airport
+**It would be convenient if you can print out the Chinese characters of the hotel names and addresses below and show them to the taxi driver.**
 
-### Best options 
-**By cab**
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/local_info/getting_here_1.png" style="width:98%;" alt="Address 1" />
+</div>
 
-You pay at the booth right by the queue of taxis in  front of the airport). The cost to get to the city center is about 7000 HUF / 25 USD / 18,8 GBP / 21,2 EUR. 
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/local_info/getting_here_2.png" style="width:98%;" alt="Address 2" />
+</div>
 
-A taxi fare calculator can be found [here](https://www.taxifarefinder.com/main.php?city=Budapest-Hungary).
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/local_info/getting_here_3.png" style="width:98%;" alt="Address 3" />
+</div>
 
-Travel time *~20-25 min (except rush hours - usually less than twice as base travel time).*
+##Local bus from the airport to downtown.
 
-**By UBER**
+You can follow the sign to find the local bus ticket booths in Beijing Capital International Airport. The local buses from the airport to downtown run from 6 a.m. to 4 a.m. on the next day, which run about every 30 minutes to 60 minutes. The local bus ticket booths are located in front of Exit No.7 in the Arrival Hall of Terminal 3 Building (see picture1）, Exit No.11 in the Arrival Hall of Terminal 2 (see picture2). For the tickets purchase, cash payment is the best way, credit card and bank card are not accepted. The fares are divided into three categories: 20 yuan, i.e., $3, 25 yuan i.e., $3.7 and 30 yuan i.e., $4.5. The specific fares of each station on each line are announced at the airport local bus booth. 
+To get to the conference hotel, you can take Line 4(see picture3) and get off at Zizhuqiao Station, then walk about 400 meters (the walking route will be updated soon). One thing we should draw your special attention to is that **the Google map doesnt work in mainland China, you can try <span style="color:red;">Ovital Map app</span>.**
 
-There is no UBER in Hungary, but you can use the alternative [Taxify](https://taxify.eu/) app to order a taxi in comfortable manner just like in UBER (e.g., fares paid via the app, receipt sent via email).
+**The following Chinese character means you want to go to Line 4, Zizhuqiao Station. It would be convenient if you can print it out and show it to the conductor.**
 
-Directions to [InterContinental](https://www.google.com/maps/dir/Budapest,+Budapest+Liszt+Ferenc+International+Airport+(BUD)/Budapest,+InterContinental+Budapest,+Ap%C3%A1czai+Csere+J%C3%A1nos+Street/@47.4600004,19.1168606,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4741c1a4fe39860b:0x4ca4f6a650439aa1!2m2!1d19.2522958!2d47.4384587!1m5!1m1!1s0x4741dc3fa58464b9:0x93b34b6fa2fb655f!2m2!1d19.04767!2d47.4977!3e0)
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/local_info/getting_here_4.png" style="width:98%;" alt="Address 4" />
+</div>
 
-Directions to [Vigadó](https://www.google.com/maps/dir/Budapest,+Budapest+Liszt+Ferenc+International+Airport+(BUD)/Budapest,+Vigad%C3%B3,+Vigad%C3%B3+t%C3%A9r/@47.4600004,19.1168606,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4741c1a4fe39860b:0x4ca4f6a650439aa1!2m2!1d19.2522958!2d47.4384587!1m5!1m1!1s0x4741dc409f0b2279:0xc353a407f61bde5c!2m2!1d19.0494232!2d47.4958869!3e0)
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/local_info/getting_here_5.jpg" style="width:49%;" alt="Address 5" />
+   <img src="{{ site.baseurl }}/images/local_info/getting_here_6.jpg" style="width:49%;"  alt="Address 6" />
+</div>
 
+<br/>
 
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/local_info/getting_here_7.jpg" style="width:98%;" alt="Address 7" />
+</div>
 
+You can also see the website of [http://en.bcia.com.cn/traffic/airbus/index.shtml](http://en.bcia.com.cn/traffic/airbus/index.shtml) for more shuttle bus information. 
 
-### Cheaper alternatives: By public transport
-**Airport [shuttle bus by public transportation](https://bkk.hu/en/airport-shuttle/)**
-
-Single ticket price is **900 HUF** / 3,2 USD / 2,4 GBP / 2,7 EUR.
-
-Travel time: *~20-30 min (except rush hours - usually less than twice as base travel time)*.
-
-
-**Airport [shuttle by miniBUD](https://www.minibud.hu/en)**
-
-The price is from **1900 HUF** / 8,5 USD / 5,1 GBP / 5,75 EUR (per person)
-[https://www.budapest.com/travel/airport_transfer.en.html](https://www.budapest.com/travel/airport_transfer.en.html).
-
-Travel time *~20-25 min (except rush hours - usually less than twice as base travel time).*
-
-**Basic public transportation**
-
-More information available via [this app](http://futar.bkk.hu/?map=13/47.501/19.053&layers=GSVB).
-
-
-
-
-
+The shuttle bus routes can be found <a href="{{site.baseurl}}/images/local_info/LocalBusRoutes.jpg" target="_blank">here</a>.
 
