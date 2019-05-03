@@ -261,9 +261,9 @@ menu:
 #  - name: N2Women dinner
 #    icon: fa-female
 #    url: /n2women_dinner.html
-#- name: Travel grants
-#  icon: fa-money
-#  url: /travel_grant.html
+- name: Travel grants
+  icon: fa-money
+  url: /travel_grant.html
 - name: Supporters
   url: /supporters.html
   icon: fa-handshake-o
