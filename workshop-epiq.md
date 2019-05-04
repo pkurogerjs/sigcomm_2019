@@ -41,7 +41,7 @@ committees:
        - name:        Gonca Gürsun
          affiliation: Ozyegin University
        - name:        Oliver Hohlfeld
-         affiliation: RWTH Aachen
+         affiliation: Brandenburg University of Technology
        - name:        Michio Honda
          affiliation: NEC Labs
        - name:        Jana Iyengar
