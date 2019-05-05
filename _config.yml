@@ -115,9 +115,9 @@ menu:
   - name: Posters and demos
     url: /cf-posters.html
     icon: fa-eye
-#  - name: Industrial demos
-#    url: /cf-industrial-demos.html
-#    icon:  fa-industry
+  - name: Industrial demos
+    url: /cf-industrial-demos.html
+    icon:  fa-industry
 #  - name: Best of CCR
 #    url: /best-of-ccr.html
 #    icon: fa-shield
