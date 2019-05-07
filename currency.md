@@ -20,7 +20,7 @@ If you need Chinese RMB and have not brought them with you from home, you can st
     <img src="{{ site.baseurl }}/images/local_info/currency_1_1.jpg" style="width:48%;" alt="Currency 1" />
    <img src="{{ site.baseurl }}/images/local_info/currency_1_2.jpg" style="width:48%;"  alt="Currency 2" />
 </div>
-
+<!--
 <div class="imagetext">
     <img src="{{ site.baseurl }}/images/local_info/currency_2_1.jpg" style="width:48%;" alt="Currency 3" />
    <img src="{{ site.baseurl }}/images/local_info/currency_2_2.jpg" style="width:48%;" alt="Currency 4" />
@@ -30,4 +30,4 @@ If you need Chinese RMB and have not brought them with you from home, you can st
     <img src="{{ site.baseurl }}/images/local_info/currency_3_1.jpg" style="width:48%;" alt="Currency 5" />
    <img src="{{ site.baseurl }}/images/local_info/currency_3_2.jpg" style="width:48%;"  alt="Currency 3_3" />
 </div>
-
+-->

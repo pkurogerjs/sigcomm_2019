@@ -8,10 +8,11 @@ group: Hotel
 <h3>1. Venue Hotel - shangri-La Hotel</h3>
 (Very good English service, strongly recommended)
 
-Opened: 1987 Renovated: 2007 Tel: 86-10-68412211<br>
+Opened: 1987&nbsp;&nbsp;&nbsp;&nbsp;Renovated: 2007&nbsp;&nbsp;&nbsp;&nbsp;Tel: 86-10-68412211<br>
 No. 29 Zizhuyuan Road Haidian District, Beijing, 100089, China
 
-Visitors to Beijing will find that the Shangri-La Hotel, Beijing is a fantastic accommodation choice. It is conveniently located just 8km from Beijing West Railway Station. Just a short walk from Chedaogou Metro Station, traveling to most city destinations is a breeze. <br>
+Visitors to Beijing will find that the Shangri-La Hotel, Beijing is a fantastic accommodation choice. It is conveniently located just 8km from Beijing West Railway Station. Just a short walk from Chedaogou Metro Station, traveling to most city destinations is a breeze.
+
 Airport pickup can be arranged by the hotel upon request.
 
 <div class="imagetext">
@@ -33,8 +34,8 @@ Airport pickup can be arranged by the hotel upon request.
     <li data-icon="false">
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:40%"><p>Garden Wing Superior Room (35 m²)</p></div>
-        <div class="ui-block-b" style="width:30%"><p>RMB1300</p></div>
-        <div class="ui-block-b" style="width:30%"><p>RMB1400</p></div>
+        <div class="ui-block-b" style="width:30%"><p>RMB 1300</p></div>
+        <div class="ui-block-b" style="width:30%"><p>RMB 1400</p></div>
       </div>
     </li>
     
@@ -58,8 +59,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Shangri-La Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Summer Palace</p></div>
-        <div class="ui-block-b" style="width:20%"><p>9.8km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>18minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>9.8 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>18 minutes</p></div>
       </div>
     </li>
 
@@ -67,8 +68,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Shangri-La Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>YuanMing Yuan</p></div>
-        <div class="ui-block-b" style="width:20%"><p>9.2km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>16minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>9.2 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>16 minutes</p></div>
       </div>
     </li>
 
@@ -76,8 +77,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Shangri-La Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Forbidden City</p></div>
-        <div class="ui-block-b" style="width:20%"><p>12km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>32minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>12 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>32 minutes</p></div>
       </div>
     </li>
 
@@ -85,8 +86,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Shangri-La Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>Tian An Men Square</p></div>
-        <div class="ui-block-b" style="width:20%"><P>15km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>39minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><P>15 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>39 minutes</p></div>
       </div>
     </li>
 
@@ -94,8 +95,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><P>Shangri-La Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><P>The Great Wall</p></div>
-        <div class="ui-block-b" style="width:20%"><p>82km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>77minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>82 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>77 minutes</p></div>
       </div>
     </li>
 </ul>
@@ -104,13 +105,14 @@ The reservation will be updated soon.
 <h3>2. Nearby Hotel - Hotel Nikko New Century Beijing</h3>
 (Recommended to students, English service is just OK)
 
-Opened: 1992   Renovated: 2013  Tel: 400 862 5688<br>
-No.6 Shouti South Road Haidian District, Beijing, 100044, China.<br>
-740m from Metro Station: Baishiqiao South. 
+Opened: 1992&nbsp;&nbsp;&nbsp;&nbsp;Renovated: 2013&nbsp;&nbsp;&nbsp;Tel: 400 862 5688<br/>
+No.6 Shouti South Road Haidian District, Beijing, 100044, China.<br/>
+740 m from Metro Station: Baishiqiao South. 
 
-There are 2 kilometers away from the hotel to the venue, 8 minutes for car and 20 minutes for walk. The shuttle bus will be arranged between the venue hotel to Hotel Nikko New Century Beijing
+There are 2 kilometers away from the hotel to the venue, 8 minutes for car and 20 minutes for walk. The shuttle bus will be arranged between the venue hotel to Hotel Nikko New Century Beijing.
 
-Room Rate is around 700 RMB/night including single western breakfast.<br> 
+Room Rate is around 700 RMB/night including single western breakfast.<br/> 
+
 The reservation will be updated soon.
 
 <div class="imagetext">
@@ -134,8 +136,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Hotel Nikko New Century Beijing</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Summer Palace</p></div>
-        <div class="ui-block-b" style="width:20%"><p>13km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>30minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>13 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>30 minutes</p></div>
       </div>
     </li>
 
@@ -143,8 +145,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Hotel Nikko New Century Beijing</p></div>
         <div class="ui-block-b" style="width:30%"><p>YuanMing Yuan</p></div>
-        <div class="ui-block-b" style="width:20%"><p>9km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>30minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>9 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>30 minutes</p></div>
       </div>
     </li>
 
@@ -152,8 +154,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Hotel Nikko New Century Beijing</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Forbidden City</p></div>
-        <div class="ui-block-b" style="width:20%"><p>9.8km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>40minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>9.8 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>40 minutes</p></div>
       </div>
     </li>
 
@@ -161,8 +163,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Hotel Nikko New Century Beijing</p></div>
         <div class="ui-block-b" style="width:30%"><p>Tian An Men Square</p></div>
-        <div class="ui-block-b" style="width:20%"><p>12km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>40minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>12 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>40 minutes</p></div>
       </div>
     </li>
 
@@ -170,8 +172,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Hotel Nikko New Century Beijing</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Great Wall</p></div>
-        <div class="ui-block-b" style="width:20%"><p>67km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>70minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>67 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>70 minutes</p></div>
       </div>
     </li>
 </ul>
@@ -180,13 +182,14 @@ The reservation will be updated soon.
 <h3>3. Nearby Hotel - Xiyuan Hotel Beijing</h3>
 (Recommended to local participants, English service is poor)
 
-Opened: 1984      Renovated: 2013    Tel: 86-10 516 55520<br>
+Opened: 1984&nbsp;&nbsp;&nbsp;&nbsp;Renovated: 2013&nbsp;&nbsp;&nbsp;&nbsp;Tel: 86-10 516 55520<br>
 No.1 Sanlihe Road Haidian District, Beijing, 100044, China <br>
-680m from Metro Station: Beijing Zoo
+680 m from Metro Station: Beijing Zoo
 
 The Xiyuan Hotel Beijing offers a pleasant stay in Beijing for those traveling for business or leisure. With the Xizhimen and Beijing Exhibition Center Area just 1km away, this hotel is conveniently situated. There are 2.5 kilometers from the hotel to the venue, 8 minutes for car and 25 minutes for walk. The shuttle bus will be arranged between the venue hotel to Xiyuan Hotel.<br>
 
 Room Rate is around 700 RMB/night including single western breakfast.<br>
+
 The reservation will be updated soon.
 
 <div class="imagetext">
@@ -210,8 +213,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Xiyuan Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Summer Palace</p></div>
-        <div class="ui-block-b" style="width:20%"><p>11km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>21minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>11 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>21 minutes</p></div>
       </div>
     </li>
 
@@ -219,8 +222,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Xiyuan Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>YuanMing Yuan</p></div>
-        <div class="ui-block-b" style="width:20%"><p>8.1km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>26minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>8.1 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>26 minutes</p></div>
       </div>
     </li>
 
@@ -228,8 +231,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Xiyuan Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Forbidden City</p></div>
-        <div class="ui-block-b" style="width:20%"><p>9.1km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>33minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>9.1 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>33 minutes</p></div>
       </div>
     </li>
 
@@ -237,8 +240,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p><Xiyuan Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>Tian An Men Square</p></div>
-        <div class="ui-block-b" style="width:20%"><p>11km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>32minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>11 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>32 minutes</p></div>
       </div>
     </li>
 
@@ -246,8 +249,8 @@ The reservation will be updated soon.
       <div class="ui-grid-a">
         <div class="ui-block-a" style="width:30%"><p>Xiyuan Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>The Great Wall</p></div>
-        <div class="ui-block-b" style="width:20%"><p>66km</p></div>
-        <div class="ui-block-b" style="width:20%"><p>67minutes</p></div>
+        <div class="ui-block-b" style="width:20%"><p>66 km</p></div>
+        <div class="ui-block-b" style="width:20%"><p>67 minutes</p></div>
       </div>
     </li>
 </ul>
