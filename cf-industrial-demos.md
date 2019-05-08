@@ -37,7 +37,7 @@ An industrial demo is an opportunity for companies to show industrial leadership
 Please submit a small description of your demo (up to two pages) together with the names and affiliation of the demo presenters. Please also specify the Demo requirements, including space, power and network requirements, etc.  The Industrial Demo Chairs are responsible for the selection of industrial demo program in conjunction with SIGCOMM industrial liaison board. Demos coming at least partly from industry can be submitted also to the general SIGCOMM demo session. The industrial demo session puts more focus on products and upcoming technologies towards which an industry player is already committed (e.g., technology on roadmap), while research projects from industry that are more experimental are better suited for the general SIGCOMM Demo session. Feel free to contact the Industrial Demo Chairs (by clicking on the button below) or the regular demo chairs if you have any questions.
 
 ## When and Where to Submit
-Submission Site: [https://sigcomm19indus-demos.hotcrp.com/](https://sigcomm19indus-demos.hotcrp.com/)
+Submission Site: [https://sigcomm2019-industry-demos.hotcrp.com/](https://sigcomm2019-industry-demos.hotcrp.com/)
 
 ## <i class="fa fa-calendar"></i> Important Dates
 
