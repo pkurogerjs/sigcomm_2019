@@ -11,8 +11,7 @@ group: Hotel
 Opened: 1987&nbsp;&nbsp;&nbsp;&nbsp;Renovated: 2007&nbsp;&nbsp;&nbsp;&nbsp;Tel: 86-10-68412211<br>
 No. 29 Zizhuyuan Road Haidian District, Beijing, 100089, China
 
-Visitors to Beijing will find that the Shangri-La Hotel, Beijing is a fantastic accommodation choice. It is conveniently located just 8km from Beijing West Railway Station. Just a short walk from Chedaogou Metro Station, traveling to most city destinations is a breeze.
-
+Visitors to Beijing will find that the Shangri-La Hotel, Beijing is a fantastic accommodation choice. It is conveniently located just 8km from Beijing West Railway Station. Just a short walk from Chedaogou Metro Station, traveling to most city destinations is a breeze. 
 Airport pickup can be arranged by the hotel upon request.
 
 <div class="imagetext">
@@ -41,7 +40,8 @@ Airport pickup can be arranged by the hotel upon request.
     
 </ul>
 
-The reservation will be updated soon.
+Cancellation policy<br>
+The individual delegate will make reservations direct to the hotel by SIGCOMM19 [online booking]() (To be updated very soon), they will be responsible for sleeping room charges and guest room must be guaranteed by individual's credit card at time of booking. Any reservation cancelled after **4 August 2019** or no shows will result in a late cancellation charge equivalent to full duration of stay. Such charges will be charged to individual guests.
 
 <b>Travel</b>
 <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
@@ -113,7 +113,11 @@ There are 2 kilometers away from the hotel to the venue, 8 minutes for car and 2
 
 Room Rate is around 700 RMB/night including single western breakfast.<br/> 
 
-The reservation will be updated soon.
+**Reservation(To be updated soon)**
+
+Cancellation policy<br>
+The individual delegate will be responsible for sleeping room charges and guest room must be guaranteed by individual's credit card at time of booking. Any reservation cancelled after **31 July 2019** will charge 50% of full duration of stay. Any reservation cancelled after **17 August 2019** or no shows will charge the full duration of stay. Such charges will be charged to individual guests.
+
 
 <div class="imagetext">
     <img src="{{ site.baseurl }}/images/hotels/hotel2_1.jpg" style="width:49%;" alt="Hotel Nikko New Century Beijing" />
@@ -190,7 +194,11 @@ The Xiyuan Hotel Beijing offers a pleasant stay in Beijing for those traveling f
 
 Room Rate is around 700 RMB/night including single western breakfast.<br>
 
-The reservation will be updated soon.
+**Reservation(To be updated soon)**
+
+Cancellation policy<br>
+The individual delegate will be responsible for sleeping room charges and guest room must be guaranteed by individual's credit card at time of booking. Any reservation cancelled after **31 July 2019** will charge 50% of full duration of stay. Any reservation cancelled after **17 August 2019** or no shows will charge the full duration of stay. Such charges will be charged to individual guests.
+
 
 <div class="imagetext">
     <img src="{{ site.baseurl }}/images/hotels/hotel3_1.jpg" style="width:49%;" alt="The Xiyuan Hotel" />
@@ -238,7 +246,7 @@ The reservation will be updated soon.
 
    <li data-icon="false">
       <div class="ui-grid-a">
-        <div class="ui-block-a" style="width:30%"><p><Xiyuan Hotel</p></div>
+        <div class="ui-block-a" style="width:30%"><p>Xiyuan Hotel</p></div>
         <div class="ui-block-b" style="width:30%"><p>Tian An Men Square</p></div>
         <div class="ui-block-b" style="width:20%"><p>11 km</p></div>
         <div class="ui-block-b" style="width:20%"><p>32 minutes</p></div>

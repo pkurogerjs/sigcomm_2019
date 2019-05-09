@@ -12,7 +12,9 @@ If you need a visa support letter, please register for the conference and provid
 
 Visa support letters are answered in the order the requests are received. You will receive a PDF letter by email within 3 business days. Please print out your PDF visa support letter and take it with you to your visa appointment. The original letter is mailed only upon an explicit request. 
 
-Please note that support letter will only be sent to participants who have registered and paid for the conference. Please note that ACM does not issue formal support letter to any of its conferences.
+Please note that support letter will only be sent to participants who have registered and paid for the conference.
+
+Please note that ACM does not issue formal support letter to any of its conferences.
 
  
  
