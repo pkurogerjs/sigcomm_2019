@@ -293,9 +293,9 @@ menu:
 #  - name: Room sharing
 #    url: /room-share.html
 #    icon: fa-bed
-#  - name: Getting around
-#    url: /getting_around.html
-#    icon: fa-compass
+  - name: Getting around
+    url: /getting_around.html
+    icon: fa-compass
 
 - name: Policies
   icon: fa-book
