@@ -21,7 +21,7 @@ group: Local information
 <a href="#t5">**The Temple of Heaven (16 km from the venue)**</a>
 -->
 
-For more travel information about sightseeing, food, shops, leisure and hotels, please visit [http://www.ebeijing.gov.cn/Travel/](http://www.ebeijing.gov.cn/Travel/).
+There are many places of interest in Beijing for sightseeing. We give a brief introduction to 5 of the most famous places. For more travel information about sightseeing, food, shops, leisure and hotels, please visit [http://www.ebeijing.gov.cn/Travel/](http://www.ebeijing.gov.cn/Travel/).
 
 <span id="t1">**The Forbidden City&nbsp;&nbsp;(9.8 km from the venue)**</span>
 
