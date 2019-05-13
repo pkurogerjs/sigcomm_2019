@@ -5,10 +5,10 @@ group: Visa
 ---
 
 # {{ page.title }}
-According to Chinese government regulations, visas are required for most countries to enter China except [Agreements on Mutual Visa Exemption Between the People’s Republic of China and Foreign Countries]({{site.baseurl}}/files/visa/Visa_Attachment_1.pdf). Please contact the Chinese Embassy or Consulate in your city or country directly to obtain the details of visa procedures, timelines, communities served, required documentation, and fees. Visa processing is unpredictable and might take some time, please make arrangements in advance.  
+According to Chinese government regulations, visas are required for most countries to enter China except <a href="{{site.baseurl}}/files/visa/Visa_Attachment_1.pdf" target="_blank">Agreements on Mutual Visa Exemption Between the People's Republic of China and Foreign Countries</a>. Please contact the Chinese Embassy or Consulate in your city or country directly to obtain the details of visa procedures, timelines, communities served, required documentation, and fees. Visa processing is unpredictable and might take some time, please make arrangements in advance.  
 
 ## Visa support letter
-If you need a visa support letter, please register for the conference and provide the required information in [the attached form]({{site.baseurl}}/files/visa/Visa_Attachment_2.pdf) and email your request and form to the <b>localchairs19@sigcomm.org</b> with the subject of support letter requirement.
+If you need a visa support letter, please register for the conference and provide the required information in <a href="{{site.baseurl}}/files/visa/Visa_Attachment_2.pdf" target="_blank">the attached form</a> and email your request and form to the <b>localchairs19@sigcomm.org</b> with the subject of support letter requirement.
 
 Visa support letters are answered in the order the requests are received. You will receive a PDF letter by email within 3 business days. Please print out your PDF visa support letter and take it with you to your visa appointment. The original letter is mailed only upon an explicit request. 
 

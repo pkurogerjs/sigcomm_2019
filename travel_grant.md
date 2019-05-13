@@ -61,7 +61,7 @@ Use your full name and surname as the title of the submission. The applicant sho
 3. A letter from their supervisor (PhD adviser for students, PhD or postdoc adviser for postdocs, or supervisor for faculty/researchers). The recommendation letter can be directly uploaded by the applicant during the application process (Recommended). Alternatively, the advisor can directly email the recommendation letter to the travel grant co-chairs if confidentiality is a concern.
 
 
-**The applicant’s letter should be based on [this template]({{site.baseurl}}/files/travel_grant/2019_Sigcomm_Travel_Grant_Application_Form.pdf) and include the following sections:**
+**The applicant’s letter should be based on <a href="{{site.baseurl}}/files/travel_grant/2019_Sigcomm_Travel_Grant_Application_Form.pdf" target="_blank">this template</a> and include the following sections:**
 
 1. An explicit identification of (a) the applicant’s current country of study or work, (b) academic status (student, postdoc, or junior faculty member), (c) whether the applicant qualifies for a GeoDiversity Travel Grant (see above), and (d) whether the applicant would like to be considered for the N2Women travel grant.
 
