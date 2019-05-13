@@ -113,7 +113,7 @@ There are 2 kilometers away from the hotel to the venue, 8 minutes for car and 2
 
 Room Rate is around 700 RMB/night including single western breakfast.<br/> 
 
-**Reservation(To be updated soon)**
+**<a href="{{site.baseurl}}/files/hotel/Hotel_Nikko_New_Century_Beijing.pdf" target="_blank">Reservation</a>**
 
 Cancellation policy<br>
 The individual delegate will be responsible for sleeping room charges and guest room must be guaranteed by individual's credit card at time of booking. Any reservation cancelled after **31 July 2019** will charge 50% of full duration of stay. Any reservation cancelled after **17 August 2019** or no shows will charge the full duration of stay. Such charges will be charged to individual guests.
@@ -194,7 +194,7 @@ The Xiyuan Hotel Beijing offers a pleasant stay in Beijing for those traveling f
 
 Room Rate is around 700 RMB/night including single western breakfast.<br>
 
-**Reservation(To be updated soon)**
+**<a href="{{site.baseurl}}/files/hotel/Xiyuan_Hotel.pdf" target="_blank">Reservation</a>**
 
 Cancellation policy<br>
 The individual delegate will be responsible for sleeping room charges and guest room must be guaranteed by individual's credit card at time of booking. Any reservation cancelled after **31 July 2019** will charge 50% of full duration of stay. Any reservation cancelled after **17 August 2019** or no shows will charge the full duration of stay. Such charges will be charged to individual guests.
