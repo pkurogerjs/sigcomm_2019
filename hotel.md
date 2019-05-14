@@ -274,4 +274,4 @@ The individual delegate will be responsible for sleeping room charges and guest 
 <br>
 <b>Venue and hotels</b>
 <div class="imagetext">
-    <img src="{{ site.baseurl }}/images/hotels/map_2.jpg" style="width:100%;" alt="Venue and hotels" />
+    <img src="{{ site.baseurl }}/images/hotels/map_2.png" style="width:100%;" alt="Venue and hotels" />
