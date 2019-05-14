@@ -64,6 +64,41 @@ Submissions include an extended abstract for oral presentation at the workshop. 
 ### Registration
 {% include workshop_registration.html %}
 
+### Speakers
+**Keren Bergman**
+<div style="overflow:hidden;">
+<div style="float:left;width:15%">
+<img style="display:block;width:100%" src="{{site.baseurl}}/files/workshop/OptSys/Bergman_photo.jpg" alt="" />
+</div>
+<div style="float:right;width:80%;">
+<p>Keren Bergman is the Charles Batchelor Professor of Electrical Engineering at Columbia University where she also serves as the Faculty Director of the Columbia Nano Initiative. Bergman (Ph.D. M.I.T. 1994) leads the Lightwave Research Laboratory encompassing multiple cross-disciplinary programs at the intersection of computing and photonics. She serves on the Leadership Council of the American Institute of Manufacturing (AIM) Photonics leading projects that support the institute’s silicon photonics manufacturing capabilities and Datacom applications. Bergman is a Fellow of the Optical Society of America (OSA) and IEEE.</p>
+</div>
+</div>
+
+**George Porter**
+<div style="overflow:hidden;">
+<div style="float:left;width:15%">
+<img style="display:block;width:100%" src="{{site.baseurl}}/files/workshop/OptSys/george-porter.jpg" alt="" />
+</div>
+<div style="float:right;width:80%">
+<p>
+George Porter is an Associate Professor at UC San Diego and the Co-Director of UCSD's Center for Networked Systems, working on topics related to data-intensive computing and data center networking.  He has received a Google Focused Research Award, a NetApp Faculty Fellowship, a Cisco Research award, the NSF CAREER award, and the USENIX NSDI 2017 “Test of Time” award. He received his B.S. from the University of Texas at Austin and his Ph.D. from the University of California, Berkeley.
+</p>
+</div>
+</div>
+
+**Eitan Zahavi**
+<div style="overflow:hidden;">
+<div style="float:left;width:15%">
+<img style="display:block;width:100%" src="{{site.baseurl}}/files/workshop/OptSys/eitan_photo_2019.JPG" alt="" />
+</div>
+<div style="float:right;width:80%">
+<p>
+Dr. Eitan Zahavi, just joined Amazon AWS Networking as a Senior Principal Engineer.Previously, Eitan led the Mellanox network architecture group focusing on cluster level performance.He also acted as a co-chair of the IBTA technical working group.He received his Ph.D. about “Forwarding in Compute Clusters” in 2015 and Bs.C. in 1987 both at the EE department of the Technion, Israel institute of technology.
+</p>
+</div>
+</div>
+
 ### Camera-ready instructions
 {% include camera-ready_ws_inst.html %}
 
