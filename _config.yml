@@ -246,9 +246,9 @@ menu:
 #- name: Registration
 #  icon: fa-user-plus
 #  url: /registration.html
-#- name: Social events
-#  icon: fa-calendar
-#  submenu:
+- name: Social events
+  icon: fa-calendar
+  submenu:
 #  - name: Reception
 #    icon: fa-glass
 #    url: /reception.html
@@ -258,9 +258,9 @@ menu:
 #  - name: Banquet
 #    icon: fa-cutlery
 #    url: /banquet.html
-#  - name: N2Women dinner
-#    icon: fa-female
-#    url: /n2women_dinner.html
+  - name: N2Women dinner
+    icon: fa-female
+    url: /n2women_dinner.html
 - name: Travel grants
   icon: fa-money
   url: /travel_grant.html
