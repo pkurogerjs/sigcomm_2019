@@ -32,6 +32,8 @@ In addition to standard travel grants open to all academic participants, we also
 
 The N2Women Chris Edmondson-Yurkanan travel grant recognizes the many contributions from long-time SIGCOMM volunteer, Chris Edmondson-Yurkanan. The grant is awarded each year to a woman, preferably but not necessarily a student, whose interest in and dedication to the SIG best exemplify Chris' spirit. The grant will support travel to the SIGCOMM conference, and its awarding will be overseen by the N2Women group in coordination with the SIG.
 
+The SIG is also providing N2Women travel grant for one student to attend the conference. The goal is to foster the under-represented minority community within SIGCOMM and encourge interactions between students and senior researchers. The awardee will assist the N2Women chairs with the N2Women dinner organization at the SIGCOMM conference.
+
 SIGCOMM’s GeoDiversity Travel Grant is for applicants preferably in their early career (applicants who are at most five years of full-time, full-level [non-postdoc] post-PhD employment will be given higher priority), and may be graduate students or postdocs. These grants are to promote exchange between the Sigcomm community and networking researchers/students from countries historically under-represented at Sigcomm conferences (e.g. Latin America, Africa, and parts of Asia). GeoDiversity Travel Grants are likely to be funded at a higher level (see [https://sigcomm.org/for-authors/geodiversity-travel-grants](https://sigcomm.org/for-authors/geodiversity-travel-grants)).
 
 Please consider the following important information before applying: The application process is the same for all types of attendees and all sources of funding, and is described in the rest of this page. Travel grant awards are meant to partially cover the cost of attending and participating in SIGCOMM 2019. The only travel expenses that reimbursements can be used towards are: transportation, hotel, and conference registration. Note that the award recipients will need to pay for the expenses ahead of time and get reimbursed after the conference. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
@@ -63,7 +65,7 @@ Use your full name and surname as the title of the submission. The applicant sho
 
 **The applicant’s letter should be based on <a href="{{site.baseurl}}/files/travel_grant/2019_Sigcomm_Travel_Grant_Application_Form.pdf" target="_blank">this template</a> and include the following sections:**
 
-1. An explicit identification of (a) the applicant’s current country of study or work, (b) academic status (student, postdoc, or junior faculty member), (c) whether the applicant qualifies for a GeoDiversity Travel Grant (see above), and (d) whether the applicant would like to be considered for the N2Women travel grant.
+1. An explicit identification of (a) the applicant’s current country of study or work, (b) academic status (student, postdoc, or junior faculty member), (c) whether the applicant qualifies for a GeoDiversity Travel Grant (see above), and (d) whether the applicant would like to be considered for the N2Women Chris Edmondson-Yurkanan travel grant and N2Women travel grant.
 
 2. Whether the applicant is the presenter of a paper, or has submitted a poster or demo; and whether the applicant has applied for the ACM Student Research Competition (SRC);
 

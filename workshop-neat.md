@@ -7,7 +7,7 @@ dates:
     - info: Workshop date
       date: August 19, 2019
     - info: Paper acceptance notification
-      date: May 20, 2019
+      date: May 27, 2019
     - info: Submission deadline (firm)
       date: April 17, 2019 
     - info: Paper registration deadline (firm)
