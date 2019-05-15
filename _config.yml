@@ -222,18 +222,18 @@ menu:
     url: /cf-tutorials.html
     icon: fa-laptop
 
-#- name: Hackathon
-#  icon: fa-briefcase
-#  submenu:
+- name: Hackathon
+  icon: fa-briefcase
+  submenu:
 #  - name: Venue
 #    url:  /hackathon_venue.html
 #    icon: fa-map-marker
 #  - name: Netflix hackathon travel grant
 #    url:  /hackathon_netflix.html
 #    icon: fa-money
-#  - name: Call for participation
-#    url: /hackathon.html
-#    icon: fa-bell-o
+  - name: Call for participation
+    url: /hackathon.html
+    icon: fa-bell-o
 - name: Venue
   icon: fa fa-university
   url: /venue.html
