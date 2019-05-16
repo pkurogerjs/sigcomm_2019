@@ -11,7 +11,7 @@ dates:
     - info: Camera-ready due (1-page extended abstract)
       date: June 20, 2019
     - info: WorkShop
-      date: Aug 19 or 23, 2019
+      date: Aug 19, 2019
 
 committees:
     - role: Program Chairs
