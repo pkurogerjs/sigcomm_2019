@@ -200,9 +200,9 @@ menu:
 #  - name: Venue
 #    url:  /hotel_ts.html
 #    icon: fa-map-marker
-#  - name: P4
-#    url: /tutorial-p4.html
-#    icon: fa-circle
+  - name: P4
+    url: /tutorial-p4.html
+    icon: fa-circle
 #  - name: HDA
 #    url: /tutorial-hda.html
 #    icon: fa-adjust fa-rotate-180
@@ -212,12 +212,12 @@ menu:
 #  - name: HPNFV
 #    url: /tutorial-hpnfv.html
 #    icon: fa-circle
-#  - name: SO-RAN
-#    url: /tutorial-ran.html
-#    icon: fa-adjust fa-rotate-180
-#  - name: IoN
-#    url: /tutorial-ion.html
-#    icon: fa-adjust
+  - name: CPS
+    url: /tutorial-cps.html
+    icon: fa-adjust fa-rotate-180
+  - name: NDNoT
+    url: /tutorial-ndnot.html
+    icon: fa-adjust
   - name: Call for tutorials
     url: /cf-tutorials.html
     icon: fa-laptop
