@@ -203,9 +203,6 @@ menu:
   - name: P4
     url: /tutorial-p4.html
     icon: fa-circle
-#  - name: HDA
-#    url: /tutorial-hda.html
-#    icon: fa-adjust fa-rotate-180
 #  - name: RCM
 #    url: /tutorial-rcm.html
 #    icon: fa-adjust
@@ -218,6 +215,9 @@ menu:
   - name: NDNoT
     url: /tutorial-ndnot.html
     icon: fa-adjust
+  - name: POWDER
+    url: /tutorial-powder.html
+    icon: fa-adjust fa-rotate-180
   - name: Call for tutorials
     url: /cf-tutorials.html
     icon: fa-laptop

@@ -193,8 +193,8 @@ To participate the hands-on exercise, attendees need to bring their own laptops 
 ## References
 Named Data Networking website ([http://named-data.net](http://named-data.net)) archives NDN publications, codebase, documentations, and prior tutorials. A few specific links:
 
-. NDN architecture paper: [https://named-data.net/publications/named_data_networking_ccr/](https://named-data.net/publications/named_data_networking_ccr/)
+- NDN architecture paper: [https://named-data.net/publications/named_data_networking_ccr/](https://named-data.net/publications/named_data_networking_ccr/)
 
-. NDN codebase: [https://named-data.net/codebase/platform/](https://named-data.net/publications/named_data_networking_ccr/)
+- NDN codebase: [https://named-data.net/codebase/platform/](https://named-data.net/publications/named_data_networking_ccr/)
 
-. NDN-lite: [https://github.com/named-data-iot/ndn-lite/wiki](https://github.com/named-data-iot/ndn-lite/wiki)
+- NDN-lite: [https://github.com/named-data-iot/ndn-lite/wiki](https://github.com/named-data-iot/ndn-lite/wiki)

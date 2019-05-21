@@ -222,7 +222,7 @@ Attendees are required to bring their own laptops with a Java 10 JDK and an edit
 ### References
 <p>
 [Bondorf and Schmitt 2014] Steffen Bondorf and Jens B. Schmitt. 2014. The DiscoDNC v2 – a comprehensive tool for deterministic network calculus. In Proceedings of the 8th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS '14). ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), ICST, Brussels, Belgium, Belgium, 44-49. <br>
-. For the source code visit dnc.networkcalculus.org<br>
+<ul> <li> For the source code visit dnc.networkcalculus.org</li></ul>
 [Bondorf and Schmitt 2015] Steffen Bondorf and Jens B. Schmitt, Boosting sensor network calculus by thoroughly bounding cross-traffic, 2015 IEEE Conference on Computer Communications (INFOCOM), Kowloon, 2015, pp. 235-243.<br>
 [Le Boudec and Thiran 2001] Jean-Yves Le Boudec and Patrick Thiran. 2001. Network Calculus: A Theory of Deterministic Queuing Systems for the Internet. Springer-Verlag, Berlin, Heidelberg.<br>
 [Yang, Cheng, and Ma 2017] Huan Yang, Liang Cheng, and Xiaoguang Ma, Analyzing worst-case delay performance of IEC 61850-9-2 process bus networks using measurements and network calculus, in the Proceeding of The Eighth International Conference on Future Energy Systems (ACM e-Energy), Hong Kong, May 17-19, 2017
