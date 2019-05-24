@@ -26,19 +26,27 @@ Students (undergraduates and graduates, junior and senior PhDs), researchers (re
 </div>
 
 ## Details
-At the second ACM SIGCOMM Hackathon, participants will identify and help resolve challenges of their choice related to the research themes of the SICOMM conference. The theme of the Hackathon is “Measuring and Debugging Real Network Systems”, but participants are free to choose the project of their interest, related to research topics of the SIGCOMM conference. During the event, participants form small teams, with each team focusing on a given project. At the end of the day, participating teams are given an opportunity to briefly present their ideas, and judges award prizes to the top 3 teams. We will publish an article to summarize the achievements of the teams in the ACM SIGCOMM Computer Communication Review.
+At the second ACM SIGCOMM Hackathon, participants will identify and help resolve challenges of their choice related to the research themes of the SICOMM conference. The theme of the Hackathon is “**Measuring and Debugging Real Network Systems**”, but participants are free to choose the project of their interest, related to research topics of the SIGCOMM conference.
 
-During the event, representatives of the open­source projects and companies that proposed challenges will be on site to provide mentoring. Food and drinks are provided throughout the event. 
+There will be three major topics provided by the Hackathon:
+- Building measurement and debugging tools for existing distributed systems
+- Debugging network protocols with real traces
+- Creating novel measurement tools and collecting real network data
+
+During the event, participants form small teams, with each team focusing on a given project. At the end of the day, participating teams are given an opportunity to briefly present their ideas, and judges award prizes to the top 3 teams. We will publish an article to summarize the achievements of the teams in the ACM SIGCOMM Computer Communication Review.
+
+During the event, representatives of the open-source projects and companies that proposed challenges will be on site to provide mentoring. Food and drinks are provided throughout the event.
 
 Event Date: **Staturday, August 24, 2019**
 
+Event Location: **Alibaba@Beijing**
+
 For any further queries, please email the Hackathon team at:
 
+Hongqiang Liu <hongqiang.liu@alibaba-inc.com>, Alibaba Group, US <br>
+Hongbin Luo <luohb@buaa.edu.cn>, BUAA, China<br><br>
 
-lampson0505@gmail.com <br>
-luohb@buaa.edu.cn
-
-
+Hope to see you in Beijing!
 
 
 
