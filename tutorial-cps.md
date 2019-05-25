@@ -5,9 +5,12 @@ group: Tutorials
 
 dates:
     - info: Tutorial
-      date: August 24, 2018
+      date: August 23, 2019
       
 data:
+  - type: day
+    time: Friday, August 23, 2019
+    room: ''
   - type: session
     time: 8:30am - 9:00am
     room: 
@@ -187,10 +190,9 @@ This tutorial will provide participants with challenges, solutions, and tools wi
 Attendees will also learn details of DNC (NetworkCalculus.org), a comprehensive tool for network calculus analysis, and how to use it for analyzing the delay performance of tandem networks, tree networks, and feed-forward networks for CPS with hands-on labs.
 
 ## <i class="fa fa-calendar"></i> Important Dates
-<!---
+
 {% include dates2.html dates=page.dates %}
---->
-TBD
+
 ## Outline
   
 Part I: Background and network calculus theory. Introduction to CPS; network infrastructure evolution in CPS; min-plus calculus; network calculus; review exercise. [Le Boudec and Thiran 2001]

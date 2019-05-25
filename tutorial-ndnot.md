@@ -5,9 +5,12 @@ group: Tutorials
 
 dates:
     - info: Tutorial
-      date: August 24, 2018
+      date: August 19, 2019
       
 data:
+  - type: day
+    time: Monday, August 19, 2019
+    room: ''
   - type: workshop
     time: 9:00am - 10:30am
     room: 
@@ -177,11 +180,11 @@ Together with an increasing interest in NDN, there have also been a number of qu
 We expect the tutorial to benefit network researchers and students with different levels of background knowledge on NDN. For people who want to learn what NDN is, the morning sessions are of particular interest. For people who are looking for ways to contribute to NDN design and development, the afternoon hands-on exercises will be very useful. 
 
 
-<!---
+
 ## <i class="fa fa-calendar"></i> Important Dates
 
 {% include dates2.html dates=page.dates %}
---->
+
 
 ## Audience Expectations and Prerequisites
 To participate the hands-on exercise, attendees need to bring their own laptops of Linux, MacOS, or Windows with Linux virtual machines, and with proper C/C++ development environment. 

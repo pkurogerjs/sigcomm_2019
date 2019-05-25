@@ -5,9 +5,12 @@ group: Tutorials
 
 dates:
     - info: Tutorial
-      date: August 20, 2018
+      date: August 19, 2019
       
 data:
+  - type: day
+    time: Monday, August 19, 2019
+    room: ''
   - type: session
     time: 8:30am - 10:30am
     room:
@@ -153,12 +156,9 @@ The POWDER-RENEW project ([https://powderwireless.net](https://powderwireless.ne
 
 ## <i class="fa fa-calendar"></i> Important Dates
 
-TBD
 
-<!---
 {% include dates2.html dates=page.dates %}
 
---->
 
 ## Outline
 

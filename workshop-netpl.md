@@ -8,6 +8,8 @@ dates:
       date: April 8, 2019
     - info: Acceptance notifications
       date: April 15, 2019
+    - info: Workshop
+      date: August 23, 2019
 
 committees:
     - role: Workshop Organizers

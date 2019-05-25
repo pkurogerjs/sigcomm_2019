@@ -5,9 +5,12 @@ group: Tutorials
 
 dates:
     - info: Tutorial
-      date: August 20, 2018
+      date: August 23, 2019
       
 data:
+  - type: day
+    time: Friday, August 23, 2018
+    room: ''
   - type: workshop
     time: 9:00am - 10:00am
     room: 
@@ -148,12 +151,8 @@ The second half of the day will consist of a mini P4 Workshop for participants t
 
 ## <i class="fa fa-calendar"></i> Important Dates
 
-TBD
 
-<!---
 {% include dates2.html dates=page.dates %}
-
---->
 
 ## Outline
 
