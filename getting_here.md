@@ -35,3 +35,12 @@ The local bus routes can be found <a href="{{site.baseurl}}/images/local_info/Lo
     <img src="{{ site.baseurl }}/images/local_info/getting_here1.png" style="width:48%;" alt="Getting Here 1" />
    <img src="{{ site.baseurl }}/images/local_info/getting_here2.png" style="width:48%;"  alt="Getting Here 2" />
 </div>
+
+## Transportation from hotels to the venue
+
+The conference organizer provides one round-trip shuttle bus service per day from Xiyuan Hotel and Hotel Nikko New Century Beijing to the venue. If you miss the shuttle bus, the public buses are also choices.
+
+You can take Bus No.104, No.360, and No.347, only two stops from Baishiqiao East Bus Stop to Beiwalu Bus Stop (<a href="{{site.baseurl}}/images/local_info/" target="_blank">Chinese characters of these two bus stations</a>), which costs RMB 2. The rough locations of these two bus stops can be seen in the following maps:
+
+
+

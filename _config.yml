@@ -255,9 +255,9 @@ menu:
 #  - name: Student dinner
 #    icon: fa-graduation-cap
 #    url: /student_dinner.html
-#  - name: Banquet
-#    icon: fa-cutlery
-#    url: /banquet.html
+  - name: Banquet
+    icon: fa-cutlery
+    url: /banquet.html
   - name: N2Women dinner
     icon: fa-female
     url: /n2women_dinner.html
@@ -287,6 +287,9 @@ menu:
   - name: Getting here
     url: /getting_here.html
     icon: fa-plane
+  - name: Banks and Restaurants
+    url: /banks_and_restaurants.html
+    icon: fa-cutlery
 #  - name: Bike to SIGCOMM
 #    url: /bike-to-sigcomm.html
 #    icon: fa-bicycle
