@@ -252,9 +252,9 @@ menu:
 #  - name: Reception
 #    icon: fa-glass
 #    url: /reception.html
-#  - name: Student dinner
-#    icon: fa-graduation-cap
-#    url: /student_dinner.html
+  - name: Student dinner
+    icon: fa-graduation-cap
+    url: /student_dinner.html
   - name: Banquet
     icon: fa-cutlery
     url: /banquet.html
