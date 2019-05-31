@@ -44,7 +44,7 @@ Airport pickup can be arranged by the hotel upon request.
 
 Cancellation policy
 
-The individual delegate will make reservations direct to the hotel by SIGCOMM19 [online booking]() (To be updated very soon), they will be responsible for sleeping room charges and guest room must be guaranteed by individual&apos;s credit card at time of booking. Any reservation cancelled after **4 August 2019** or no shows will result in a late cancellation charge equivalent to full duration of stay. Such charges will be charged to individual guests.
+The individual delegate will make reservations direct to the hotel by SIGCOMM19 [online booking](http://www.shangri-la.com/reservations/booking/en/index.aspx?hid=SLB&group_code=ADO180819&check_in=20190818&check_out=20190824), they will be responsible for sleeping room charges and guest room must be guaranteed by individual&apos;s credit card at time of booking. Any reservation cancelled after **4 August 2019** or no shows will result in a late cancellation charge equivalent to full duration of stay. Such charges will be charged to individual guests.
 
 <b>Travel</b>
 <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
@@ -116,10 +116,8 @@ There are 2 kilometers away from the hotel to the venue, 8 minutes for car and 2
 
 Room Rate is around 700 RMB/night including single western breakfast.<br/> 
 
-<!--
 **<a href="{{site.baseurl}}/files/hotel/Hotel_Nikko_New_Century_Beijing.pdf" target="_blank">Reservation</a>**
--->
-**The reservatioin will be updated soon.**
+
 
 Cancellation policy
 
@@ -201,9 +199,9 @@ The Xiyuan Hotel Beijing offers a pleasant stay in Beijing for those traveling f
 
 Room Rate is around 700 RMB/night including single western breakfast.<br>
 
-<!--
-**<a href="{{site.baseurl}}/files/hotel/Xiyuan_Hotel.pdf" target="_blank">Reservation</a>**-->
-**The reservation will be updated soon.**
+
+<a href="{{site.baseurl}}/files/hotel/Xiyuan_Hotel.pdf" target="_blank">Reservation</a>
+
 
 Cancellation policy
 

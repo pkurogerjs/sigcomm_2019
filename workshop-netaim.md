@@ -77,8 +77,8 @@ committees:
          affiliation: Hebrew University of Jerusalem, Israel
        - name:        Chen Tian 
          affiliation: Nanjing University, China
-       - name:        Shobha Venkataraman 
-         affiliation: AT&T, USA
+<!--   - name:        Shobha Venkataraman 
+         affiliation: AT&T, USA  -->
        - name:        Walter Willinger 
          affiliation: NIKSUN Inc., USA
        - name:        Ying Zhang 
