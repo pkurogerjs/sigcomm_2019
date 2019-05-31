@@ -99,6 +99,21 @@ Dr. Eitan Zahavi, just joined Amazon AWS Networking as a Senior Principal Engine
 </div>
 </div>
 
+**T. S. Eugene Ng**
+<div style="overflow:hidden;">
+<div style="float:left;width:15%">
+<img style="display:block;width:100%" src="{{site.baseurl}}/files/workshop/OptSys/Eugene.png" alt="" />
+</div>
+<div style="float:right;width:80%">
+<p>
+T. S. Eugene Ng is a Professor of Computer Science and Electrical & Computer Engineering at Rice University. He was selected as an Alfred P. Sloan Research Fellow and received an IBM Faculty Award in 2009. He also received a National Science Foundation CAREER Award in 2005, and is a Kavli Fellow. He holds a B.S. in Computer Engineering with distinction and magna cum laude from University of Washington, a M.S. and a Ph.D. in Computer Science from Carnegie Mellon University. In recent years, he has pioneered a research direction called Big data and Optical Lightpaths Driven (BOLD) networked systems, which explores new networked systems architectures and mechanisms, such as optics, to support sophisticated big data application network traffic workloads in a scalable, affordable and environmentally sustainable manner, and develops innovative big data processing systems, applications and algorithms that are made possible by the new networked systems architectures and mechanisms.
+</p>
+</div>
+</div>
+
+
+
+
 ### Camera-ready instructions
 {% include camera-ready_ws_inst.html %}
 

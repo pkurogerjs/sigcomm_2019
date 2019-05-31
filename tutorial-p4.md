@@ -4,8 +4,12 @@ title: "ACM SIGCOMM 2019 Full-Day Tutorial on Programming the Network Data Plane
 group: Tutorials
 
 dates:
-    - info: Tutorial
-      date: August 23, 2019
+  - info: Submission Deadline
+    date: June 28, 2019
+  - info: Author Notification Date
+    date: July 12, 2019  
+  - info: Tutorial
+    date: August 23, 2019
       
 data:
   - type: day
