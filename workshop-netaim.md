@@ -77,8 +77,6 @@ committees:
          affiliation: Hebrew University of Jerusalem, Israel
        - name:        Chen Tian 
          affiliation: Nanjing University, China
-<!--   - name:        Shobha Venkataraman 
-         affiliation: AT&T, USA  -->
        - name:        Walter Willinger 
          affiliation: NIKSUN Inc., USA
        - name:        Ying Zhang 
@@ -148,4 +146,5 @@ As the interest in coupling networking and AI/ML is growing, we recognize that r
 
 {% include committees.html committees=page.committees %}
 
-
+<!--   - name:        Shobha Venkataraman
+         affiliation: AT&T, USA  -->
