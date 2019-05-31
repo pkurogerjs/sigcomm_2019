@@ -146,4 +146,5 @@ As the interest in coupling networking and AI/ML is growing, we recognize that r
 
 {% include committees.html committees=page.committees %}
 
-
+<!--   - name:        Shobha Venkataraman
+         affiliation: AT&T, USA  -->
