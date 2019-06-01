@@ -243,9 +243,9 @@ menu:
 - name: Visa
   icon: fa-address-card-o
   url: /visa.html
-#- name: Registration
-#  icon: fa-user-plus
-#  url: /registration.html
+- name: Registration
+  icon: fa-user-plus
+  url: /registration.html
 - name: Social events
   icon: fa-calendar
   submenu:

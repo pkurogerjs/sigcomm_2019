@@ -8,27 +8,18 @@ group: Registration
 
 
 # {{ page.title }}
-Registration for the SIGCOMM 2018 main conference (including all its parallel events), workshops, and tutorials is managed via a [RegOnline website](https://regonline.com/acmsigcomm2018). Note that free registration for the
-SIGCOMM 2018 [hackathon](https://conferences.sigcomm.org/sigcomm/2018/hackathon.html) and [N2Women dinner](https://conferences.sigcomm.org/sigcomm/2018/n2women_dinner.html) will be available on the respective pages of the SIGCOMM 2018 website.
+Registration for the SIGCOMM 2019 main conference (including all its parallel events), workshops, and tutorials is managed via [a CVENT website](http://www.cvent.com/d/66q4fb/4W).  Note that free registration for [the SIGCOMM 2019 hackathon](https://conferences.sigcomm.org/sigcomm/2019/hackathon.html) and [N2Women dinner](https://conferences.sigcomm.org/sigcomm/2019/n2women_dinner.html) will be available on the respective pages of the SIGCOMM 2019 website.
 
-To promote participation in the workshops, SIGCOMM 2018 offers discounted
-workshop registrations to attendees of the main conference. A
-main-conference attendee may register for a workshop at a discounted fee of
-$100.
+**To encourage workshop and tutorial participations, SIGCOMM 2019 provides a special registration option: workshop & tutorial (all). Participants who register for workshop & tutorial (all) can attend all the workshops and tutorials at SIGCOMM 2019.**
 
+Each accepted paper and poster must be presented by one of its authors at the SIGCOMM 2019 main conference or workshop. If the presenting author is a student, the author may register at the student rate, i.e., SIGCOMM 2019 does not require a full-rate registration from student authors.
 
-Also, participants who register for a Monday or Friday workshop or tutorial
-may freely attend another workshop on the same day. 
-However, a tutorial may be attended only by the participants who registered for this
-particular tutorial. 
-To help with room allocation, the registration must be done for the workshop or tutorial that the registrant will attend the most during the day.
+All conference registrations (Member / Non-member / Student) include breaks and lunches between Tuesday and Thursday, a Welcome Reception, and a Banquet Dinner. Students registered for the conference, TPC, EC and OC members receive free tickets to the Student Dinner. Sponsors receive free tickets for the student dinner according to sponsorship level.
 
+Workshop / Tutorial registration includes breaks, lunches on the day of the registered Workshop / Tutorial. (Welcome Reception and Banquet Dinner are not included.)
 
-Each accepted paper and poster must be presented by one of its authors at
-the SIGCOMM 2018 main conference or workshop. If the presenting author is a
-student, the author may register at the student rate, i.e., SIGCOMM 2018
-does not require a full-rate registration from student authors.
+Exhibitor registrations do not  provide access to technical sessions, welcome reception, and banquet dinner. However, coffee breaks and lunch will be provided for the day(s) that the exhibitor has registered for.
 
-The Early Registration deadline is on **July 14**.
+**All refund requests must be made in writing and received no later than Monday, August 4, 2019.** There is a $75 processing fee subtracted from the refund.** No refunds will be processed for those cancelling after August 4, 2019.**
 
-[Register for the Main Conference, Workshops, and Tutorials](https://regonline.com/acmsigcomm2018){: data-role="button" class="button" style="width:90%;"}
+**The deadline of early registration is July 12th, 11:59pm GMT.**
