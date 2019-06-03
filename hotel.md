@@ -40,6 +40,8 @@ Airport pickup can be arranged by the hotel upon request.
     
 </ul>
 
+All prices are in RMB and inclusive of 10% service charge and prevailing government taxes and value-added tax payable on the prices together with the service charge. Room rates are inclusive of daily buffet breakfast (Breakfast is provided based on the actual number of registered guests.).
+
 **Reservation and Cancellation Policy**
 
 The individual delegate will make reservations direct to the hotel by SIGCOMM19 [online booking](http://www.shangri-la.com/reservations/booking/en/index.aspx?hid=SLB&group_code=ADO180819&check_in=20190818&check_out=20190824), they will be responsible for sleeping room charges and guest room must be guaranteed by individual&apos;s credit card at time of booking. Any reservation cancelled after **4 August 2019** or no shows will result in a late cancellation charge equivalent to full duration of stay. Such charges will be charged to individual guests.
