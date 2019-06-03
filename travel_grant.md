@@ -9,7 +9,7 @@ dates:
      - info: Award notification
        date: June 29, 2019
      - info: Application submission deadline
-       date: May 14, 2019
+       date: June 14, 2019
 
 committees:
     - role: Travel Grants Chairs
