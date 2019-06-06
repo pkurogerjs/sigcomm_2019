@@ -90,9 +90,9 @@ menu:
 #    - name: Venue
 #      url:  /vigado_mc.html
 #      icon: fa-map-marker
-    - name: Camera-ready instructions
-      url:  /camera-ready.html
-      icon: fa-pencil
+#    - name: Camera-ready instructions
+#      url:  /camera-ready.html
+#      icon: fa-pencil
 #    - name: Accepted papers
 #      url:  /accepted-papers.html
 #      icon: fa-trophy
@@ -139,9 +139,9 @@ menu:
 #  - name: Venue
 #    url:  /hotel_ws.html
 #    icon: fa-map-marker
-  - name: Camera-ready instructions
-    url:  /camera-ready_ws.html
-    icon: fa-pencil
+#  - name: Camera-ready instructions
+#    url:  /camera-ready_ws.html
+#    icon: fa-pencil
 #  - name: Big-DAMA
 #    url: /workshop-bigdama.html
 #    icon: fa-circle
