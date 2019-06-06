@@ -32,8 +32,8 @@ main-notification:
 camera-ready:
 #  track: camera_ready
   track: main
-  info_main: Camera-ready deadline for the main conference and workshops
-  info: Camera-ready deadline for the main conference and workshops
+  info_main: Camera-ready deadline for the main conference
+  info: Camera-ready deadline for the main conference
   date: June 27, 2019
   important: true
 
