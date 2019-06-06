@@ -19,4 +19,4 @@ While the ACM rights-management tool offers the author to pay for open access to
 In its bottom-left corner, the first page of the final paper must include a copyright notice that the author receives after filling out the e-Rights form via the ACM rights-management tool on the HotCRP page of the paper. ACM will use its automated system to email this information to the authors. Please set your email spam settings to allow messages from “rightsreview@acm.org”. The copyright block includes the DOI specific to the paper, rights-management text that depends on the author&apos;s choice of a license or copyright transfer, the official name, dates, and location of the event. 
 
 
-If you have any questions about the camera-ready process, feel free to contact SIGCOMM 2019 publication chairs [Keith Winstein and Xin Jin](mailto:publicationchairs2019@sigcomm.org?subject=[SIGCOMM 2019]).
+If you have any questions about the camera-ready process, feel free to contact SIGCOMM 2019 publication chairs [Keith Winstein and Xin Jin](mailto:publicationchairs19@sigcomm.org?subject=[SIGCOMM 2019]).
