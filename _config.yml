@@ -90,9 +90,9 @@ menu:
 #    - name: Venue
 #      url:  /vigado_mc.html
 #      icon: fa-map-marker
-#    - name: Camera-ready instructions
-#      url:  /camera-ready.html
-#      icon: fa-pencil
+    - name: Camera-ready instructions
+      url:  /camera-ready.html
+      icon: fa-pencil
 #    - name: Accepted papers
 #      url:  /accepted-papers.html
 #      icon: fa-trophy
@@ -151,9 +151,9 @@ menu:
   - name: APNet'19
     url: /workshop-apnet.html
     icon: fa-circle
-  - name: EPIQ
-    url: /workshop-epiq.html
-    icon: fa-circle
+#  - name: EPIQ
+#    url: /workshop-epiq.html
+#    icon: fa-circle
   - name: NEAT
     url: /workshop-neat.html
     icon: fa-circle
