@@ -4,6 +4,8 @@ title: "ACM SIGCOMM 2019 Workshop on Networking for Emerging Applications and Te
 group: Workshops
 
 dates:
+    - info: Camera-ready deadline
+      date: June 23, 2019
     - info: Workshop date
       date: August 19, 2019
     - info: Paper acceptance notification
