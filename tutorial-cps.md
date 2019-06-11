@@ -12,7 +12,7 @@ data:
     time: Friday, August 23, 2019
     room: ''
   - type: session
-    time: 8:30am - 9:00am
+    time: 8:30am - 10:30am
     room: 
     title: Session I
     authors: ''
