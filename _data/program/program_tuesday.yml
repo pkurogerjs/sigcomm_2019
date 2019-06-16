@@ -1,0 +1,121 @@
+---
+- type: day
+  time: Tuesday, August 20, 2019
+  room: ''
+  title: ''
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 8:00 am - 5:00 pm
+  room: ''
+  title: Start Registration
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 9:00 am - 10:15 am
+  room: ''
+  title: Opening & Keynote (TBD)
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 10:15 am - 10:45 am
+  room: ''
+  title: Tea/Coffee Break
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 10:45 am - 12:00 pm
+  room: ''
+  title: Technical Session 1&#58; New Ways to Operate Networks
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 12:00 pm - 1:30 pm
+  room: Valley Wing Ballroom A+B, Valley Wing Ballroom
+  title: Lunch
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 1:30 pm - 3:10 pm
+  room: ''
+  title: Technical Session 2&#58; Transport and Congestion
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 3:10 pm - 3:40 pm
+  room: ''
+  title: Tea/Coffee Break
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 3:40 pm - 5:20 pm
+  room: ''
+  title: Technical Session 3&#58; Measurement
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: bestccr
+  time: 6:30 pm - 9:00 pm
+  room: Lao She Teahouse
+  title: Student Dinner (by invitation only)
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''

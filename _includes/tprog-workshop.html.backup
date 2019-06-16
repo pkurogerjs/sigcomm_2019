@@ -1,10 +1,10 @@
-<li class="prog-workshop prog-item {{ progitemclass }} {% if session.remote and session.remote != "" %}ui-li-has-remote{% endif %}">
+<li style="background-color:#9A0000;color:#fff" class="prog-workshop prog-item {{ progitemclass }} {% if session.remote and session.remote != "" %}ui-li-has-remote{% endif %}">
 <table style="width: 100%;">
-  <tr>
+  <tr style="color:#fff">
     <!--<td style="font-size:80%; padding-right:10px; max-width:20%;">{{session.time}}</td>-->
     <td style="width: 100%;text-align: left;">
 
-      <h3>
+      <h3 style="color:#fff">
         {{session.time}} {{ session.title }}
       </h3>
 {% if session.authors and session.abstract != ""%}

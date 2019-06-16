@@ -29,10 +29,10 @@ logo:
 program:
 #   # If the specified file doesn't exist, there will be command-line dialog to create it
 #   # (Currently hardcoded for a dummy robot.mcrobot.jr@gmail.com account permissions)
-   google_client_id: .travis.d/google_client_id.json
+#   google_client_id: .travis.d/google_client_id.json
    # Google spreadsheet with the conference data
-   spreadsheet:
-        - "1gyxUVtqXmi9Rldiy8PsSv-OHpFqyL0TS5EWlQ3Qf_Go" # main
+#   spreadsheet:
+#        - "1gyxUVtqXmi9Rldiy8PsSv-OHpFqyL0TS5EWlQ3Qf_Go" # main
 #        - "1uFunPbJPPACJsPJacgV9-LIBzQItuEGOkViG07wMwbU" # bigdama
 #        - "1u4N8XIfZ8swTLaaUUo28M9iO2OakPsJJkcc2THt88fU" # wtmc
 #        - "11DHECtvCCPQYnzF7ibO4as5elOTFaS_p_sFJNqX2b3I" # secson
@@ -56,30 +56,30 @@ menu:
 - name: Home
   url: /
   icon: fa-home
-#- name: Program
-#  icon: fa-calendar
-#  submenu:
-#    - name: All days
-#      url: /program.html
-#      icon: fa-calendar
+- name: Program
+  icon: fa-calendar
+  submenu:
+    - name: All days
+      url: /program.html
+      icon: fa-calendar
 #    - name: Sunday
 #      url: /program_sunday.html
 #      icon: fa-calendar
-#    - name: Monday
-#      url: /program_monday.html
-#      icon: fa-calendar
-#    - name: Tuesday
-#      url: /program_tuesday.html
-#      icon: fa-calendar
-#    - name: Wednesday
-#      url: /program_wednesday.html
-#      icon: fa-calendar
-#    - name: Thursday
-#      url: /program_thursday.html
-#      icon: fa-calendar
-#    - name: Friday
-#      url: /program_friday.html
-#      icon: fa-calendar
+    - name: Monday
+      url: /program_monday.html
+      icon: fa-calendar
+    - name: Tuesday
+      url: /program_tuesday.html
+      icon: fa-calendar
+    - name: Wednesday
+      url: /program_wednesday.html
+      icon: fa-calendar
+    - name: Thursday
+      url: /program_thursday.html
+      icon: fa-calendar
+    - name: Friday
+      url: /program_friday.html
+      icon: fa-calendar
 #    - name: Saturday
 #      url: /program_saturday.html
 #      icon: fa-calendar

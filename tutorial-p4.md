@@ -15,7 +15,7 @@ data:
   - type: day
     time: Friday, August 23, 2018
     room: ''
-  - type: workshop
+  - type: session
     time: 9:00am - 10:00am
     room: 
     title: P4 Language Overview
@@ -29,7 +29,7 @@ data:
     remote: ''
     remote-qa: ''
     COL_UID: wt_mon_break_1
-  - type: workshop
+  - type: session
     time: 10:00am - 10:30am
     room: 
     title: Collaborative Lab Exercises - Part I
@@ -57,7 +57,7 @@ data:
     remote: ''
     remote-qa: ''
     COL_UID: wt_mon_break_1
-  - type: workshop
+  - type: session
     time: 11:00am - 12:30pm
     room: 
     title: Collaborative Lab Exercises - Part II
@@ -85,7 +85,7 @@ data:
     remote: ''
     remote-qa: ''
     COL_UID: wt_mon_break_1 
-  - type: workshop
+  - type: session
     time: 2:00pm - 3:15pm
     room: 
     title: Mini Research Workshop - Part I
@@ -113,7 +113,7 @@ data:
     remote: ''
     remote-qa: ''
     COL_UID: wt_mon_break_1
-  - type: workshop
+  - type: session
     time: 3:45pm - 5:30pm
     room: 
     title: Mini Research Workshop - Part II
