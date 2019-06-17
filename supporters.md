@@ -103,7 +103,7 @@ title: Supporters
 <div style="text-align: center;">
 {% for supporter in site.data.supporters
 %}{% if supporter[7] == "gold"
-%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 90px; margin: 10px" /></a>
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 95px; margin: 10px" /></a>
 {% endif
 %}{% endfor %}
 </div>
