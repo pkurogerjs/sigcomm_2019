@@ -415,8 +415,8 @@ html .ui-bar-a a:link, html .ui-bar-a a:visited, html .ui-bar-a a:hover, html .u
 .content-primary .program .prog-keynote {
     padding: 0em 1.0em;
     background-color: $program-keynote-background;
-    border-color: #bbbbbb;
-    color: #ffffff;
+    border-color: #ffffff;
+    color: #000000;
 
 }
 
@@ -432,7 +432,7 @@ table.prog-keynote
 
 .content-primary .program .prog-keynote h3 {
     font-weight: 700;
-    color: #FFFFFF;
+    color: #000000;
     text-align: left;
     text-shadow: none;
     white-space: normal;
