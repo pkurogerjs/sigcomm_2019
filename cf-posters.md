@@ -166,6 +166,28 @@ Leading student authors of posters and demos may also indicate if they would lik
 
 Product-focused, as opposed to research-focused, industrial demos may be more appropriately submitted to the SIGCOMM Industrial Demo track. Please feel free to contact either the Poster and Demo Chairs or the [SIGCOMM Industrial Liaison Board](https://www.sigcomm.org/content/sigcomm-industrial-advisory-board) if you are unsure which track to submit to.
 
+## Camera-Ready Instructions for posters and demos
+
+For each event of SIGCOMM 2019 that publishes proceedings, the proceedings will be produced via the HotCRP site used for the review process. The HotCRP site will collect the final papers and interface with the ACM to manage publication rights for the papers.
+
+The authors must revise the original submission to address the reviewers’ concerns and, if the paper is subject to shepherding, obtain an explicit approval of the final version from the shepherd.
+
+For the final paper to be published, it is imperative to prepare the final version using the new ACM template (using sigconf document type) from the [2019 ACM consolidated template package](https://www.acm.org/publications/proceedings-template) ([you can also use this barebone LaTeX template](https://github.com/conference-websites/acmart-sigproc-template)). **The font size must be 9 points. Do not number pages. Embed all the fonts in the PDF file.** The length of the final paper with all its content except references **must not exceed 2 pages**. There is no limit on the number of references. The deadline for camera-ready submissions is **July 1, 2019**.
+
+As described on the above template webpage, the authors should provide proper indexing information in the final version according to the ACM Computing Classification System (CCS). More information about the ACM CCS is available on [ACM CCS website](https://www.acm.org/publications/class-2012).
+
+Please makes sure all fonts are embedded in the document. On Mac, Windows, and Linux, the &apos;pdffonts&apos; (Poppler) and Adobe Reader tools can report this information. For more information, please see [https://stackoverflow.com/questions/614619/how-to-find-out-which-fonts-are-referenced-and-which-are-embedded-in-a-pdf-docum .https://www.acm.org/publications/class-2012](https://stackoverflow.com/questions/614619/how-to-find-out-which-fonts-are-referenced-and-which-are-embedded-in-a-pdf-docum .https://www.acm.org/publications/class-2012) .
+
+### Open access
+
+While the ACM rights-management tool offers the author to pay for open access to the published paper, SIGCOMM has already arranged free access to all SIGCOMM 2019 papers via non-expiring links to the ACM Digital Library (DL) on the SIGCOMM 2019 website. This is a special form of open access, which the ACM calls the OpenTOC service. Unless the author wants to provide the open access to the paper directly at the ACM DL rather than via the special SIGCOMM 2019 website link, we suggest that the author opts for not paying the open access fee in the ACM rights management tool.
+
+### Copyright block
+
+In its bottom-left corner, the first page of the final paper must include a copyright notice that the author receives after filling out the e-Rights form via the ACM rights-management tool on the HotCRP page of the paper. ACM will use its automated system to email this information to the authors. Please set your email spam settings to allow messages from &quot;rightsreview@acm.org&quot;. The copyright block includes the DOI specific to the paper, rights-management text that depends on the author&apos;s choice of a license or copyright transfer, the official name, dates, and location of the event.
+
+If you have questions about the camera-ready process, please contact the SIGCOMM 2019 publication chairs [Keith Winstein and Xin Jin](mailto:publicationchairs19@sigcomm.org).
+
 ### Why should you submit a Poster or a Demo or participate in SRC? <span class="show_hide" onclick="show_hide('why_submit')"><i id="why_submit_button" class="fa fa-arrow-circle-o-down"></i></span>
 <div id="why_submit" style="display:none;">
 
