@@ -1,0 +1,145 @@
+---
+- type: day
+  time: Wednesday, August 21, 2019
+  room: ''
+  title: ''
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 8:00 am - 5:00 pm
+  room: ''
+  title: Start Registration
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: keynote
+  time: 9:00 am - 10:15 am
+  room: ''
+  title: 50th-anniversary Panel
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 10:15 am - 10:45 am
+  room: ''
+  title: Tea/Coffee Break
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 10:45 am - 12:00 pm
+  room: ''
+  title: Technical Session 4&#58; Building on New Physical Layers
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 12:00 pm - 1:30 pm
+  room: Valley Wing Ballroom A+B, Valley Wing Ballroom
+  title: Lunch
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: topic-preview
+  time: 12:00 pm - 1:15 pm
+  room: ''
+  title: Topic Preview 2
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 1:30 pm - 2:45 pm
+  room: ''
+  title: Technical Session 5&#58; Formal Network Analysis
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: break
+  time: 2:45 pm - 3:15 pm
+  room: ''
+  title: Tea/Coffee Break
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: session
+  time: 3:15 pm - 4:55 pm
+  room: ''
+  title: Poster & CCR papers
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: workshop
+  time: 4:55 pm - 6:00 pm
+  room: ''
+  title: Business meeting
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: bestccr
+  time: 6:30 pm - 9:00 pm
+  room: Royal Cuisine Museum
+  title: Banquet
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''

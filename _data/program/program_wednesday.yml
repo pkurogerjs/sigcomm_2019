@@ -59,6 +59,42 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: A Link Layer Protocol for Quantum Networks
+  authors: Axel Dahlberg, Matthew Skrzypczyk, Tim Coopmans, Leon Wubben, Filip Rozpedek, Matteo Pompili, Arian Stolk, Przemysław Pawełczak (QuTech, TU Delft), Rob Knegjens, Julio de Oliveira Filho (QuTech, TNO), Ronald Hanson, Stephanie Wehner (QuTech, TU Delft)
+  abstract: Quantum communication brings radically new capabilities that are provably impossible to attain in any classical network. Here, we take the first step from a physics experiment to a fully fledged quantum internet system. We propose a functional allocation of a quantum network stack and construct the first physical and link layer protocols that turn ad-hoc physics experiments producing heralded entanglement between quantum processors into a well-defined and robust service. This lays the groundwork for designing and implementing scalable control and application protocols in platform-independent software. To design our protocol, we identify use cases, as well as fundamental and technological design considerations of quantum network hardware, illustrated by considering the state-of-the-art quantum processor platform available to us (Nitrogen-Vacancy (NV) centers in diamond). Using a purpose built discrete event simulator for quantum networks, we examine the robustness and performance of our protocol using extensive simulations on a supercomputing cluster. We perform a full implementation of our protocol, where we successfully validate the physical simulation model against data gathered from the NV hardware. We first observe that our protocol is robust even in a regime of exaggerated losses of classical control messages with only little impact on the performance of the system. We proceed to study the performance of our protocols for 169 distinct simulation scenarios, including tradeoffs between traditional performance metrics such as throughput and the quality of entanglement. Finally, we initiate the study of quantum network scheduling strategies to optimize protocol performance for different use cases.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: A Millimeter Wave Network for Billions of Things
+  authors: Mohammad Hossein Mazaheri, Soroush Ameli, Ali Abedi, Omid Abari (University of Waterloo)
+  abstract: With the advent of the Internet of Things (IoT), billions of new connected devices will come online, placing a huge strain on today&apos;s WiFi and cellular spectrum. This problem will be further exacerbated by the fact that many of these IoT devices are low-power devices that use low-rate modulation schemes and therefore do not use the spectrum efficiently. Millimeter wave (mmWave) technology promises to revolutionize wireless networks and solve spectrum shortage problem through the usage of massive chunks of high-frequency spectrum. However, adapting this technology presents challenges. Past work has addressed challenges in using mmWave for emerging applications, such as 5G, virtual reality and data centers, which require multiple-gigabits-per-second links, while having substantial energy and computing power. In contrast, this paper focuses on designing a mmWave network for low-power, low-cost IoT devices. We address the key challenges that prevent existing mmWave technology from being used for such IoT devices. First, current mmWave radios are power hungry and expensive. Second, mmWave radios use highly directional antennas to search for the best beam alignment. Existing beam searching techniques are complex and require feedback from access point (AP), which makes them unsuitable for low-power, low-cost IoT devices. We present mmX, a novel mmWave network that addresses existing challenges in exploiting mmWave for IoT devices. We implemented mmX and evaluated it empirically.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Underwater Backscatter Networking
+  authors: JunSu Jang, Fadel Adib (MIT)
+  abstract: We present Piezo-Acoustic Backscatter (PAB), the first technology that enables backscatter networking in underwater environments. PAB relies on the piezoelectric effect to enable underwater communication and sensing at near-zero power. Its architecture is inspired by radio backscatter which works well in air but cannot work well underwater due to the exponential attenuation of radio signals in water. PAB nodes harvest energy from underwater acoustic signals using piezoelectric interfaces and communicate by modulating the piezoelectric impedance. Our design introduces innovations that enable concurrent multiple access through circuit-based frequency tuning of backscatter modulation and a MAC that exploits the properties of PAB nodes to deliver higher network throughput and decode network collisions.  We built a prototype of our design using custom-designed, mechanically fabricated transducers and an end-to-end battery-free hardware implementation. We tested our nodes in large experimental water tanks at the MIT Sea Grant. Our results demonstrate single-link throughputs up to 3 kbps and power-up ranges up to 10 m. Finally, we show how our design can be used to measure acidity, temperature, and pressure. Looking ahead, the system can be used in ocean exploration, marine life sensing, and underwater climate change monitoring.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
 - type: break
   time: 12:00 pm - 1:30 pm
   room: Valley Wing Ballroom A+B, Valley Wing Ballroom
@@ -89,6 +125,42 @@
   title: Technical Session 5&#58; Formal Network Analysis
   authors: ''
   abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Validating Datacenters at Scale
+  authors: Karthick Jayaraman (Microsoft), Nikolaj Bjorner (Microsoft Research) ,Jitu Padhye, Amar Agrawal, Ashish Bhargava, Paul-Andre C Bissonnette, Shane Foster, Andrew Helwer, Mark Kasten, Ivan Lee, Anup Namdhari, Haseeb Niaz, Aniruddha Parkhi, Hanukumar Pinnamraju, Adrian Power, Neha Milind Raje, Parag Sharma (Microsoft)
+  abstract: We describe our experiences using formal methods and automated theorem  proving for network operation at scale. The experiences are based on  developing and applying the SecGuru and RCDC (Reality Checker for  Data-Centers) tools in Azure. SecGuru has been used since 2013 and thus, is arguably a pioneering industrial deployment of network verification. SecGuru is used for validating ACLs and more recently RCDC checks  forwarding tables at Azure scale. A central technical angle is that we use local contracts and local checks, that can be performed at scale in parallel, and without maintaining global snapshots, to validate global properties of data-center networks. Specifications leverage declarative encodings of configurations and automated theorem proving for validation. We describe how intent is automatically derived from network architectures and verification is incorporated as prechecks for making changes, live monitoring, and for evolving legacy policies. We document how network  verification, grounded in architectural constraints, can be integral to  operating a reliable cloud at scale.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Safely and Automatically Updating In-Network ACL Configurations with Intent Language
+  authors: Bingchuan Tian (Nanjing University), Xinyi Zhang (University of California Santa Barbara), Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang (Alibaba Group), Da Yu (Brown University), Chen Tian (Nanjing University), Haitao Zheng, Ben Y. Zhao (University of Chicago)
+  abstract: In-network Access Control List (ACL) is an important technique in ensuring network-wide connectivity and security. As cloud-scale WANs today constantly evolve in size and complexity, in-network ACL rules are becoming increasingly more complex. This presents a great challenge to the updating process of ACL configurations&#58; network operators are frequently required to update &quot;tangled&quot; ACL rules across thousands of devices to meet diverse business requirements, and even a single ACL misconfiguration may lead to network disruptions. Such increasing challenges call for an automated system to improve the efficiency and correctness of ACL updates. This paper presents Jinjing, a system that aids Alibaba’s network operators in automatically and correctly updating ACL configurations in Alibaba’s global WAN. Jinjing allows the operators to express in a declarative language, named LAI, their update intent (e.g., ACL migration and traffic control). Then, Jinjing automatically synthesizes ACL update plans that satisfy their intent. At the heart of Jinjing, we develop a set of novel verification and synthesis techniques to rigorously guarantee the correctness of update plans. In Alibaba, our operators have used Jinjing to efficiently update their ACLs and have thus prevented significant service downtime.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Formal Specification and Testing of QUIC
+  authors: Kennneth L McMillan (Microsoft Research), Lenore D Zuck (UIC)
+  abstract: QUIC is a new Internet secure transport protocol currently in the   process of IETF standardization. It is intended as a replacement for the TLS/TCP stack and will be the basis of HTTP/3, the next official version of the hypertext transfer protocol. As a result, it is likely in the near future to carry a substantial fraction of traffic on the Internet. In this case study, we describe our experience applying a methodology of compositional specification-based testing to QUIC. We develop a formal specification of the wire protocol, and use this specification to generate automated randomized testers for implementation of QUIC. The testers effectively take one role of the QUIC protocl, interacting with the   other role to generate full protocol executions, and verifying that the implementations conform to the forma specification. This form of testing generates significantly more diverse stimulus and a stronger correctness criterion than interoperability testing, the primary method used to date to   validate QUIC and its implementations. As a result, numerous implementation errors have been found. These include some vulnerabilities at the protocol and   implementation levels, including an off-path denial of service scenario and an information leak similar to the &quot;heartbleed&quot; vulnerability in OpenSSL.
   bio: ''
   photo: ''
   link: ''

@@ -59,6 +59,42 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Enabling a Permanent Revolution in Internet Architecture
+  authors: James McCauley, Yotam Harchol (UC Berkeley), Aurojit Panda (NYU), Barath Raghavan (USC), Scott Shenker (UC Berkeley and ICSI)
+  abstract: Recent Internet research has been driven by two facts and their contradictory implications&#58; the current Internet architecture is both <b>inherently flawed</b> (so we should explore radically different alternative designs) and  <b>deeply entrenched</b> (so we should restrict ourselves to backwards-compatible and therefore incrementally deployable improvements). In this paper, we try to reconcile these two perspectives by proposing a backwards-compatible architectural framework in which one can incrementally deploy radically new designs. We show how this can lead to a permanent revolution in Internet architecture by (i) easing the deployment of new architectures and (ii) allowing multiple coexisting architectures to be used simultaneously by applications. By enabling both architectural <b>evolution</b> and architectural <b>diversity</b>, this would create a far more <b>extensible</b> Internet whose functionality is not defined by a single narrow waist, but by the union of many coexisting architectures. By being incrementally deployable, our design is not just an interesting but unrealistic clean-slate design, but a step forward that is clearly within our reach.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Bridging the Data Charging Gap in the Cellular Edge
+  authors: Yuanjie Li, Kyu-Han Kim, Christina Vlachou (Hewlett Packard Enterprise Labs), Junqing Xie (Hewlett Packard Enterprise Labs)
+  abstract: The 4G/5G cellular edge promises low-latency experiences anywhere, anytime. However, data charging gaps can arise between the cellular operators and edge application vendors, and cause over-/under-billing. We find that such gap can come from data loss, selfish charging, or both. It can be amplified in the edge, due to its low-latency requirements. We devise TLC, a Trusted, Loss-tolerant Charging scheme for the cellular edge. In its core, TLC enables loss-selfishness cancellation to bridge the gap, and constructs publicly verifiable, cryptographic proof-of-charging for mutual trust. We implement TLC with commodity edge nodes, OpenEPC and small cells. Our experiments in various edge scenarios validate TLC&apos;s viability of reducing the gap with marginal latency and other overhead.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: TEAVAR&#58; Striking the Right Utilization-Availability Balance in WAN Traffic Engineering
+  authors: Jeremy Bogle, Nikhil Bhatia, Manya Ghobadi (MIT), Ishai Menache, Nikolaj Bjorner (Microsoft Reserach), Asaf Valadarsky, Michael Schapira (Hebrew University)
+  abstract: To keep up with the continuous growth in demand, cloud providers spend millions of dollars augmenting the capacity of their wide-area backbones and devote significant effort to efficiently utilizing WAN capacity. A key challenge is striking a good balance between network utilization and availability, as these are inherently at odds; a highly utilized network might not be able to withstand unexpected traffic shifts resulting from link/node failures. We advocate a novel approach to this challenge that draws inspiration from financial risk theory&#58; leverage empirical data to generate a probabilistic model of network failures and maximize bandwidth allocation to network users subject to an operator-specified availability target (e.g., 99.9% availability). Our approach enables network operators to strike the utilization-availability balance that best suits their goals and operational reality. We present TEAVAR (Traffic Engineering Applying Value at Risk), a system that realizes this risk management approach to traffic engineering (TE). We compare TEAVAR to state-of-the-art TE solutions through extensive simulations across many network topologies, failure scenarios, and traffic patterns, including benchmarks extrapolated from Microsoft's WAN. Our results show that with TEAVAR, operators can support up to twice as much throughput as state-of-the-art TE schemes, at the same level of availability.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''  
 - type: break
   time: 12:00 pm - 1:30 pm
   room: Valley Wing Ballroom A+B, Valley Wing Ballroom
@@ -83,6 +119,54 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: HPCC&#58; High Precision Congestion Control
+  authors: Yuliang Li (Harvard University and Alibaba Group), Rui Miao, Hongqiang Liu, Yan Zhuang, Fei Feng, Lingbo Tang, Zheng Cao, Ming Zhang (Alibaba Group), Frank Kelly (University of Cambridge), Mohammad Alizadeh (MIT), Minlan Yu (Harvard University)
+  abstract: Congestion control (CC) is the key to achieving ultra-low latency, high bandwidth and network stability in high-speed networks. From years of experience operating large scale and high-speed RDMA networks, we find the existing high-speed CC schemes have inherent limitations for reaching these goals. In this paper, we present HPCC (High Precision Congestion Control), a new high-speed CC mechanism which achieves the three goals simultaneously. HPCC leverages in-network telemetry (INT) to obtain precise link load information and controls traffic precisely. By addressing challenges such as delayed INT information during congestion and overreaction to INT information, HPCC can quickly converge to utilize free bandwidth while avoiding congestion, and can maintain near-zero in-network queues for ultra-low latency. HPCC is also fair and easy to deploy in hardware. We implement HPCC with commodity programmable NICs and switches. In our evaluation, compared to DCQCN and TIMELY, HPCC shortens flow completion time by up to 95%, causing little congestion even under large-scale incasts.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Pluginizing QUIC
+  authors: Quentin De Coninck, François Michel, Maxime Piraux, Florentin Rochet, Thomas Given-Wilson (UCLouvain), Axel Legay (UCLouvain, Aalborg University), Olivier Pereira, Olivier Bonaventure (UCLouvain)
+  abstract: Application requirements evolve over time and the underlying protocols need to adapt. Most transport protocols evolve by negotiating protocol extensions during the handshake. Experience with TCP shows that this leads to delays of several years or more to widely deploy standardized extensions. In this paper, we revisit the extensibility paradigm of transport protocols.  We base our work on QUIC, a new transport protocol that encrypts most of the header and all the payload of packets, which makes it almost immune to middlebox interference. We propose Pluginized QUIC (PQUIC), a framework that enables QUIC clients and servers to dynamically exchange protocol plugins that extend the protocol on a per-connection basis. These plugins can be transparently reviewed by external verifiers and hosts can refuse non-certified plugins. Furthermore, the protocol plugins run inside an environment that monitors their execution and stops malicious plugins. We demonstrate the modularity of our proposal by implementing and evaluating very different plugins ranging from connection monitoring to multipath or Forward Erasure Correction. Our results show that plugins achieve expected behavior with acceptable overhead. We also show that these plugins can be combined to add their functionalities to a PQUIC connection.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Gentle Flow Control&#58; Avoiding Deadlock in Lossless Networks
+  authors: Kun Qian, Wenxue Cheng, Tong Zhang, Fengyuan Ren (Tsinghua University)
+  abstract: Many applications in distributed systems rely on underlying lossless networks to achieve required performance. Existing lossless network solutions propose different hop-by-hop flow controls to guarantee zero packet loss. However, another crucial problem called network deadlock occurs concomitantly. Once the system traps in a deadlock, a large part of network would be disabled. Existing deadlock avoidance solutions focus all their attentions on breaking the cyclic buffer dependency to eliminate <i>circular wait</i> (one necessary condition of deadlock). These solutions, however, impose many restrictions on network configurations and side-effects on performance.  In this work, we explore a brand-new perspective to solve network deadlock&#58; avoiding <i>it hold and wait</i> situation (another necessary condition). Experimental  observations tell that frequent pause on upstream ports driven by existing flow control schemes is the root cause of <i>it hold and wait</i>. We propose Gentle Flow Control (GFC) to manipulate the port rate at a fine granularity, so all ports can keep packets flowing even cyclic buffer dependency exists, and prove GFC can eliminate deadlock theoretically. We also present how to implement GFC in mainstream lossless networks (Converged Enhanced Ethernet and InfiniBand) with moderate modifications. Furthermore, testbed experiments and packet-level simulations validate GFC can efficiently avoid deadlock and introduce less than <b>0.5\%</b> of bandwidth occupation.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: SocksDirect&#58; Datacenter Sockets can be Fast and Compatible
+  authors: Bojie Li (USTC and Microsoft Research), Tianyi Cui (University of Washington), Zibo Wang (USTC and Microsoft Research), Wei Bai, Lintao Zhang (Microsoft Research)
+  abstract: Communication intensive applications in hosts with multicore CPU and high speed networking hardware often put considerable stress on the native socket system in an OS. Existing socket replacements often leave significant performance on the table, as well have limitations on compatibility and isolation.  In this paper, we describe SocksDirect, a user-space high performance socket system. SocksDirect is fully compatible with Linux socket and can be used as a drop-in replacement with no modification to existing applications. To achieve high performance, SocksDirect leverages RDMA and shared memory (SHM) for inter-host and intra-host communication, respectively. To bridge the semantics gap between socket and RDMA / SHM, we optimize for the common cases while maintaining compatibility in general. SocksDirect achieves isolation by employing a trusted monitor daemon to handle control plane operations such as connection establishment and access control. The data plane is peer-to-peer between processes, in which we remove multi-thread synchronization, buffer management, large payload copy and process wakeup overheads in common cases. Experiments show that SocksDirect achieves 7-~20x better message throughput and 17-~35x better latency than Linux socket, and reduces Nginx HTTP latency to 1/5.5.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
 - type: break
   time: 3:10 pm - 3:40 pm
   room: ''
@@ -101,6 +185,54 @@
   title: Technical Session 3&#58; Measurement
   authors: ''
   abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Zooming in on Wide-area Latencies to a Global Cloud Provider
+  authors: Yuchen Jin (Microsoft/UWashington), Sundararajan Renganathan, Ganesh Ananthanarayanan (Microsoft), Junchen Jiang (University of Chicago), Venkata N. Padmanabhan, Manuel Schroder, Matt Calder (Microsoft) Arvind Krishnamurthy (UWashington)
+  abstract: The network communications between the cloud and the client have become the weak link for global cloud services that aim to provide low latency services to their clients. In this paper, we first characterize WAN latency from the viewpoint of a large cloud provider Azure, whose network edges serve hundreds of billions of TCP connections a day across hundreds of locations worldwide. In particular, we focus on instances of latency degradation and design a tool, BlameIt, that enables cloud operators to localize the cause (i.e., faulty AS) of such degradation. BlameIt uses passive diagnosis, using measurements of existing connections between clients and the cloud locations, to localize the cause to one of cloud, middle, or client segments. Then it invokes selective active probing (within a probing budget) to localize the cause more precisely.  We validate BlameIt by comparing its automatic fault localization results with that arrived at by network engineers manually, and observe that BlameIt correctly localized the problem in all the <b>88</b> incidents. Further, BlameIt issues <b>72x</b> fewer active probes than a solution relying on active probing alone, and is deployed in production at Azure.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: RF-based Inertial Measurement
+  authors: Chenshu Wu, Feng Zhang, Yusen Fan, K. J. Ray Liu (University of Maryland, College Park)
+  abstract: Inertial measurements are critical to almost any mobile applications. It is usually achieved by  dedicated sensors (e.g., accelerometer, gyroscope) that suffer from significant accumulative errors. This paper presents RIM, an RF-based Inertial Measurement system for precise motion processing. RIM turns a commodity WiFi device into an Inertial Measurement Unit (IMU) that can accurately track moving distance, heading direction, and rotating angle, requiring no additional infrastructure but a single arbitrarily placed Access Point (AP) whose location is unknown. RIM makes three key technical contributions. First, it presents a spatial-temporal virtual antenna retracing scheme that leverages multipath profiles as virtual antennas and underpins measurements of distance and orientation using commercial WiFi. Second, it introduces a super-resolution virtual antenna alignment algorithm that resolves sub-centimeter movements. Third, it presents an approach to handle measurement noises and thus delivers an accurate and robust system. Our experiments, over a multipath rich area of >1,000 m2 with one single AP, show that RIM achieves a median error in moving distance of 2.3 cm and 8.4 cm for short-range and long-distance tracking respectively, and 6.1◦ mean error in heading direction, all significantly outperforming dedicated inertial sensors. We also demonstrate multiple RIM-enabled applications with great performance, including indoor tracking, handwriting, and gesture control.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: A Large-Scale Analysis of Deployed Traffic Differentiation Practices
+  authors: Fangfan Li (Northeastern University), Arian Akhavan Niaki (University of Massachusetts Ahmerst), David Choffnes (Northeastern University), Phillipa Gill (University of Massachusetts Amherst), Alan Mislove (Northeastern University)
+  abstract: Net neutrality has been the subject of considerable public debate over the past decade. Despite the potential impact on content providers and users, there is currently a lack of tools or data for stakeholders to independently audit the net neutrality policies of network providers. In this work, we address this issue by conducting a one-year study of content-based traffic differentiation policies deployed in operational networks, using results from 1,045,413 crowdsourced measurements conducted by 126,249 users across 2,735 ISPs in 183 countries/regions. We develop and evaluate a methodology that combines individual per-device measurements to form high-confidence, statistically significant inferences of differentiation practices, including fixed-rate bandwidth limits (i.e., throttling) and delayed throttling practices. Using this approach, we identify differentiation in both cellular and WiFi networks, comprising 30 ISPs in 7 countries. We also investigate the impact of throttling practices on video streaming resolution for several popular video streaming providers.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Residential Links Under the Weather
+  authors: Ramakrishna Padmanabhan (CAIDA, UCSD), Aaron Schulman (UCSD), Dave Levin , Neil Spring (University of Maryland)
+  abstract: Weather is a leading threat to the stability of our vital infrastructure. Last-mile Internet is no exception. Yet, unlike other vital infrastructure, weather&apos;s effect on last-mile Internet outages is not well understood. This work is the first attempt to quantify the effect of weather on residential outages. Investigating outages in residential networks due to weather is challenging because residential Internet is heterogeneous&#58; there are different media types, different protocols, and different providers, in varying contexts of different local climate and geography. Sensitivity to these different factors leads to narrow categories when estimating how weather affects these different links. To address these issues we perform a large-scale study looking at eight years of active outage measurements that were collected across the bulk of the last mile Internet infrastructure in the United States.
   bio: ''
   photo: ''
   link: ''
