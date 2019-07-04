@@ -5,9 +5,9 @@ group: Travel grant
 
 dates:
      - info: Award acceptance
-       date: July 4, 2019
+       date: July 5, 2019
      - info: Award notification
-       date: June 29, 2019
+       date: July 1, 2019
      - info: Application submission deadline
        date: June 14, 2019
 

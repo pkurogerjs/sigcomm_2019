@@ -8,7 +8,7 @@ group: Registration
 
 
 # {{ page.title }}
-Registration for the SIGCOMM 2019 main conference (including all its parallel events), workshops, and tutorials is managed via [a CVENT website](http://www.cvent.com/d/66q4fb/4W).  Note that free registration for [the SIGCOMM 2019 hackathon](https://conferences.sigcomm.org/sigcomm/2019/hackathon.html) and [N2Women dinner](https://conferences.sigcomm.org/sigcomm/2019/n2women_dinner.html) will be available on the respective pages of the SIGCOMM 2019 website.
+Registration for the SIGCOMM 2019 main conference (including all its parallel events), workshops, and tutorials is managed via [a CVENT website](http://www.cvent.com/d/66q4fb/4W).  Note that free registration for [the SIGCOMM 2019 hackathon](https://conferences.sigcomm.org/sigcomm/2019/hackathon.html) and [N2Women dinner](https://conferences.sigcomm.org/sigcomm/2019/n2women_dinner.html) will be available on the respective pages of the SIGCOMM 2019 website. Registration for APNet 2019 is managed via [its own website](https://conferences.sigcomm.org/events/apnet2019/registration.html).
 
 **To encourage workshop and tutorial participations, SIGCOMM 2019 provides a special registration option: workshop & tutorial (all). Participants who register for workshop & tutorial (all) can attend all the workshops and tutorials at SIGCOMM 2019.**
 

@@ -170,7 +170,7 @@
 - type: talk
   time: ''
   room: ''
-  title: 'Big data and Optical Lightpaths Driven Data Center Network'
+  title: 'Big data and Optical Lightpaths Driven Data Center Network (30min)'
   authors: T. S. Eugene Ng
   abstract: Physical layer optical communication devices such as optical circuit switches give data center network architects new tools to innovate. The abundant bandwidth capacity of optical devices seems a great match for the insatiable bandwidth demand of big data applications emerging in data centers today. However, big data applications have many important nuanced qualities and they have to be carefully understood and considered by network architects. This talk will discuss some of the recent advances from the BOLD (Big data and Optical Lightpaths Driven) Project at Rice University, which has been investigating big data applications' fundamental characteristics and developing advanced data center network architectures that leverage optical devices to meet the growing challenges presented by big data applications.
   bio: ''
