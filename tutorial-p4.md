@@ -5,9 +5,9 @@ group: Tutorials
 
 dates:
   - info: Submission Deadline
-    date: June 28, 2019
+    date: July 12, 2019
   - info: Author Notification Date
-    date: July 12, 2019  
+    date: July 26, 2019  
   - info: Tutorial
     date: August 23, 2019
       

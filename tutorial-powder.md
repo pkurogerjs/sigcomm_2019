@@ -125,9 +125,9 @@ data:
     COL_UID: wt_mon_break_1
 
 organizers:
-- name:        Jacobus (Kobus) Van der Merwe
+- name:        Kirk Webb
   affiliation: Utah, USA
-  bio:         "<p>Kobus Van der Merwe is the Jay Lepreau Professor in the School of Computing and co-director of the Flux Research Group at the University of Utah. He joined the University of Utah after fourteen years at AT&T Labs - Research. He received a PhD from the Computer Laboratory at Cambridge University in England in 1998 and M. Eng and B. Eng degrees in electronic engineering from the University of Pretoria in South Africa in 1991 and 1989 respectively. He does networking systems research in a broad range of areas including network management, control and operation, mobile networking, network evolution, network security and cloud computing. He has more than 90 peer reviewed publications and more than 80 issued patents. He is the principal investigator and director for the POWDER mobile and wireless networking platform.</p>"
+  bio:         "<p>Kirk Webb is a Research Associate with the Flux Research Group at the University of Utah where he has been building wired and wireless testbeds for over 10 years.  Kirk is Associate Director for the nascent POWDER wireless platform, an NSF PAWR initiative being deployed on the University of Utah campus and surrounding area. He also contributes to wireless edge and other mobile communications research within the Flux Group.  Kirk has taught or co-taught over 10 tutorials on wired and wireless testbed systems.</p>"
 
 - name:        Gary Wong
   affiliation: Utah, USA
