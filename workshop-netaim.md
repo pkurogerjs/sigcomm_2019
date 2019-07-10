@@ -83,6 +83,8 @@ committees:
          affiliation: Facebook, USA
        - name:        Ben Zhao 
          affiliation: University of Chicago, USA
+       - name:        Zhi-Li Zhang
+         affiliation: UMN, USA
 ---
 
 # {{ page.title }}
