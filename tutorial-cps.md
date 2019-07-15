@@ -189,6 +189,10 @@ This tutorial will provide participants with challenges, solutions, and tools wi
 
 Attendees will also learn details of DNC (NetworkCalculus.org), a comprehensive tool for network calculus analysis, and how to use it for analyzing the delay performance of tandem networks, tree networks, and feed-forward networks for CPS with hands-on labs.
 
+## Travel Support
+There may be opportunities for attendees of this tutorial who are current students of U.S. universities to receive nominal support for travel with the fund provided by the U.S. National Science Foundation as it wishes to increase participation of under-represented groups such as female and/or minority students. Please contact Prof. Liang Cheng <cheng@lehigh.edu> for details and an application.
+
+
 ## <i class="fa fa-calendar"></i> Important Dates
 
 {% include dates2.html dates=page.dates %}
