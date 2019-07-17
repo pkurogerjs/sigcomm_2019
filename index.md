@@ -9,8 +9,10 @@ og_tags:
 # Welcome to SIGCOMM 2019
 
 The organizing committee is delighted to invite you to ACM SIGCOMM 2019, to be held in Beijing, China on August 19-24, 2019. SIGCOMM is the flagship annual conference of the ACM Special Interest Group on Data Communication (SIGCOMM) on the applications, technologies, architectures, and protocols for computer communication.
-<!--Please see the [Call for papers](https://conferences.sigcomm.org/sigcomm/2019/cfp.html), [Call for workshops](https://conferences.sigcomm.org/sigcomm/2019/cf-workshops.html). SIGCOMM 2019 supports ACM policies against harassment. -->
 
+## Co-located Events
+
+[APNet&apos;19](http://conferences.sigcomm.org/events/apnet2019/) : 3rd Asia-Pacific Workshop on Networking (August 17-18, 2019)
 
 <!-- ### [Cut off date for conference rate at Hotel Angeleno: July 31, 2017]({{ site.baseurl }}/accommodations.html) -->
 <!-- {: style="text-align: center" } -->
