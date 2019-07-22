@@ -49,7 +49,7 @@ During the event, participants form small teams, with each team focusing on a gi
 
 During the event, representatives of the open-source projects and companies that proposed challenges will be on site to provide mentoring. Food and drinks are provided throughout the event.
 
-Event Date: **Staturday, August 24, 2019**
+Event Date: **Saturday, August 24, 2019**
 
 Event Location: **Alibaba@Beijing**
 
