@@ -15,6 +15,12 @@ dates:
 
 # {{ page.title }}
 
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/hackathon/hackathon.png" style="width:100%;"  alt="hackathon" />
+</div>
+<br>
+
+
 ## Introduction
 Hackathons (hacking marathons) are events where a team of people works together on a set of projects. The objective of the Hackathon is to solve practical problems, encourage creativity and reproducibility, but also to have fun, do social networking, meet potential employers, and establish new collaborations.
 
@@ -36,6 +42,8 @@ Participants are encouraged to form teams by themselves. The size of a team shou
 
 ## Challenges
 The official challenges will be available on July 24th, 2019. We encourage participants to take your own challenges to the Hackathon if only it matches the theme of this event.
+
+-  [https://github.com/acmsigcomm19hackathon/hackathonprojects/wiki](https://github.com/acmsigcomm19hackathon/hackathonprojects/wiki)
 
 ## Details
 At the second ACM SIGCOMM Hackathon, participants will identify and help resolve challenges of their choice related to the research themes of the SIGCOMM conference. The theme of the Hackathon is “**Measuring and Debugging Real Network Systems**”, but participants are free to choose the project of their interest, related to research topics of the SIGCOMM conference.
