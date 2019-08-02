@@ -38,7 +38,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT and MAGESys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a> and <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -50,7 +50,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; POWDER and NDNoT
+  title: Tutorials&#58; POWDER and NDNIoT
   authors: ''
   abstract: ''
   bio: ''
@@ -86,7 +86,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT and MAGESys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a> and <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -98,7 +98,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; POWDER and NDNoT
+  title: Tutorials&#58; POWDER and NDNIoT
   authors: ''
   abstract: ''
   bio: ''
@@ -134,7 +134,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT, MAGESys and OptSys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a>, <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a> and <a href="workshop-optsys.html" style="color:#000000;text-decoration:none;">OptSys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -146,7 +146,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; NDNoT
+  title: Tutorial&#58; NDNIoT
   authors: ''
   abstract: ''
   bio: ''
@@ -182,7 +182,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT, MAGESys and OptSys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a>, <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a> and <a href="workshop-optsys.html" style="color:#000000;text-decoration:none;">OptSys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -194,7 +194,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; NDNoT
+  title: Tutorial&#58; NDNIoT
   authors: ''
   abstract: ''
   bio: ''
@@ -1058,7 +1058,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NetPL and NetAI
+  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1106,7 +1106,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NetPL and NetAI
+  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1154,7 +1154,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NetPL and NetAI
+  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1202,7 +1202,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NetPL and NetAI
+  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
   authors: ''
   abstract: ''
   bio: ''

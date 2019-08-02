@@ -381,7 +381,7 @@ html .ui-bar-a a:link, html .ui-bar-a a:visited, html .ui-bar-a a:hover, html .u
 //}
 
 .content-primary .program .prog-break {
-    padding: 0em 1.0em;
+    padding: 0.25em 1.0em;
     background-color: $program-break-background;
     border-color: #bbb;
     color: #000000;
@@ -516,7 +516,7 @@ table.prog-keynote
 }
 
 .content-primary .program .prog-bestccr {
-    padding: 0em 1.0em;
+    padding: 0.25em 1.0em;
     color: $program-bestccr-font;
     background-color: $program-bestccr;
 }
