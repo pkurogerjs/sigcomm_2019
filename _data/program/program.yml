@@ -50,7 +50,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; POWDER and NDNIoT
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#000000;text-decoration:none;">POWDER</a> and <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -98,7 +98,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; POWDER and NDNIoT
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#000000;text-decoration:none;">POWDER</a> and <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -146,7 +146,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; NDNIoT
+  title: Tutorial&#58; <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -194,7 +194,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; NDNIoT
+  title: Tutorial&#58; <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1070,7 +1070,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; P4 and CPS
+  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a> and <a href="tutorial-cps.html" style="color:#000000;text-decoration:none;">CPS</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1118,7 +1118,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; P4 and CPS
+  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a> and <a href="tutorial-cps.html" style="color:#000000;text-decoration:none;">CPS</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1166,7 +1166,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; P4
+  title: Tutorial&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -1214,7 +1214,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; P4
+  title: Tutorial&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a>
   authors: ''
   abstract: ''
   bio: ''
