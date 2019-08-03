@@ -212,7 +212,7 @@ menu:
   - name: CPS
     url: /tutorial-cps.html
     icon: fa-adjust fa-rotate-180
-  - name: NDNoT
+  - name: NDN IoT
     url: /tutorial-ndnot.html
     icon: fa-adjust
   - name: POWDER
