@@ -1,4 +1,3 @@
----
 - type: day
   time: Monday, August 19, 2019
   room: ''
@@ -38,7 +37,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT and MAGESys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a> and <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -50,7 +49,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; POWDER and NDNIoT
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#000000;text-decoration:none;">POWDER</a> and <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -86,7 +85,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT and MAGESys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a> and <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -98,7 +97,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; POWDER and NDNIoT
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#000000;text-decoration:none;">POWDER</a> and <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -134,7 +133,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT, MAGESys and OptSys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a>, <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a> and <a href="workshop-optsys.html" style="color:#000000;text-decoration:none;">OptSys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -146,7 +145,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; NDNIoT
+  title: Tutorial&#58; <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -182,7 +181,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; NEAT, MAGESys and OptSys
+  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a>, <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a> and <a href="workshop-optsys.html" style="color:#000000;text-decoration:none;">OptSys</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -194,7 +193,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; NDNIoT
+  title: Tutorial&#58; <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDNIoT</a>
   authors: ''
   abstract: ''
   bio: ''
@@ -227,3 +226,4 @@
   slides: ''
   video: ''
   COL_UID: ''
+  
