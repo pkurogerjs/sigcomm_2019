@@ -116,7 +116,6 @@ T. S. Eugene Ng is a Professor of Computer Science and Electrical & Computer Eng
 
 
 
-
 ### Camera-ready instructions
 {% include camera-ready_ws_inst.html %}
 

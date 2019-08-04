@@ -14,7 +14,7 @@
 - type: session
   time: 12:05pm - 12:30pm 
   room: ''
-  title: Opening
+  title: 'Workshop Opening - Background and Overview'
   authors: ''
   abstract: ''
   bio: ''
@@ -27,7 +27,7 @@
   time: 12:30pm - 2:00pm
   room: ''
   title: Session 1
-  authors: ''
+  authors: 'Session chair: Paolo Costa (Microsoft Research)'
   abstract: ''
   bio: ''
   photo: ''
@@ -99,7 +99,7 @@
   time: 2:30am - 3:45pm
   room: ''
   title: Session 2
-  authors: ''
+  authors: 'Session chair:  Stefan Schmid (University of Vienna)'
   abstract: ''
   bio: ''
   photo: ''
@@ -122,10 +122,14 @@
 - type: talk
   time: ''
   room: ''
-  title: Microsoft research (Full details coming soon) (30min)
-  authors: 
+  title: 'Optical switching in data centers: Opportunities and Challenges (30min)'
+  authors: 'Hitesh Ballani (Microsoft research)'
   abstract: ''
-  bio: ''
+  bio: 'I am a researcher in the System and Networking group at Microsoft Research in Cambridge, UK. My research aims to build systems and networks for next-generation data centers. Our current focus is on developing optical technologies for the cloud. Earlier, I graduated from Cornell University where I indulged in follies like Scalable Internet Routing and Network Management.
+<br />
+I enjoy working on real-world problems, particularly ones that span technical domains. For example, as part of the Predictable Data Centers project (2010-15), we developed technologies for enabling predictable performance across shared cloud resources like networking and storage. Applying traditional networking ideas to the storage stack was key to a lot of our innovation, leading to the SMB Bandwidth Limiting feature in Windows Server 2012 R2, and inspiring the end-to-end Storage QoS feature in Windows Server 2016. This post discusses our journey from whiteboard discussions to a shipping product.
+<br />
+With our Optics for the Cloud effort (2016-), we are now delving deeper into the data center stack. Our team brings together hardware, optics, networking and application-level expertise to take a cross-stack view towards developing optical technologies that could underpin the next-generation of our cloud infrastructure.'  
   photo: ''
   link: ''
   slides: ''
@@ -159,7 +163,7 @@
   time: '4:00pm - 4:45pm'
   room: ''
   title: Session 3
-  authors: ''
+  authors: 'Session chair: Chen Avin (BGU)'
   abstract: ''
   bio: ''
   photo: ''
@@ -194,20 +198,8 @@
 - type: session
   time: 4:45pm - 5:30pm
   room: ''
-  title: Brainstorming and panel session
-  authors: ''
-  abstract: ''
-  bio: ''
-  photo: ''
-  link: ''
-  slides: ''
-  video: ''
-  COL_UID: ''
-- type: session
-  time: 4:45pm - 5:30pm
-  room: ''
-  title: Concluding Remarks
-  authors: ''
+  title: Panel session
+  authors: 'Session chair: Manya Ghobadi (MIT)'
   abstract: ''
   bio: ''
   photo: ''
