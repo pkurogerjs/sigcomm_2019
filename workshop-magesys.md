@@ -82,6 +82,9 @@ committees:
 
 # {{ page.title }}
 
+### Workshop Program
+{% include program-online.html type="magesys" %}
+
 ### Call for Papers
 Advances in distributed artificial intelligence, edge computing, and distributed control are taking the dream of autonomous air-ground vehicles (AGV) beyond the walls of research centers and laboratories. Initial deployments will be likely in Military, Emergency, and Industrial scenarios followed by civilian applications as the technology matures.
 
