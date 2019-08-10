@@ -11,9 +11,9 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: 8:00 am - 5:00 pm
-  room: ''
-  title: Start Registration
+  time: 8:30 am - 9:00 pm
+  room: Shangri-La Hotel Lobby
+  title: Registration Desk
   authors: ''
   abstract: ''
   bio: ''
@@ -37,7 +37,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -49,7 +49,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a> and <a href="tutorial-cps.html" style="color:#000000;text-decoration:none;">CPS</a>
+  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:white;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor) and <a href="tutorial-cps.html" style="color:white;">CPS</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -85,7 +85,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -97,7 +97,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a> and <a href="tutorial-cps.html" style="color:#000000;text-decoration:none;">CPS</a>
+  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:white;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor) and <a href="tutorial-cps.html" style="color:white;">CPS</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -133,7 +133,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -145,7 +145,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a>
+  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:white;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -181,7 +181,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetPL</a> and <a href="workshop-netpl.html" style="color:#000000;text-decoration:none;">NetAI</a>
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -193,7 +193,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; <a href="tutorial-p4.html" style="color:#000000;text-decoration:none;">P4</a>
+  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:white;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''

@@ -1,4 +1,3 @@
----
 - type: day
   time: Thursday, August 22, 2019
   room: ''
@@ -12,9 +11,9 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: 8:00 am - 5:00 pm
-  room: ''
-  title: Start Registration
+  time: 8:30 am - 6:00 pm
+  room: Shangri-La Hotel Lobby
+  title: Registration Desk
   authors: ''
   abstract: ''
   bio: ''
@@ -25,7 +24,7 @@
   COL_UID: ''
 - type: session
   time: 9:00 am - 10:15 am
-  room: ''
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: Technical Session 6&#58; New Ways to Solve Old Problems
   authors: ''
   abstract: ''
@@ -85,7 +84,7 @@
   COL_UID: ''
 - type: session
   time: 10:45 am - 12:00 pm
-  room: ''
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: Technical Session 7&#58; Applications
   authors: ''
   abstract: ''
@@ -145,7 +144,7 @@
   COL_UID: ''
 - type: session
   time: 1:30 pm - 2:45 pm
-  room: ''
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: Technical Session 8&#58; NICs and Switches
   authors: ''
   abstract: ''
@@ -205,7 +204,7 @@
   COL_UID: ''
 - type: session
   time: 3:15 pm - 4:30 pm
-  room: ''
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: Technical Session 9&#58; Video
   authors: ''
   abstract: ''
@@ -253,7 +252,7 @@
   COL_UID: ''
 - type: session
   time: 4:30 pm - 5:45 pm
-  room: ''
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: Technical Session 10&#58; New Control Plane Operations
   authors: ''
   abstract: ''
@@ -313,8 +312,8 @@
   COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
-  room: Garden Wing Ballroom I + II
-  title: N2Women Dinner <a style="color:white" href="https://conferences.sigcomm.org/sigcomm/2019/n2women_dinner.html">[click here for more information]</a>
+  room: Garden Wing Ballroom, 1<sup>st</sup> floor
+  title: <a href="n2women_dinner.html">N2Women Dinner [click here for more information]</a>
   authors: ''
   abstract: ''
   bio: ''

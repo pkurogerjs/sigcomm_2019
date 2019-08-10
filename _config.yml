@@ -62,9 +62,9 @@ menu:
     - name: All days
       url: /program.html
       icon: fa-calendar
-#    - name: Sunday
-#      url: /program_sunday.html
-#      icon: fa-calendar
+    - name: Sunday
+      url: /program_sunday.html
+      icon: fa-calendar
     - name: Monday
       url: /program_monday.html
       icon: fa-calendar

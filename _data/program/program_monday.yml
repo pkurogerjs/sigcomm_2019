@@ -11,9 +11,9 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: 8:00 am - 5:00 pm 
-  room: ''
-  title: Start Registration
+  time: 7:30 am - 9:00 pm 
+  room: Shangri-La Hotel Lobby
+  title: Registration Desk
   authors: ''
   abstract: ''
   bio: ''
@@ -37,7 +37,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a> and <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a>
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-magesys.html">MAGESys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -49,7 +49,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#000000;text-decoration:none;">POWDER</a> and <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDN IoT</a>
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#ffffff;">POWDER</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor) and <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -85,7 +85,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a> and <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a>
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-magesys.html">MAGESys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -97,7 +97,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#000000;text-decoration:none;">POWDER</a> and <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDN IoT</a>
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#ffffff;">POWDER</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor) and <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -133,7 +133,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a>, <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a> and <a href="workshop-optsys.html" style="color:#000000;text-decoration:none;">OptSys</a>
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-optsys.html">OptSys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -145,7 +145,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDN IoT</a>
+  title: Tutorials&#58; <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -181,7 +181,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-neat.html" style="color:#000000;text-decoration:none;">NEAT</a>, <a href="workshop-magesys.html" style="color:#000000;text-decoration:none;">MAGESys</a> and <a href="workshop-optsys.html" style="color:#000000;text-decoration:none;">OptSys</a>
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-optsys.html">OptSys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -193,7 +193,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorial&#58; <a href="tutorial-ndnot.html" style="color:#000000;text-decoration:none;">NDN IoT</a>
+  title: Tutorials&#58; <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -204,7 +204,7 @@
   COL_UID: ''
 - type: topic-preview
   time: 5:00 pm - 6:15 pm
-  room: ''
+  room: Garden Wing Ballroom III, 1<sup>st</sup> floor
   title: Topic Preview 1
   authors: ''
   abstract: ''
@@ -216,7 +216,7 @@
   COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
-  room: Valley Wing Ballroom
+  room: Valley Wing Ballroom, 2<sup>nd</sup>, Shangri-La Hotel
   title: Welcome Reception
   authors: ''
   abstract: ''
@@ -226,4 +226,3 @@
   slides: ''
   video: ''
   COL_UID: ''
-  
