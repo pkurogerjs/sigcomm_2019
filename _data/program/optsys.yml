@@ -39,8 +39,8 @@
   time: ''
   room: ''
   title: Lessons learned from 10 years of building optical systems (30min)
-  authors: George Porter (UC San Diego)
-  abstract: ''
+  authors: 'George Porter (UC San Diego)'
+  abstract: "Optical switching has the potential for delivering increased bandwidth at lower cost and power compared to electronic packet switching architectures.  Yet while optical switching has been successful in the wide-area, it has yet to make significant inroads in clusters and datacenter networks.  In part, this is because optical switches are not drop-in replacement for packet switches, requiring that other components change to support their requirements.  In this talk, I'll describe some of the fundamental challenges and opportunities in applying optical switching to cluster networks, and report on recent progress on designing and building out a high-bandwidth and low-latency circuit-switched fabric based on RotorNet(Sigcomm'17), including the design of a new optical Rotor switch device."
   bio: ''
   photo: ''
   link: ''
@@ -52,7 +52,7 @@
   room: ''
   title: Flexibly Scalable High Performance Architectures with Embedded Photonics (30min)
   authors: Keren Bergman (Columbia University)
-  abstract: ''
+  abstract: 'High-performance systems are increasingly bottlenecked by the energy and communications costs of interconnecting numerous compute and memory resources. Integrated silicon photonics offer the opportunity of embedding optical connectivity that directly delivers high off-chip communication bandwidth densities with low power consumption. The talk will cover these advances and introduce the concept of embedded photonics for addressing data-movement challenges in high-performance systems. Beyond alleviating the bandwidth/energy bottlenecks, embedded photonics can enable new disaggregated architectures that leverage the distance independence of optical transmission. The envisioned modular system interconnected by a unified photonic fabric can be flexibly composed to create custom architectures tailored for specific applications.'
   bio: ''
   photo: ''
   link: ''
@@ -112,7 +112,7 @@
   room: ''
   title: Optical Datacenter Networks Experience and Future Architecture (30min)
   authors: Eitan Zahavi (Amazon)
-  abstract: ''
+  abstract: "Optical Data Center Networks (ODCN) are gaining attention as the \"End of Moore's law\" may prevent Electrical Packet Switching networks from meeting the exponential network bandwidth demands. The Nephele H2020 project provided a first vertical integration of ODCN. This talk provides some key learnings from Nephele and furthermore highlights some fundamental ODCN architectural challenges. This leads to some key architectural observations and promising alternatives."
   bio: ''
   photo: ''
   link: ''
@@ -125,11 +125,7 @@
   title: 'Optical switching in data centers: Opportunities and Challenges (30min)'
   authors: 'Hitesh Ballani (Microsoft research)'
   abstract: ''
-  bio: 'I am a researcher in the System and Networking group at Microsoft Research in Cambridge, UK. My research aims to build systems and networks for next-generation data centers. Our current focus is on developing optical technologies for the cloud. Earlier, I graduated from Cornell University where I indulged in follies like Scalable Internet Routing and Network Management.
-<br />
-I enjoy working on real-world problems, particularly ones that span technical domains. For example, as part of the Predictable Data Centers project (2010-15), we developed technologies for enabling predictable performance across shared cloud resources like networking and storage. Applying traditional networking ideas to the storage stack was key to a lot of our innovation, leading to the SMB Bandwidth Limiting feature in Windows Server 2012 R2, and inspiring the end-to-end Storage QoS feature in Windows Server 2016. This post discusses our journey from whiteboard discussions to a shipping product.
-<br />
-With our Optics for the Cloud effort (2016-), we are now delving deeper into the data center stack. Our team brings together hardware, optics, networking and application-level expertise to take a cross-stack view towards developing optical technologies that could underpin the next-generation of our cloud infrastructure.'  
+  bio: ''  
   photo: ''
   link: ''
   slides: ''
@@ -175,7 +171,7 @@ With our Optics for the Cloud effort (2016-), we are now delving deeper into t
   time: ''
   room: ''
   title: 'Big data and Optical Lightpaths Driven Data Center Network (30min)'
-  authors: T. S. Eugene Ng
+  authors: T. S. Eugene Ng (Rice University)
   abstract: Physical layer optical communication devices such as optical circuit switches give data center network architects new tools to innovate. The abundant bandwidth capacity of optical devices seems a great match for the insatiable bandwidth demand of big data applications emerging in data centers today. However, big data applications have many important nuanced qualities and they have to be carefully understood and considered by network architects. This talk will discuss some of the recent advances from the BOLD (Big data and Optical Lightpaths Driven) Project at Rice University, which has been investigating big data applications' fundamental characteristics and developing advanced data center network architectures that leverage optical devices to meet the growing challenges presented by big data applications.
   bio: ''
   photo: ''

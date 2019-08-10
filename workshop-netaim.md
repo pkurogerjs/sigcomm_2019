@@ -87,7 +87,12 @@ committees:
          affiliation: UMN, USA
 ---
 
+
 # {{ page.title }}
+
+### Workshop Program
+{% include program-online.html type="netai" %}
+
 
 ### Call for Papers
 In recent years, we have witnessed: (1) development of fully programmable, protocol-independent data planes and languages for programming them; and (2) the emergence of new platforms, tools, and algorithms for Artificial Intelligence (AI) and Machine Learning (ML).  These technological advancements and scientific innovations create exciting new opportunities. On the one hand, the scientific innovations in the area of AI/ML have the potential to simplify network management (monitoring as well as control). On the other hand, recent advancements in the area of networking technology have the potential to improve the performance of AI and ML systems.  

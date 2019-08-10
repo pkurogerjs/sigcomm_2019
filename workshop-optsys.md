@@ -34,40 +34,7 @@ committees:
 
 # {{ page.title }}
 
-### Workshop Program
-{% include program-online.html type="optsys" %}
-
-### Call for Oral Presentations
-
-Optical equipment is a fundamental component of modern systems. Today, nearly all wide-area, metro, and data center communications are carried over optical technology making optics a billion dollar industry. Optics is poised to play an even bigger role in next-generation networks. The high bandwidth and ultra-low latency requirements of modern Cloud-centric systems, such as machine learning and business analytics, are hard to meet in a cost-effective manner with traditional electrical devices. 
-
-The OptSys workshop focuses on the design and implementation of optical networked systems for the next-generation Cloud infrastructure. These systems pose a number of research challenges spanning multiple research areas, e.g., physical layer, scheduling, synchronization, congestion control, orchestration, and topology reconfiguration, which require cross-layer and cross-disciplinary solutions. The workshop aims to bring together participants across the optics, networking, systems, and distributed algorithms community to jointly tackle these challenges and foster discussions and collaboration opportunities across these communities.
- 
-### Topics of Interest
-Topics of interest include, but are not limited to, the following areas:  
-
-- Cross-layer optimization problems
-- Systems design leveraging recent advances in Optical technology
-- Optical designs leveraging recent advances in Systems and Cloud
-- Novel optical network architectures
-- Emerging optical technologies impacting the design of rack-scale, data-center, metro, and wide-area networks
-- New congestion control and network stacks for optical networks
-- Scheduling and time synchronization algorithms for microsecond/nanosecond Optical Circuit Switches 
-- Programming abstractions for orchestration between the SDN/IP layer and optical devices
-- Reconfigurable optical topologies
-- Analysis and experience with operational optical networks
-- Models, algorithms, and theory for optical networks 
-- Economic and cost aspects of optical networks
-- Monitoring and diagnosis of performance issues across layers
-- Free-space optical interconnects
-
-### Submission Instructions
-Submissions include an extended abstract for oral presentation at the workshop. Authors are encouraged to submit an extended abstract that includes previously published work.  Submitted papers must use the new ACM template (using sigconf document type) from the  [2018 ACM consolidated template package](https://www.acm.org/publications/proceedings-template)[ (you can also use this barebone LaTeX template)](https://github.com/conference-websites/acmart-sigproc-template). The font size must be 9 points. The length of the final extended abstract with all its content except references must not exceed 1 page. The extended abstract must include author’s names and affiliations for single-blind peer reviewing by the PC. Use this link for submission: [https://optsys19.hotcrp.com](https://optsys19.hotcrp.com). Abstracts will not be published.  
-
-### Registration
-{% include workshop_registration.html %}
-
-### Speakers
+### keynote speakers
 **Keren Bergman**
 <div style="overflow:hidden;">
 <div style="float:left;width:15%">
@@ -114,10 +81,59 @@ T. S. Eugene Ng is a Professor of Computer Science and Electrical & Computer Eng
 </div>
 </div>
 
+**Hitesh Ballani**
+<div style="overflow:hidden;">
+<div style="float:left;width:15%">
+<img style="display:block;width:100%" src="{{site.baseurl}}/files/workshop/OptSys/hiteshBallani.jpg" alt="" />
+</div>
+<div style="float:right;width:80%">
+<p>
+I am a researcher in the System and Networking group at Microsoft Research in Cambridge, UK. My research aims to build systems and networks for next-generation data centers. Our current focus is on developing optical technologies for the cloud. Earlier, I graduated from Cornell University where I indulged in follies like Scalable Internet Routing and Network Management.
+<br />
+I enjoy working on real-world problems, particularly ones that span technical domains. For example, as part of the Predictable Data Centers project (2010-15), we developed technologies for enabling predictable performance across shared cloud resources like networking and storage. Applying traditional networking ideas to the storage stack was key to a lot of our innovation, leading to the SMB Bandwidth Limiting feature in Windows Server 2012 R2, and inspiring the end-to-end Storage QoS feature in Windows Server 2016. This post discusses our journey from whiteboard discussions to a shipping product.
+<br />
+With our Optics for the Cloud effort (2016-), we are now delving deeper into the data center stack. Our team brings together hardware, optics, networking and application-level expertise to take a cross-stack view towards developing optical technologies that could underpin the next-generation of our cloud infrastructure.
+</p>
+</div>
+</div>
 
 
-### Camera-ready instructions
-{% include camera-ready_ws_inst.html %}
+### Workshop Program
+{% include program-online.html type="optsys" %}
+
+### Call for Oral Presentations
+
+Optical equipment is a fundamental component of modern systems. Today, nearly all wide-area, metro, and data center communications are carried over optical technology making optics a billion dollar industry. Optics is poised to play an even bigger role in next-generation networks. The high bandwidth and ultra-low latency requirements of modern Cloud-centric systems, such as machine learning and business analytics, are hard to meet in a cost-effective manner with traditional electrical devices. 
+
+The OptSys workshop focuses on the design and implementation of optical networked systems for the next-generation Cloud infrastructure. These systems pose a number of research challenges spanning multiple research areas, e.g., physical layer, scheduling, synchronization, congestion control, orchestration, and topology reconfiguration, which require cross-layer and cross-disciplinary solutions. The workshop aims to bring together participants across the optics, networking, systems, and distributed algorithms community to jointly tackle these challenges and foster discussions and collaboration opportunities across these communities.
+ 
+### Topics of Interest
+Topics of interest include, but are not limited to, the following areas:  
+
+- Cross-layer optimization problems
+- Systems design leveraging recent advances in Optical technology
+- Optical designs leveraging recent advances in Systems and Cloud
+- Novel optical network architectures
+- Emerging optical technologies impacting the design of rack-scale, data-center, metro, and wide-area networks
+- New congestion control and network stacks for optical networks
+- Scheduling and time synchronization algorithms for microsecond/nanosecond Optical Circuit Switches 
+- Programming abstractions for orchestration between the SDN/IP layer and optical devices
+- Reconfigurable optical topologies
+- Analysis and experience with operational optical networks
+- Models, algorithms, and theory for optical networks 
+- Economic and cost aspects of optical networks
+- Monitoring and diagnosis of performance issues across layers
+- Free-space optical interconnects
+
+### Submission Instructions
+Submissions include an extended abstract for oral presentation at the workshop. Authors are encouraged to submit an extended abstract that includes previously published work.  Submitted papers must use the new ACM template (using sigconf document type) from the  [2018 ACM consolidated template package](https://www.acm.org/publications/proceedings-template)[ (you can also use this barebone LaTeX template)](https://github.com/conference-websites/acmart-sigproc-template). The font size must be 9 points. The length of the final extended abstract with all its content except references must not exceed 1 page. The extended abstract must include author’s names and affiliations for single-blind peer reviewing by the PC. Use this link for submission: [https://optsys19.hotcrp.com](https://optsys19.hotcrp.com). Abstracts will not be published.  
+
+### Registration
+{% include workshop_registration.html %}
+
+
+
+
 
 
 ### <i class="fa fa-calendar"></i> Important Dates

@@ -28,6 +28,11 @@ committees:
 
 # {{ page.title }}
 
+### Workshop Program
+{% include program-online.html type="netpl" %}
+
+
+
 ### Call for Papers
 The NetPL workshop provides a forum to bring together researchers and practitioners from the fields of programming languages, formal methods, software verification and networking.
 
