@@ -20,7 +20,11 @@
       <h4>
         <div {{ item_style }}>
           <p class="keynote-header">
+           {% if has_link == true %} 
+              <a href="javascript:void(0)" onclick="window.location='{{ keynote.link  }}'; event.stopPropagation();" class="ui-link">{{ keynote.title }}</a>
+           {% else %}
               <h2>{{ keynote.title }}</h2>
+           {% endif %} 
           </p>
           <!-- /* the spaces after various "%s" below are important for correct list filtering! */ -->
           <p>{{ keynote.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}</p>
@@ -28,17 +32,17 @@
         <div class="ui-li-aside">
           {% if has_link %}
             <div class="button-paper">
-              <a href="{{ keynote.link }}" onclick="window.location='{{ keynote.link }}'; event.stopPropagation();" class="ui-link"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+              <a href="{{ keynote.link }}" onclick="window.location='{{ keynote.link }}'; event.stopPropagation();" class="ui-link">Keynote</a>
             </div>
           {% endif %}
           {% if has_slides %}
             <div class="button-paper">
-              <a href="{{ keynote.slides }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i></a>
+              <a href="{{ keynote.slides }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link">Slides</a>
             </div>
           {% endif %}
           {% if has_video %}
             <div class="button-paper">
-              <a href="{{ keynote.video }}" onclick="window.location='{{ keynote.video }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-text" aria-hidden="true"></i></a>
+              <a href="{{ keynote.video }}" onclick="window.location='{{ keynote.video }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link">Video</a>
             </div>
           {% endif %}
         </div>

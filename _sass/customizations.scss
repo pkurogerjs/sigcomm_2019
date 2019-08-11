@@ -281,7 +281,6 @@ p {
 .content-primary .program .button-paper {
     padding: 4px 10px 4px 10px;
     border-radius: 5px;
-    background-color: $highlight;
     text-align: center;
     width: auto;
     margin: 0 0 6px 6px;
@@ -289,7 +288,7 @@ p {
 }
 
 .content-primary .program .button-paper a {
-    color: #ffffff;
+    color: #000000;
     font-weight: 400;
     font-size: 0.9em;
     text-decoration: none;
