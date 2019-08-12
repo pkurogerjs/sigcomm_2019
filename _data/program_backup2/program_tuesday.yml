@@ -11,21 +11,9 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: 7:30 am - 7:00 pm
+  time: 7:30 am - 6:00 pm
   room: Shangri-La Hotel Lobby
   title: Registration Desk
-  authors: ''
-  abstract: ''
-  bio: ''
-  photo: ''
-  link: ''
-  slides: ''
-  video: ''
-  COL_UID: ''
-- type: tutorial
-  time: ''
-  room: ''
-  title: Drink and Snack throughout the entire day (outside of conference rooms)
   authors: ''
   abstract: ''
   bio: ''
@@ -132,7 +120,7 @@
   COL_UID: ''
 - type: break
   time: 12:00 pm - 1:30 pm
-  room: Garden Wing Ballroom, 1<sup>st</sup> floor and Valley Wing Jade Room, 3<sup>rd</sup> floor
+  room: Valley Wing Ballroom A+B, Valley Wing Ballroom
   title: Lunch
   authors: ''
   abstract: ''
@@ -277,7 +265,7 @@
 - type: bestccr
   time: 6:30 pm - 9:00 pm
   room: Hotel Nikko New Century Beijing
-  title: <a href="#" style="color:#9a0000;">Student Dinner</a> (by invitation only)
+  title: <a href="#">Student Dinner</a> (by invitation only)
   authors: ''
   abstract: ''
   bio: ''

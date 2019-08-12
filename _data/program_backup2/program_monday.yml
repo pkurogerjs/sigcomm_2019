@@ -1,5 +1,5 @@
 - type: day
-  time: Friday, August 23, 2019
+  time: Monday, August 19, 2019
   room: ''
   title: ''
   authors: ''
@@ -11,21 +11,9 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: 8:30 am - 5:00 pm
+  time: 7:30 am - 9:00 pm 
   room: Shangri-La Hotel Lobby
   title: Registration Desk
-  authors: ''
-  abstract: ''
-  bio: ''
-  photo: ''
-  link: ''
-  slides: ''
-  video: ''
-  COL_UID: ''
-- type: tutorial
-  time: ''
-  room: ''
-  title: Drink and Snack throughout the entire day (outside of conference rooms)
   authors: ''
   abstract: ''
   bio: ''
@@ -49,7 +37,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-magesys.html">MAGESys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -61,7 +49,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#9a0000;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor) and <a href="tutorial-cps.html" style="color:#9a0000;">CPS</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor)
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#ffffff;">POWDER</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor) and <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -97,7 +85,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-magesys.html">MAGESys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -109,7 +97,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#9a0000;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor) and <a href="tutorial-cps.html" style="color:#9a0000;">CPS</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor)
+  title: Tutorials&#58; <a href="tutorial-powder.html" style="color:#ffffff;">POWDER</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor) and <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -120,7 +108,7 @@
   COL_UID: ''
 - type: break
   time: 12:00 pm - 1:30 pm
-  room: Valley Wing Ballroom, 2<sup>nd</sup> floor
+  room: Valley Wing Ballroom A+B, Valley Wing Ballroom
   title: Lunch
   authors: ''
   abstract: ''
@@ -145,7 +133,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-optsys.html">OptSys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -157,7 +145,7 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#9a0000;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
+  title: Tutorials&#58; <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -193,7 +181,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Ballroom, 1<sup>st</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-neat.html">NEAT</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-optsys.html">OptSys</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -205,7 +193,31 @@
 - type: tutorial
   time: ''
   room: ''
-  title: Tutorials&#58; <a href="tutorial-p4.html" style="color:#9a0000;">P4</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
+  title: Tutorials&#58; <a href="tutorial-ndnot.html" style="color:#ffffff;">NDN IoT</a> (Garden Wing Ballroom I, 1<sup>st</sup> floor)
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: topic-preview
+  time: 5:00 pm - 6:15 pm
+  room: Garden Wing Ballroom III, 1<sup>st</sup> floor
+  title: Topic Preview 1
+  authors: ''
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: bestccr
+  time: 6:30 pm - 9:00 pm
+  room: Valley Wing Ballroom, 2<sup>nd</sup>, Shangri-La Hotel
+  title: Welcome Reception
   authors: ''
   abstract: ''
   bio: ''

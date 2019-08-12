@@ -8,4 +8,4 @@ group: Program
 
 {% include program-online.html type="program_tuesday" %}
 
-The final program may be adjusted.
+<strong>The final program may be adjusted.</strong>

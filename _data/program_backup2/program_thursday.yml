@@ -11,21 +11,9 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: 8:30 am - 7:00 pm
+  time: 8:30 am - 6:00 pm
   room: Shangri-La Hotel Lobby
   title: Registration Desk
-  authors: ''
-  abstract: ''
-  bio: ''
-  photo: ''
-  link: ''
-  slides: ''
-  video: ''
-  COL_UID: ''
-- type: tutorial
-  time: ''
-  room: ''
-  title: Drink and Snack throughout the entire day (outside of conference rooms)
   authors: ''
   abstract: ''
   bio: ''
@@ -144,7 +132,7 @@
   COL_UID: ''
 - type: break
   time: 12:00 pm - 1:30 pm
-  room: Garden Wing Ballroom, 1<sup>st</sup> floor and Valley Wing Jade Room, 3<sup>rd</sup> floor
+  room: Valley Wing Ballroom A+B, Valley Wing Ballroom
   title: Lunch
   authors: ''
   abstract: ''
@@ -325,7 +313,7 @@
 - type: bestccr
   time: 6:30 pm - 9:00 pm
   room: Garden Wing Ballroom, 1<sup>st</sup> floor
-  title: <a href="n2women_dinner.html" style="color:#9a0000;">N2Women Dinner</a>
+  title: <a href="n2women_dinner.html">N2Women Dinner [click here for more information]</a>
   authors: ''
   abstract: ''
   bio: ''
