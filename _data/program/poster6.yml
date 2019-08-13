@@ -2,8 +2,68 @@
 - type: paper
   time: ''
   room: ''
-  title: ''
-  authors: ''
+  title: Smile, you are in the spotlight!
+  authors: Jona Beysens, Qing Wang and Sofie Pollin (KU Leuven)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Device-Aware Adaptive Video Streaming
+  authors: Arsalan Ali Jumani, Fizza Zafar, Zafar Ayyub Qazi and Ihsan Ayyub Qazi (LUMS)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: White Mirror&#58; Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis
+  authors: Gargi Mitra, Prasanna Karthik Vairam, Patanjali SLPSK, Nitin Chandrachoodan and Kamakoti Veezhinathan (Indian Institute of Technology Madras)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: L3VTP&#58; A Low-Latency Live Video Transmission Platform
+  authors: Gang Yi (Tsinghua University), Dan Yang (Beijing University of Posts and Telecommunications), Mowei Wang (Tsinghua University), Weihua Li, Yi Li (PowerInfo) and Yong Cui (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: QUINCE&#58; A unified crowdsourcing-based QoE measurement platform
+  authors: Ricky Mok (CAIDA/UCSD), Ginga KAWAGUTI (NTT) and K.C. Claffy (CAIDA/UCSD)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: A Light-weight Wi-Fi Fingerprint Generator with AR
+  authors: huhan Shen, Bingxian Lu, Zhanwu Yang, Yinghua Dong, Bin Han and Lei Wang (Dalian University of Technology)
   abstract: ''
   bio: ''
   photo: ''
