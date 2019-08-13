@@ -161,24 +161,33 @@ committees:
 ## Posters
 
 ### Microservices, Serverless Computing and IoT
+{% include poster-online.html type="poster1" %}
 
 ### Cellular/Wireless Networks and their Applications
+{% include poster-online.html type="poster2" %}
 
 ### AI/ML Applications and Network Management
+{% include poster-online.html type="poster3" %}
 
 ### Caching, Named Networking and Database Queries
+{% include poster-online.html type="poster4" %}
 
 ### SDN, Datacenter Networking and Hardware Accelerators
+{% include poster-online.html type="poster5" %}
 
 ### Video Streaming and Interactive Applications
+{% include poster-online.html type="poster6" %}
 
 ## Demos
 
 ### SDN, Network Programmability and Modeling
+{% include poster-online.html type="demo1" %}
 
 ### AQM and Higher Layers
+{% include poster-online.html type="demo2" %}
 
 ### Edge Computing and Mobile Communications
+{% include poster-online.html type="demo3" %}
 
 ## Call for Posters, Demos, and Student Research Competition
 The SIGCOMM poster and demo sessions showcase works-in-progress in an informal setting. Topics of interest are the same as research topics in the SIGCOMM conference call for papers. We strongly encourage student and industry submissions. The SIGCOMM 2019 Poster and Demo committee will review all posters and demo proposals. Students must present student posters at the conference. Authors of accepted papers in SIGCOMM 2019 may not submit in this track on the same work as in the paper.
