@@ -1,13 +1,12 @@
-- type: talk
+- type: paper
   time: ''
   room: ''
-  title: Enabling a Permanent Revolution in Internet Architecture
-  authors: James McCauley, Yotam Harchol (UC Berkeley), Aurojit Panda (NYU), Barath Raghavan (USC), Scott Shenker (UC Berkeley and ICSI)
-  abstract: Recent Internet research has been driven by two facts and their contradictory implications&#58; the current Internet architecture is both <b>inherently flawed</b> (so we should explore radically different alternative designs) and  <b>deeply entrenched</b> (so we should restrict ourselves to backwards-compatible and therefore incrementally deployable improvements). In this paper, we try to reconcile these two perspectives by proposing a backwards-compatible architectural framework in which one can incrementally deploy radically new designs. We show how this can lead to a permanent revolution in Internet architecture by (i) easing the deployment of new architectures and (ii) allowing multiple coexisting architectures to be used simultaneously by applications. By enabling both architectural <b>evolution</b> and architectural <b>diversity</b>, this would create a far more <b>extensible</b> Internet whose functionality is not defined by a single narrow waist, but by the union of many coexisting architectures. By being incrementally deployable, our design is not just an interesting but unrealistic clean-slate design, but a step forward that is clearly within our reach.
+  title: ''
+  authors: ''
+  abstract: ''
   bio: ''
   photo: ''
   link: ''
   slides: ''
   video: ''
   COL_UID: ''
-
