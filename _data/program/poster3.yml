@@ -2,8 +2,104 @@
 - type: paper
   time: ''
   room: ''
-  title: ''
-  authors: ''
+  title: A3&#58; An Automatic Malfunction Detection and Fixation System in FatTree Data Center Networks
+  authors: Che Zhang, Shiwei Zhang, Bo Jin, Weichao Li (Southern University of Science and Technology), Zhen Wang (unaffiliated) and Yi Wang (Southern University of Science and Technology)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Being more Effective and Interpretable&#58; Bridging the Gap Between Heuristics and AI for ABR Algorithms
+  authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu and Lifeng Sun (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Measurement and Redesign of BBR-based MPTCP
+  authors: Jiangping Han, Kaiping Xue, Yitao Xing and Peilin Hong (University of Science and Technology of China)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: SINET&#58; Enabling Scalable Network Routing with Deep Reinforcement Learning on Partial Nodes
+  authors: Penghao Sun, Junfei Li (NDSC), Zehua Guo (University of Minnesota), Yang Xu (Fudan University), Julong Lan and Yuxiang Hu (NDSC)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Identifying Structural Hole Spanners in Online Social Networks Using Deep Learning
+  authors: Qingyuan Gong, Jiayun Zhang, Xin Wang and Yang Chen (Fudan University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: NFD&#58; Using Behavior Models to Develop Cross-Platform NFs
+  authors: Hongyi Huang and Wenfei Wu (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: DeepDiag&#58; Detailed NFV Performance Diagnosis
+  authors: Junzhi Gong, Yuliang Li (Harvard University), Aman Shaikh (AT&T Labs - Research), Bilal Anwer (AT&T Labs Research) and Minlan Yu (Harvard University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Resilient Disaggregated Network Flow Monitoring
+  authors: Yongquan Fu, Dongsheng Li, Siqi Shen, Yiming Zhang (Science and Technology Laboratory of Parallel and Distributed Processing, College of Computer Science, National University of Defense Technology) and Kai Chen (SING Lab, Hong Kong University of Science and Technology)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Network-Aware and Unsupervised Diagnostics for Latent Issues in Network Management Databases
+  authors: Li Chen and Hua Shao (Tencent)
   abstract: ''
   bio: ''
   photo: ''
