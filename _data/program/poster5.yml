@@ -2,8 +2,80 @@
 - type: paper
   time: ''
   room: ''
-  title: ''
-  authors: ''
+  title: A fast flow table engine for Open vSwitch with high performance on both lookups and updates
+  authors: Hui Li, Ting Huang, Tong Yang, Wenjun Li (Peking University) and Gong Zhang (Huawei Technologies)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: HyFabric&#58; Minimizing FCT in Optical and Electrical Hybrid Data Center Networks
+  authors: Jinzhen Bao (Institute of Systems Engineering, AMS, PLA), Dezun Dong, Baokang Zhao and Shan Huang (National University of Defense Technology)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: ExpressPass+&#58; ECN-friendly Credit Reservation Congestion Control for Datacenters
+  authors: Zihao Wei, Dezun Dong, Shan Huang and Liquan Xiao (NUDT)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Fully Functional Rate Limiter Design on Programmable Hardware Switches
+  authors: Yongchao He and Wenfei Wu (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: TimerTasks&#58; Towards Time-driven Execution in Programmable Dataplanes
+  authors: Raj Joshi, Ben Leong and Mun Choon Chan (National University of Singapore)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Hard Virtualization of P4-based switches with VirtP4
+  authors: Mateus Saquetti, Guilherme Bueno, Weverton Cordeiro and José Rodrigo Azambuja (Federal University of Rio Grande do Sul)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: A Practical Range Encoding Scheme for TCAMs
+  authors: Wenjun Li, Xinwei Liu, Wenxia Le, Hui Li (Peking University) and Huayu Zhang (Huawei)
   abstract: ''
   bio: ''
   photo: ''
