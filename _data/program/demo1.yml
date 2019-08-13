@@ -2,8 +2,68 @@
 - type: paper
   time: ''
   room: ''
-  title: ''
-  authors: ''
+  title: P4BFT&#58; A Demonstration of Hardware-Accelerated BFT in Fault-Tolerant Network Control Plane
+  authors: Ermin Sakic (Siemens AG, Technical University of Munich (TUM)), Cristian Bermudez Serna (Siemens AG), Endri Goshi, Nemanja Deric and Wolfgang Kellerer (Technical University of Munich (TUM))
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Faster Control Plane Experimentation with Horse
+  authors: Eder Leao Fernandes (Queen Mary University of London), Gianni Antichi (Queen Mary, University of London), Timm Boettger, Ignacio Castro and Steve Uhlig (Queen Mary University of London)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Protecting OpenFlow Flow Tables with Intel SGX
+  authors: Nicolae Paladi (Lund University, RISE), Jakob Svenningsson (RISE), Jorge Medina (New Jersey Institute of Technology) and Patrik Arlos (Blekinge Institute of Technology)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Sluice&#58; Network-Wide Data Plane Programming
+  authors: Vikas Natesh (New York University), Pravein Govindan Kannan (School of Computing, National University of Singapore), Anirudh Sivaraman (New York University) and Ravi Netravali (UCLA)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: HyperGen&#58; High-Performance Flexible Packet Generator Using Programmable Switching ASIC
+  authors: Zhaowei Xi, Yu Zhou, Dai Zhang, Jinqiu Wang, Chen Sun, Yangyang Wang, Xinrui Li, Haoming Wang and Jianping Wu (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Challenging the Generalization Capabilities of Graph Neural Networks for Network Modeling
+  authors: José Suárez-Varela, Sergi Carol-Bosch (Universitat Politècnica de Catalunya), Krzysztof Rusek (AGH University of Science and Technology), Paul Almasan, Marta Arias, Pere Barlet-Ros and Albert Cabellos-Aparicio (Universitat Politècnica de Catalunya)
   abstract: ''
   bio: ''
   photo: ''
