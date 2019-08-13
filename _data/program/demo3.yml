@@ -2,8 +2,68 @@
 - type: paper
   time: ''
   room: ''
-  title: 
-  authors: 
+  title: An Edge Computing Marketplace for Distributed Machine Learning
+  authors: Susham Yerabolu, Samuel Gomena, Ehsan Aryafar (Portland State University) and Carlee Joe-Wong (Carnegie Mellon University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Sharpening Kubernetes for the Edge
+  authors: David Haja (BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS), Mark Szalay (Budapest University of Technology and Economics), Gergely Pongrácz (Ericsson Research), Balázs Sonkoly (Budapest University of Technology and Economics) and Laszlo Toka (MTA-BME Information Systems Research Group)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: iBaby&#58; A Mobile Children Monitoring and Finding System with Stranger Holding Detection Based on IoT Technologies
+  authors: Lien-Wu Chen, Tsung-Ping Chen and Chia-Chun Weng (Feng Chia University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Real-Time Power Profiling of Narrowband Internet of Things Networks
+  authors: Xianghui Zhang (Nanjing University of Aeronautics and Astronautics), Deliang Yang (Michigan State University), Liqian Shen, Xiangmao Chang (Nanjing University of Aeronautics and Astronautics), Jun Huang (Peking University) and Guoliang Xing (The Chinese University of Hong Kong)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: RF-based Inertial Measurement
+  authors: Chenshu Wu, Feng Zhang, Yusen Fan and K. J. Ray Liu (University of Maryland, College Park)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: ZiFi&#58; a lightweight Cross-Technology Communication via RSS Encoding
+  authors: Mingyi Yang, Zhenquan Qin, Bingxian Lu, Lei Wang and Jian Fang (Dalian University of Technology)
   abstract: ''
   bio: ''
   photo: ''
