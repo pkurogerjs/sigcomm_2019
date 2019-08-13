@@ -26,8 +26,8 @@
 - type: session 
   time: 09:15am - 10:00am
   room: ''
-  title: Keynote I
-  authors: 'Prof Zhi-Li Zhang (UMN, USA)'
+  title: Session I Keynote I 
+  authors: 'Session Chair: Prof K.K. Ramakrishnan'
   abstract: ''
   bio: ''
   photo: ''
@@ -38,11 +38,11 @@
 - type: talk 
   time: ''
   room: ''
-  title: TBD
-  authors: 'Session Chair: Prof K.K. Ramakrishnan'
-  abstract: ''
-  bio: ''
-  photo: ''
+  title: 'Network Support for Emerging Applications: Flexible Network Services as Frameworks?'
+  authors: 'Prof, Zhi-Li Zhang, University of Minnesota, USA'
+  abstract: 'Classical IP-based Internet provides only a best-effort service where a network can delay or drop packets with no deterministic performance guarantees. The ascent and dominance of servers virtualization and cloud computing has fundamentally changed the way how we develop large-scale applications and services, giving rise to "application frameworks" that are developed to facilitate and support various classes of application development in cloud environments. In this talk, we will use some examples to motivate and illustrate the new challenges posed by these application frameworks as well as emerging applications such as ML/AI, AR/VR and IoT services. We argue that better network support is needed for co-design of application frameworks, emerging applications and network services.'
+  bio: "Zhi-Li Zhang received Ph.D. degrees  in computer science from the University of Massachusetts.  He joined the faculty of the Department of Computer Science and Engineering at the University of Minnesota in 1997, where  he is currently the McKnight Distinguished University Professor and  Qwest Chair Professor in Telecommunications. He currently also serves as the Associate Director for Research at the Digital Technology Center, University of Minnesota. Prof. Zhang's research interests lie broadly in computer and communication networks, Internet technology, multimedia systems and content distribution networks, cyber-physical systems and Internet-of-Things, and (applied) machine learning and data mining. Prof. Zhang has published more than 100 journal and conference/workshop papers, many of them in top venues in networking and related fields. He is co-recipient of several Best Papers awards including IEEE INFOCOM10, ICNP03, ACM SIGMETRICS96 and RAID13 conferences as well as ACM SIGCOMM APNet’18 and NetAI’19 workshops.  Prof. Zhang has chaired several major conferences in networking including IEEE INFOCOM, ACM SIGMETRICS, IEEE ICNP, IFIP Networking and ACM Internet Measurement Conference (IMC), and served on the Editorial Board of several journals such as IEEE/ACM Transactions on Networking, ACM TOMPECS, and PACM MACS. He is a Fellow of IEEE. "
+  photo: 'images/speakers/Faten-Zhani.png'
   link: ''
   slides: ''
   video: ''
@@ -62,7 +62,7 @@
 - type: session
   time: '10:30am - 12:00am'
   room: ''
-  title: 'Paper Presentation-I (Topic: Emerging Network Services)'
+  title: 'Session II   Paper Presentation-I (Topic: Emerging Network Services)'
   authors: 'Session Chair: Stuart Clayman'
   abstract: ''
   bio: ''
@@ -87,7 +87,9 @@
   time: '10:35am - 11:00am'
   room: ''
   title: 'Dynamically Optimizing End-to-End Latency for Time-Triggered Networks'
-  authors: ''
+  authors: 'Zonghui Li (Software School, Tsinghua University), Hai Wan (Software School,Tsinghua University), 
+            Boxu Zhao (Software School, Tsinghua University, Yangdong Deng (Software School, Tsinghua University, 
+            Ming Gu (Software School, Tsinghua University)'
   abstract: ''
   bio: ''
   photo: ''
@@ -99,7 +101,9 @@
   time: '11:00am - 11:25am'
   room: ''
   title: 'A Framework for Qualitative Communications using Big Packet Protocol' 
-  authors: ''
+  authors: 'Richard Li (Futurewei Technologies), Kiran Makhijani (Futurewei Technologies), Hamed Yousefi (Futurewei 
+            Technologies), Cedric Westphal (Futurewei Technologies), Lijun Dong (Futurewei Technologies), Tim 
+            Wauters (Ghent University), Filip De Turck (Ghent University),'
   abstract: ''
   bio: ''
   photo: ''
@@ -111,7 +115,11 @@
   time: '11:25am - 11:50am'
   room: ''
   title: 'Efficient Dynamic Isolation of Congestion in Lossless DataCenter Networks'
-  authors: ''
+  authors: 'Luis Gonzalez-Naharro (University of Castilla-La Mancha, Spain), Jesus Escudero-Sahuquillo (University 
+            of Castilla-La Mancha, Spain), Pedro Javier Garcia (University of Castilla-La Mancha, Spain), Francisco J. 
+            Quiles (University of Castilla-La Mancha, Spain), Jose Duato (Technical University of Valencia, Spain), 
+            Wenhao Sun (Huawei Technologies Co., Ltd., China), Li Shen (Huawei Technologies Co., Ltd., China), Xiang 
+            Yu (Huawei Technologies Co., Ltd., China), Hewen Zheng (Huawei Technologies Co., Ltd., China)'
   abstract: ''
   bio: ''
   photo: ''
@@ -134,8 +142,8 @@
 - type: session
   time: '13:30pm - 14:15pm'
   room: ''
-  title: 'Keynote II'
-  authors: 'Prof Mohamed Faten Zhani (ETS)'
+  title: 'Session III: Keynote II'
+  authors: 'Session Chair: Kiran Makhijani'
   abstract: ''
   bio: ''
   photo: ''
@@ -147,7 +155,7 @@
   time: '13:30pm - 13:35pm'
   room: ''
   title: Introduction
-  authors: 'Kiran'
+  authors: 'Kiran Makhijani'
   abstract: ''
   bio: ''
   photo: ''
@@ -158,11 +166,13 @@
 - type: talk
   time: '13:35pm - 14:15pm'
   room: ''
-  title: TBD
-  authors: 'TBD '
-  abstract: ''
-  bio: ''
-  photo: ''
+  title: FlexNGIA – A Fully Flexible Novel Architecture for the Next-Generation Tactile Internet
+  authors: 'Prof. Mohamed Faten Zhani, ÉTS Montreal, Canada '
+  abstract: 'From virtual reality and teleportation, to telepresence, augmented reality, holograms, and remotely controlled robotics, these future network applications promise an unprecedented development for society, economics and culture by revolutionizing the way we live, learn, work and play. Unfortunately, today’s Internet falls short when it comes to providing the stringent performance requirements imposed by such applications. This is due to several fundamental limitations in the design of the current network architecture and communication protocols. As a result, there is a pressing need to rethink the network architecture and protocols, and efficiently harness recent technological advances in terms of virtualization and network softwarization to design the Tactile Internet of the future.
+In this talk, we start by analyzing the characteristics and requirements of future networking applications and highlight the limitations of the current network architecture and protocols. We then draw a rough sketch of FlexNGIA, a Flexible Next-Generation Internet Architecture that is able to satisfy the requirements of future Internet applications and services. We also discuss through some use-cases how FlexNGIA could ensure the service level guarantees required by some of the future network applications.'
+  bio: 'Mohamed Faten Zhani is an associate professor with the department of software and IT engineering at l’École de Technologie Supérieure (ÉTS Montreal) in Canada. His research interests include cloud computing, network function virtualization, software-defined networking and resource management in large-scale distributed systems. Faten has co authored several book chapters and research papers published in renowned conferences and journals including IEEE/IFIP/ACM CNSM, IEEE/IFIP IM/NOMS, IEEE INFOCOM, IEEE transactions on cloud computing and IEEE Journal on Selected Areas in Communications (JSAC).  He served as the general or technical program chair of several international workshops and conferences. He is also co-editor of the IEEE Communications Magazine series on "Telecom Software, Network Virtualization, and Software Defined Networks", associate editor of the IEEE Transactions of Network and Service Management, Wiley international journal of network management, and managing editor of the IEEE softwarization newsletter. He is co founder and vice-chair of the IEEE Network Intelligence Emerging Technology Initiative and a cluster lead at the IEEE P1916.1 SDN/NFV Performance standard group. Faten recently received the IEEE/IFIP IM 2017 Young Researchers and Professionals Award as a recognition for outstanding research contribution and leadership in the field of network and service management. More details are available on his web page: http://etsmtl.ca/Professeurs/mfzhani/Accueil?lang=en-CA.
+'
+  photo: 'images/speakers/Zhi-Li-Zhang.jpg'
   link: ''
   slides: ''
   video: ''
@@ -170,7 +180,7 @@
 - type: session
   time: 14:15pm - 14:20pm
   room: ''
-  title: 'Presentation-II (Topic: Internet Architecture)'
+  title: 'Session IV Presentation-II  (Topic: Internet Architecture)'
   authors: 'Session chair: Dr. Richard Li'
   abstract: ''
   bio: ''
@@ -195,7 +205,8 @@
   time: 14:25pm - 14:40pm
   room: ''
   title: 'KolmoLD: Data Modelling for the Modern Internet'
-  authors: ''
+  authors: ' Dmitry Borzov (Huawei Canada), Tingqiu Yuan (Huawei Technologies), Jian Li (Huawei Technologies), 
+            Mikhail Ignatovich (Huawei Canada)'
   abstract: ''
   bio: ''
   photo: ''
@@ -207,7 +218,10 @@
   time: 14:40pm - 15:05pm
   room: ''
   title: 'Routing and Addressing with Length Variable IP Address'
-  authors: ''
+  authors: 'Shoushou Ren (Huawei Technologies Co., Ltd), Delei Yu (Huawei Technologies Co., Ltd.), 
+            Guangpeng Li (Huawei Technologies Co., Ltd.), Ye Tian (Beijing University of Posts and Telecommunications), 
+            Xiangyang Gong (Beijing University of Posts and Telecommunications), Shihui Hu (Huawei Technologies Co., 
+            Ltd.), Robert Moskowitz (HTT Consulting, LLC)'
   abstract: ''
   bio: ''
   photo: ''
@@ -230,7 +244,7 @@
 - type: session
   time: 15:30pm - 17:00pm
   room: ''
-  title: 'Paper Presentation (III) (Emerging Media applications at the Edge)'
+  title: 'Session V: Paper Presentation (III) (Emerging Media applications at the Edge)'
   authors: 'Prof Stuart Clayman'
   abstract: ''
   bio: ''
@@ -255,7 +269,8 @@
   time: 15:35pm - 16:00pm
   room: ''
   title: 'Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications'
-  authors: ''
+  authors: 'Zhehui Zhang (UCLA), Shu Shi (AT&T Labs Research), Varun Gupta (AT&T Labs Research), 
+            Rittwik Jana (AT&T Labs Research)'
   abstract: ''
   bio: ''
   photo: ''
@@ -267,7 +282,8 @@
   time: 16:00pm - 16:25pm
   room: ''
   title: 'Deep Learning-based Short Video Recommendation and Prefetching for Mobile Commuting Users'
-  authors: ''
+  authors: 'Qian Li (Communication University of China), Yuan Zhang (Communication University of China), 
+            Hong Huang (Huazhong University of Science and Technology), Jinyao Yan (Communication University of China)'
   abstract: ''
   bio: ''
   photo: ''
@@ -279,7 +295,9 @@
   time: 16:25pm - 16:50pm
   room: ''
   title: 'Toward Consistent State Management of Adaptive Programmable Networks Based on P4'
-  authors: ''
+  authors: 'Mu He (Technical University of Munich), Andreas Blenk (Technical University of Munich), Stefan 
+            Schmid (University of Vienna), Wolfgang Kellerer (Technical University of Munich)
+'
   abstract: ''
   bio: ''
   photo: ''
@@ -290,7 +308,7 @@
 - type: session
   time: 16:50pm - 17:30pm
   room: ''
-  title: 'Panel discussion in NEAT'
+  title: 'Session VI: Panel discussion in NEAT'
   authors: 'Moderator: Prof KK Ramakrishnan (UCR, USA)'
   abstract: 'Panelists:	Richard Li (ITU FG-NET-2030, Chair), Bo Lei (China Telecom), Prof Faten Zhani (ETS Montreal), Prof Stuart Clayman (UCL, UK), Prof Zhi-Li Zhang (UMN, US, if confirmed)'
   bio: ''
