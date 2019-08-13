@@ -26,7 +26,7 @@
 - type: session 
   time: 09:15am - 10:00am
   room: ''
-  title: Session I Keynote I 
+  title: 'Session 1: Keynote I' 
   authors: 'Session Chair: Prof K.K. Ramakrishnan'
   abstract: ''
   bio: ''
@@ -62,7 +62,7 @@
 - type: session
   time: '10:30am - 12:00am'
   room: ''
-  title: 'Session II   Paper Presentation-I (Topic: Emerging Network Services)'
+  title: 'Session 2: Paper Presentation-I (Topic: Emerging Network Services)'
   authors: 'Session Chair: Stuart Clayman'
   abstract: ''
   bio: ''
@@ -87,9 +87,7 @@
   time: '10:35am - 11:00am'
   room: ''
   title: 'Dynamically Optimizing End-to-End Latency for Time-Triggered Networks'
-  authors: 'Zonghui Li (Software School, Tsinghua University), Hai Wan (Software School,Tsinghua University), 
-            Boxu Zhao (Software School, Tsinghua University, Yangdong Deng (Software School, Tsinghua University, 
-            Ming Gu (Software School, Tsinghua University)'
+  authors: 'Zonghui Li (Software School, Tsinghua University), Hai Wan (Software School,Tsinghua University), Boxu Zhao (Software School, Tsinghua University, Yangdong Deng (Software School, Tsinghua University, Ming Gu (Software School, Tsinghua University)'
   abstract: ''
   bio: ''
   photo: ''
@@ -101,9 +99,7 @@
   time: '11:00am - 11:25am'
   room: ''
   title: 'A Framework for Qualitative Communications using Big Packet Protocol' 
-  authors: 'Richard Li (Futurewei Technologies), Kiran Makhijani (Futurewei Technologies), Hamed Yousefi (Futurewei 
-            Technologies), Cedric Westphal (Futurewei Technologies), Lijun Dong (Futurewei Technologies), Tim 
-            Wauters (Ghent University), Filip De Turck (Ghent University),'
+  authors: 'Richard Li (Futurewei Technologies), Kiran Makhijani (Futurewei Technologies), Hamed Yousefi (Futurewei Technologies), Cedric Westphal (Futurewei Technologies), Lijun Dong (Futurewei Technologies), Tim Wauters (Ghent University), Filip De Turck (Ghent University),'
   abstract: ''
   bio: ''
   photo: ''
@@ -115,11 +111,7 @@
   time: '11:25am - 11:50am'
   room: ''
   title: 'Efficient Dynamic Isolation of Congestion in Lossless DataCenter Networks'
-  authors: 'Luis Gonzalez-Naharro (University of Castilla-La Mancha, Spain), Jesus Escudero-Sahuquillo (University 
-            of Castilla-La Mancha, Spain), Pedro Javier Garcia (University of Castilla-La Mancha, Spain), Francisco J. 
-            Quiles (University of Castilla-La Mancha, Spain), Jose Duato (Technical University of Valencia, Spain), 
-            Wenhao Sun (Huawei Technologies Co., Ltd., China), Li Shen (Huawei Technologies Co., Ltd., China), Xiang 
-            Yu (Huawei Technologies Co., Ltd., China), Hewen Zheng (Huawei Technologies Co., Ltd., China)'
+  authors: 'Luis Gonzalez-Naharro (University of Castilla-La Mancha, Spain), Jesus Escudero-Sahuquillo (University of Castilla-La Mancha, Spain), Pedro Javier Garcia (University of Castilla-La Mancha, Spain), Francisco J. Quiles (University of Castilla-La Mancha, Spain), Jose Duato (Technical University of Valencia, Spain), Wenhao Sun (Huawei Technologies Co., Ltd., China), Li Shen (Huawei Technologies Co., Ltd., China), Xiang Yu (Huawei Technologies Co., Ltd., China), Hewen Zheng (Huawei Technologies Co., Ltd., China)'
   abstract: ''
   bio: ''
   photo: ''
@@ -142,7 +134,7 @@
 - type: session
   time: '13:30pm - 14:15pm'
   room: ''
-  title: 'Session III: Keynote II'
+  title: 'Session 3: Keynote II'
   authors: 'Session Chair: Kiran Makhijani'
   abstract: ''
   bio: ''
@@ -180,7 +172,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
 - type: session
   time: 14:15pm - 14:20pm
   room: ''
-  title: 'Session IV Presentation-II  (Topic: Internet Architecture)'
+  title: 'Session 4: Presentation-II  (Topic: Internet Architecture)'
   authors: 'Session chair: Dr. Richard Li'
   abstract: ''
   bio: ''
@@ -218,10 +210,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   time: 14:40pm - 15:05pm
   room: ''
   title: 'Routing and Addressing with Length Variable IP Address'
-  authors: 'Shoushou Ren (Huawei Technologies Co., Ltd), Delei Yu (Huawei Technologies Co., Ltd.), 
-            Guangpeng Li (Huawei Technologies Co., Ltd.), Ye Tian (Beijing University of Posts and Telecommunications), 
-            Xiangyang Gong (Beijing University of Posts and Telecommunications), Shihui Hu (Huawei Technologies Co., 
-            Ltd.), Robert Moskowitz (HTT Consulting, LLC)'
+  authors: 'Shoushou Ren (Huawei Technologies Co., Ltd), Delei Yu (Huawei Technologies Co., Ltd.), Guangpeng Li (Huawei Technologies Co., Ltd.), Ye Tian (Beijing University of Posts and Telecommunications), Xiangyang Gong (Beijing University of Posts and Telecommunications), Shihui Hu (Huawei Technologies Co., Ltd.), Robert Moskowitz (HTT Consulting, LLC)'
   abstract: ''
   bio: ''
   photo: ''
@@ -244,8 +233,8 @@ In this talk, we start by analyzing the characteristics and requirements of futu
 - type: session
   time: 15:30pm - 17:00pm
   room: ''
-  title: 'Session V: Paper Presentation (III) (Emerging Media applications at the Edge)'
-  authors: 'Prof Stuart Clayman'
+  title: 'Session 5: Paper Presentation (III) (Emerging Media applications at the Edge)'
+  authors: 'Session chair: Prof Stuart Clayman'
   abstract: ''
   bio: ''
   photo: ''
@@ -269,8 +258,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   time: 15:35pm - 16:00pm
   room: ''
   title: 'Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications'
-  authors: 'Zhehui Zhang (UCLA), Shu Shi (AT&T Labs Research), Varun Gupta (AT&T Labs Research), 
-            Rittwik Jana (AT&T Labs Research)'
+  authors: 'Zhehui Zhang (UCLA), Shu Shi (AT&T Labs Research), Varun Gupta (AT&T Labs Research), Rittwik Jana (AT&T Labs Research)'
   abstract: ''
   bio: ''
   photo: ''
@@ -282,8 +270,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   time: 16:00pm - 16:25pm
   room: ''
   title: 'Deep Learning-based Short Video Recommendation and Prefetching for Mobile Commuting Users'
-  authors: 'Qian Li (Communication University of China), Yuan Zhang (Communication University of China), 
-            Hong Huang (Huazhong University of Science and Technology), Jinyao Yan (Communication University of China)'
+  authors: 'Qian Li (Communication University of China), Yuan Zhang (Communication University of China), Hong Huang (Huazhong University of Science and Technology), Jinyao Yan (Communication University of China)'
   abstract: ''
   bio: ''
   photo: ''
@@ -308,7 +295,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
 - type: session
   time: 16:50pm - 17:30pm
   room: ''
-  title: 'Session VI: Panel discussion in NEAT'
+  title: 'Session 6: Panel discussion in NEAT'
   authors: 'Moderator: Prof KK Ramakrishnan (UCR, USA)'
   abstract: 'Panelists:	Richard Li (ITU FG-NET-2030, Chair), Bo Lei (China Telecom), Prof Faten Zhani (ETS Montreal), Prof Stuart Clayman (UCL, UK), Prof Zhi-Li Zhang (UMN, US, if confirmed)'
   bio: ''
