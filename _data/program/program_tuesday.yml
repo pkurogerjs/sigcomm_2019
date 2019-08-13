@@ -50,7 +50,7 @@
   time: 8:30 am - 9:30 am
   room: ''
   title: Welcome Remarks and Awards
-  authors: <strong>Speakers&#58;</strong> Jianping Wu (Tsinghua University, China), Wendy Hall (University of Southampton, UK), Xia Yin (Tsinghua University, China), Katerina Argyraki (EPFL, Switzerland), John Heidemann (USC/ISI, USA), Dina Papagiannaki (Google, USA), and Roch Guerin (WashU, USA)
+  authors: <strong>Speakers&#58;</strong> Jianping Wu (Tsinghua University, China), Wendy Hall (University of Southampton, UK), Xia Yin (Tsinghua University, China), Katerina Argyraki (EPFL, Switzerland), John Heidemann (USC/ISI, USA) and Roch Guerin (WashU, USA)
   abstract: ''
   bio: ''
   photo: ''
@@ -276,7 +276,7 @@
   COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
-  room: Hotel Nikko New Century Beijing
+  room: 'Hotel Nikko New Century Beijing<br/><strong>Notice: </strong>Shuttle buses depart from Shangri-La Hotel Lobby during 5:30 pm – 6:30 pm'
   title: <a href="#" style="color:#9a0000;">Student Dinner</a> (by invitation only)
   authors: ''
   abstract: ''

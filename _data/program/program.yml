@@ -315,7 +315,7 @@
   time: 8:30 am - 9:30 am
   room: ''
   title: Welcome Remarks and Awards
-  authors: <strong>Speakers&#58;</strong> Jianping Wu (Tsinghua University, China), Wendy Hall (University of Southampton, UK), Xia Yin (Tsinghua University, China), Katerina Argyraki (EPFL, Switzerland), John Heidemann (USC/ISI, USA), Dina Papagiannaki (Google, USA), and Roch Guerin (WashU, USA)
+  authors: <strong>Speakers&#58;</strong> Jianping Wu (Tsinghua University, China), Wendy Hall (University of Southampton, UK), Xia Yin (Tsinghua University, China), Katerina Argyraki (EPFL, Switzerland), John Heidemann (USC/ISI, USA) and Roch Guerin (WashU, USA)
   abstract: ''
   bio: ''
   photo: ''
@@ -541,7 +541,7 @@
   COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
-  room: Hotel Nikko New Century Beijing
+  room: 'Hotel Nikko New Century Beijing<br/><strong>Notice: </strong>Shuttle buses depart from Shangri-La Hotel Lobby during 5:30 pm – 6:30 pm'
   title: <a href="#" style="color:#9a0000;">Student Dinner</a> (by invitation only)
   authors: ''
   abstract: ''
@@ -587,7 +587,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: keynote
+- type: topic-preview
   time: 9:00 am - 10:15 am
   room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: 50th-anniversary Panel
@@ -769,7 +769,7 @@
   COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
-  room: Royal Cuisine Museum
+  room: 'Royal Cuisine Museum<br/><strong>Notice: </strong>Shuttle buses depart from Shangri-La Hotel Lobby during 5:30 pm – 6:30 pm'
   title: <a href="banquet.html" style="color:#9a0000;">Banquet</a>
   authors: ''
   abstract: ''
@@ -1166,7 +1166,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netaim.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -1214,7 +1214,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Lotus Room, 2<sup>nd</sup> floor) and <a href="workshop-netaim.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -1262,7 +1262,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Ballroom II, 1<sup>st</sup> floor) and <a href="workshop-netaim.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''
@@ -1310,7 +1310,7 @@
 - type: workshop
   time: ''
   room: ''
-  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Ballroom, 1<sup>st</sup> floor) and <a href="workshop-netpl.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
+  title: Workshops&#58; <a href="workshop-netpl.html">NetPL</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor) and <a href="workshop-netaim.html">NetAI</a> (Garden Wing Ballroom III, 1<sup>st</sup> floor)
   authors: ''
   abstract: ''
   bio: ''

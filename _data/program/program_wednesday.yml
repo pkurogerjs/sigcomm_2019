@@ -34,7 +34,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: keynote
+- type: topic-preview
   time: 9:00 am - 10:15 am
   room: Valley Wing Ballroom, 2<sup>nd</sup> floor
   title: 50th-anniversary Panel
@@ -216,7 +216,7 @@
   COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
-  room: Royal Cuisine Museum
+  room: 'Royal Cuisine Museum<br/><strong>Notice: </strong>Shuttle buses depart from Shangri-La Hotel Lobby during 5:30 pm – 6:30 pm'
   title: <a href="banquet.html" style="color:#9a0000;">Banquet</a>
   authors: ''
   abstract: ''
