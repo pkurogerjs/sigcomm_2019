@@ -2,8 +2,92 @@
 - type: paper
   time: ''
   room: ''
-  title: ''
-  authors: ''
+  title: Cooperative Trajectory Optimization for a Cellular Internet of UAVs
+  authors: Jiadi Yang, Shuhang Zhang, Hongliang Zhang and Lingyang Song (Peking University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: CellScope&#58; Automatically Specifying and Verifying Cellular Network Protocols
+  authors: Yinbo Yu (Wuhan University), You Li, Kaiyu Hou, Yan Chen, Hai Zhou (Northwestern University) and Jianfeng Yang (Wuhan University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Tyrus&#58; PHY-Assisted Neural Adaptive Congestion Control for Cellular Networks
+  authors: Libin Liu and Hong Xu (City University of Hong Kong)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Bridging the Data Charging Gap in the Cellular Edge
+  authors: Yuanjie Li, Kyu-Han Kim, Christina Vlachou and Junqing Xie (Hewlett Packard Labs)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Enabling Rapid Edge System Deployment with TinyEdge
+  authors: Wenzhao Zhang, Hongchang Fan, Yuxuan Zhang, Yi Gao and Wei Dong (Zhejiang University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Fast-EPC&#58; A Low Latency Cellular Control Plane
+  authors: Mukhtiar Ahmad, Wasiq Noor Ahmad Qasmi, Syed Usman Jafri, Ridah Naseem, Muhammad Ali Nawazish, Muhammed Azam Ikram, Zartash Uzmi and Zafar Ayyub Qazi (LUMS)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: Adaptive Fuzzy Game-based Energy Efficient Localization in Underwater Sensor Networks
+  authors: Yali Yuan (Goettingen University), Chencheng Liang (Uppsala University), Megumi Kaneko (National Institute of Informatics (NII), Japan), Lingjun Pu (Nankai University) and Xiaoming Fu (Institutfür Informatik, Georg-August-Universität Göttingen, Göttingen, Germany)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: paper
+  time: ''
+  room: ''
+  title: SwimTrack&#58; Drowning Alarm System using RFIDs
+  authors: Farzan Dehbashi (University of Waterloo), Nauman Ahmed (Student), Manav Mehra, Ju Wang and Omid Abari (University of Waterloo)
   abstract: ''
   bio: ''
   photo: ''
