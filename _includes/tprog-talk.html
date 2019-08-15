@@ -1,7 +1,7 @@
 {% if (keynote.abstract == nil or keynote.abstract == "") and (keynote.bio == nil or keynote.bio == "") %}
   {% assign paper = keynote %}
   {% assign paper.title = "Keynote: " | append: keynote.title %}
-  {% include tprog-item.html %}
+  {% include tprog-item2.html %}
 {% else %}
   {% if keynote.bio    and keynote.bio    != "" %}{% assign has_bio    = true %}{% else %}{% assign has_bio   = nil %}{% endif %}
   {% if keynote.abstract and keynote.abstract != "" %}{% assign has_abstract = true %}{% else %}{% assign has_abstract = nil %}{% endif %}

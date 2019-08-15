@@ -42,7 +42,7 @@
   authors: 'Prof, Zhi-Li Zhang, University of Minnesota, USA'
   abstract: 'Classical IP-based Internet provides only a best-effort service where a network can delay or drop packets with no deterministic performance guarantees. The ascent and dominance of servers virtualization and cloud computing has fundamentally changed the way how we develop large-scale applications and services, giving rise to "application frameworks" that are developed to facilitate and support various classes of application development in cloud environments. In this talk, we will use some examples to motivate and illustrate the new challenges posed by these application frameworks as well as emerging applications such as ML/AI, AR/VR and IoT services. We argue that better network support is needed for co-design of application frameworks, emerging applications and network services.'
   bio: "Zhi-Li Zhang received Ph.D. degrees  in computer science from the University of Massachusetts.  He joined the faculty of the Department of Computer Science and Engineering at the University of Minnesota in 1997, where  he is currently the McKnight Distinguished University Professor and  Qwest Chair Professor in Telecommunications. He currently also serves as the Associate Director for Research at the Digital Technology Center, University of Minnesota. Prof. Zhang's research interests lie broadly in computer and communication networks, Internet technology, multimedia systems and content distribution networks, cyber-physical systems and Internet-of-Things, and (applied) machine learning and data mining. Prof. Zhang has published more than 100 journal and conference/workshop papers, many of them in top venues in networking and related fields. He is co-recipient of several Best Papers awards including IEEE INFOCOM10, ICNP03, ACM SIGMETRICS96 and RAID13 conferences as well as ACM SIGCOMM APNet’18 and NetAI’19 workshops.  Prof. Zhang has chaired several major conferences in networking including IEEE INFOCOM, ACM SIGMETRICS, IEEE ICNP, IFIP Networking and ACM Internet Measurement Conference (IMC), and served on the Editorial Board of several journals such as IEEE/ACM Transactions on Networking, ACM TOMPECS, and PACM MACS. He is a Fellow of IEEE. "
-  photo: 'images/speakers/Faten-Zhani.png'
+  photo: 'images/speakers/Zhi-Li-Zhang.jpg'
   link: ''
   slides: ''
   video: ''
@@ -164,7 +164,7 @@
 In this talk, we start by analyzing the characteristics and requirements of future networking applications and highlight the limitations of the current network architecture and protocols. We then draw a rough sketch of FlexNGIA, a Flexible Next-Generation Internet Architecture that is able to satisfy the requirements of future Internet applications and services. We also discuss through some use-cases how FlexNGIA could ensure the service level guarantees required by some of the future network applications.'
   bio: 'Mohamed Faten Zhani is an associate professor with the department of software and IT engineering at l’École de Technologie Supérieure (ÉTS Montreal) in Canada. His research interests include cloud computing, network function virtualization, software-defined networking and resource management in large-scale distributed systems. Faten has co authored several book chapters and research papers published in renowned conferences and journals including IEEE/IFIP/ACM CNSM, IEEE/IFIP IM/NOMS, IEEE INFOCOM, IEEE transactions on cloud computing and IEEE Journal on Selected Areas in Communications (JSAC).  He served as the general or technical program chair of several international workshops and conferences. He is also co-editor of the IEEE Communications Magazine series on "Telecom Software, Network Virtualization, and Software Defined Networks", associate editor of the IEEE Transactions of Network and Service Management, Wiley international journal of network management, and managing editor of the IEEE softwarization newsletter. He is co founder and vice-chair of the IEEE Network Intelligence Emerging Technology Initiative and a cluster lead at the IEEE P1916.1 SDN/NFV Performance standard group. Faten recently received the IEEE/IFIP IM 2017 Young Researchers and Professionals Award as a recognition for outstanding research contribution and leadership in the field of network and service management. More details are available on his web page: http://etsmtl.ca/Professeurs/mfzhani/Accueil?lang=en-CA.
 '
-  photo: 'images/speakers/Zhi-Li-Zhang.jpg'
+  photo: 'images/speakers/Faten-Zhani.png'
   link: ''
   slides: ''
   video: ''
@@ -308,7 +308,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   time: 
   room: ''
   title: 'Enabling Holographic media for Future Applications: Identifying the missing pieces and limitations in Networks'
-  authors: 'Panelists: Richard Li (ITU FG-NET-2030, Chair), Bo Lei (China Telecom), Prof Faten Zhani (ETS Montreal), Prof Stuart Clayman (UCL, UK), Prof Zhi-Li Zhang (UMN, US, if confirmed)'
+  authors: 'Panelists: Richard Li (ITU FG-NET-2030, Chair), Dr. Chongfeng Xie (China Telecom), Prof Faten Zhani (ETS Montreal), Prof Stuart Clayman (UCL, UK), Prof Zhi-Li Zhang (UMN, US)'
   abstract: ''
   bio: ''
   photo: ''
