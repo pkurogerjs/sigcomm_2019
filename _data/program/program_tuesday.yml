@@ -105,7 +105,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680147'
 - type: talk
   time: ''
   room: ''
@@ -117,7 +117,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680148'
 - type: talk
   time: ''
   room: ''
@@ -129,7 +129,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680149'
 - type: break
   time: 12:00 pm - 1:30 pm
   room: Garden Wing Ballroom, 1<sup>st</sup> floor and Valley Wing Jade Room, 3<sup>rd</sup> floor
@@ -165,7 +165,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680140'
 - type: talk
   time: ''
   room: ''
@@ -177,7 +177,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680141'
 - type: talk
   time: ''
   room: ''
@@ -189,7 +189,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680142'
 - type: talk
   time: ''
   room: ''
@@ -201,7 +201,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680143'
 - type: break
   time: 3:10 pm - 3:40 pm
   room: ''
@@ -237,7 +237,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680144'
 - type: talk
   time: ''
   room: ''
@@ -249,7 +249,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680255'
 - type: talk
   time: ''
   room: ''
@@ -261,7 +261,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680256'
 - type: talk
   time: ''
   room: ''
@@ -273,7 +273,7 @@
   link: ''
   slides: ''
   video: ''
-  COL_UID: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680257'
 - type: bestccr
   time: 6:30 pm - 9:00 pm
   room: 'Hotel Nikko New Century Beijing<br/><strong>Notice: </strong>Shuttle buses depart from Shangri-La Hotel Lobby during 5:30 pm – 6:30 pm'
