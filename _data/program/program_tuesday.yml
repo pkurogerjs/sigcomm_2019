@@ -84,7 +84,7 @@
   COL_UID: ''
 - type: session
   time: 10:45 am - 12:00 pm
-  room: Valley Wing Ballroom, 2<sup>nd</sup> floor, Shangri-La Hotel<br/><strong>Session Chair&#58;</strong> Wei Bai (Microsoft Research)
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor, Shangri-La Hotel<br/><strong>Session Chair&#58;</strong> Katerina Argyraki
   title: Technical Session 1&#58; New Ways to Operate Networks
   authors: ''
   abstract: ''
@@ -144,7 +144,7 @@
   COL_UID: ''
 - type: session
   time: 1:30 pm - 3:10 pm
-  room: Valley Wing Ballroom, 2<sup>nd</sup> floor, Shangri-La Hotel<br/><strong>Session Chair&#58;</strong> Minlan Yu (Harvard University)
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor, Shangri-La Hotel<br/><strong>Session Chair&#58;</strong> Manya Ghobadi
   title: Technical Session 2&#58; Transport and Congestion
   authors: ''
   abstract: ''
@@ -216,7 +216,7 @@
   COL_UID: ''
 - type: session
   time: 3:40 pm - 5:20 pm
-  room: Valley Wing Ballroom, 2<sup>nd</sup> floor, Shangri-La Hotel<br/><strong>Session Chair&#58;</strong> Steve Uhlig (Queen Mary University London) 
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor, Shangri-La Hotel<br/><strong>Session Chair&#58;</strong> Phillipa Gill 
   title: Technical Session 3&#58; Measurement
   authors: ''
   abstract: ''

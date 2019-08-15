@@ -60,7 +60,7 @@
   COL_UID: ''
 - type: session
   time: 10:45 am - 12:00 pm
-  room: Valley Wing Ballroom, 2<sup>nd</sup> floor<br/><strong>Session Chair&#58;</strong> Jiliang Wang (Tsinghua University)
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor<br/><strong>Session Chair&#58;</strong> Ben Zhao
   title: Technical Session 4&#58; Building on New Physical Layers
   authors: ''
   abstract: ''
@@ -130,9 +130,69 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 6&#58; New Ways to Solve Old Problems
+  authors: Chen Tian (Nanjing University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 7&#58; Applications
+  authors: Muhammad Shahbaz (Stanford University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 8&#58; NICs and Switches
+  authors: Gianni Antichi (Cambridge University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 9&#58; Video
+  authors: Wenwu Zhu (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 10&#58; New Control Plane Operations
+  authors: Chen Avin (Ben Gurion University of the Negev)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
 - type: session
   time: 1:30 pm - 2:45 pm
-  room: Valley Wing Ballroom, 2<sup>nd</sup> floor<br/><strong>Session Chair&#58;</strong> Ennan Zhai (Alibaba Group)
+  room: Valley Wing Ballroom, 2<sup>nd</sup> floor<br/><strong>Session Chair&#58;</strong> Alex Snoeren
   title: Technical Session 5&#58; Formal Network Analysis
   authors: ''
   abstract: ''

@@ -226,6 +226,66 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 1&#58; New Ways to Operate Networks
+  authors: Wei Bai (Microsoft Research)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 2&#58; Transport and Congestion
+  authors: Minlan Yu (Harvard University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 3&#58; Measurement
+  authors: Steve Uhlig (Queen Mary University London)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 4&#58; Building on New Physical Layers
+  authors: Jiliang Wang (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: Technical Session 5&#58; Formal Network Analysis
+  authors: Ennan Zhai (Alibaba Group)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
 - type: bestccr
   time: 6:30 pm - 9:00 pm
   room: Valley Wing Ballroom, 2<sup>nd</sup>, Shangri-La Hotel
