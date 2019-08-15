@@ -158,6 +158,8 @@ committees:
 
 # {{page.title}}
 
+### <a href="https://dl.acm.org/citation.cfm?id=3342280" target="_blank" style="color:#9a0000;text-decoration:none;font-weight:normal;"><i class="fa fa-link"></i> Click here to access the proceedings of posters and demos</a>
+
 ## Posters
 
 ### Microservices, Serverless Computing and IoT

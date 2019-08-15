@@ -91,6 +91,9 @@ committees:
 # {{ page.title }}
 
 ### Workshop Program
+
+### <a href="https://dl.acm.org/citation.cfm?id=3341216" target="_blank" style="color:#9a0000;text-decoration:none;font-weight:normal;"><i class="fa fa-link"></i> Click here to access the proceedings</a>
+
 {% include program-online.html type="netai" %}
 
 
