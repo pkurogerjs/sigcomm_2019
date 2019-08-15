@@ -23,6 +23,9 @@ Exhibitor registrations do not  provide access to technical sessions, welcome re
 **All refund requests must be made in writing and received no later than Monday, August 4, 2019.** There is a $75 processing fee subtracted from the refund. **No refunds will be processed for those cancelling after August 4, 2019.**
 
 **The deadline of early registration is July 12th, 11:59pm GMT.**<br>
+
+<font color="red"><b>We are very sorry that owing to excessive number of registrants, registration links have been closed and on-site registrations are not available.</b></font>
+
 <h3 style="text-align:center;">SIGCOMM 2019 Conference Fees (All fees are in US Dollars)</h3>
 <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
 

@@ -12,10 +12,10 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: 12:05pm - 12:30pm 
+  time: 13:30pm - 13:45pm 
   room: ''
   title: 'Workshop Opening - Background and Overview'
-  authors: ''
+  authors: 'Paolo Costa (Microsoft Research) '
   abstract: ''
   bio: ''
   photo: ''
@@ -24,10 +24,10 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: 12:30pm - 2:00pm
+  time: 13:45pm - 15:00pm
   room: ''
   title: Session 1
-  authors: 'Session chair: Paolo Costa (Microsoft Research)'
+  authors: 'Session chair: Chen Avin (BGU)'
   abstract: ''
   bio: ''
   photo: ''
@@ -71,20 +71,8 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk
-  time: ''
-  room: ''
-  title: Adapting TCP for Reconfigurable Datacenter Networks (15min)
-  authors: Matthew Mukerjee, Christopher Canel, Daehyeok Kim, Srinivasan Seshan (Carnegie Mellon University)
-  abstract: ''
-  bio: ''
-  photo: ''
-  link: ''
-  slides: ''
-  video: ''
-  COL_UID: ''
 - type: break
-  time: 2:00pm - 2:30pm
+  time: 15:00pm - 15:30pm
   room: ''
   title: Coffee & pastries break
   authors: ''
@@ -96,10 +84,10 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: 2:30am - 3:45pm
+  time: 15:30am - 17:15pm
   room: ''
   title: Session 2
-  authors: 'Session chair:  Stefan Schmid (University of Vienna)'
+  authors: 'Session chair: Stefan Schmid (University of Vienna)'
   abstract: ''
   bio: ''
   photo: ''
@@ -134,6 +122,18 @@
 - type: talk
   time: ''
   room: ''
+  title: 'Adapting TCP for Reconfigurable Datacenter Networks (15min)'
+  authors: 'Matthew Mukerjee, Christopher Canel, Daehyeok Kim, Srinivasan Seshan (Carnegie Mellon University)'
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
   title: 'COSMOS: Optical Architecture and Prototyping (15min)'
   authors: ' Craig Gutterman (Columbia University), Artur Minakhmetov (Telecom Paris), Michael Sherman (WINLAB, Rutgers University), Jiakai Yu (University of Arizona), Tingjun Chen (Columbia University), Shengxiang Zhu (University of Arizona), Gil Zussman (Columbia University), Ivan Seskar (WINLAB, Rutgers University), Dipankar Raychaudhuri (WINLAB), Rutgers University), Dan Kilper (University of Arizona)'
   abstract: ''
@@ -143,8 +143,20 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: 'O-Net An "Open" Optical Networking Framework (15min)'
+  authors: 'Alex Forencich, George C. Papen (UC San Diego)'
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
 - type: break
-  time: 3:45pm - 4:00pm Coffee Break
+  time: 17:15pm - 17:25pm Short Break
   room: ''
   title: '' 
   authors: ''
@@ -156,10 +168,10 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: '4:00pm - 4:45pm'
+  time: '17:25pm - 18:30pm'
   room: ''
   title: Session 3
-  authors: 'Session chair: Chen Avin (BGU)'
+  authors: 'Session chair: Manya Ghobadi (MIT)'
   abstract: ''
   bio: ''
   photo: ''
@@ -179,23 +191,11 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk
-  time: ''
-  room: ''
-  title: O-Net An "Open" Optical Networking Framework (15min)
-  authors: Alex Forencich, George C. Papen (UC San Diego)
-  abstract: ''
-  bio: ''
-  photo: ''
-  link: ''
-  slides: ''
-  video: ''
-  COL_UID: ''
 - type: session
-  time: 4:45pm - 5:30pm
+  time: 18:30pm - 19:00pm
   room: ''
-  title: Panel session
-  authors: 'Session chair: Manya Ghobadi (MIT)'
+  title: Panel session (Invited Speakers) + Closing remarks
+  authors: ''
   abstract: ''
   bio: ''
   photo: ''
