@@ -11,9 +11,53 @@
   {% if keynote.COL_UID and keynote.COL_UID  != "" %}{% assign has_COL_UID  = true %}{% else %}{% assign has_COL_UID  = nil %}{% endif %}
 
   {% comment %}<!-- make space for the button(s) -->{% endcomment %}
-  {% if has_link or  has_slides %}{% assign item_style = 'style="width: 85%"' %}{% endif %}{%
-                                                                                           if has_link and has_slides %}{% assign item_style = 'style="width: 78%"' %}{% endif %}{%
-                                                                                                                                                                                 if has_link and has_slides and has_video %}{% assign item_style = 'style="width: 70%"' %}{% endif %}
+  {% if has_link or  has_slides or has_COL_UID%}
+    {% assign item_style = 'style="width: 85%"' %}
+  {% endif %}
+
+  {% if has_link and has_video %}
+    {% assign item_style = 'style="width: 78%"' %}
+  {% endif %}
+
+  {% if has_link and has_slides %}
+    {% assign item_style = 'style="width: 78%"' %}
+  {% endif %}
+
+  {% if has_link and has_COL_UID %}
+    {% assign item_style = 'style="width: 78%"' %}
+  {% endif %}
+
+  {% if has_slides and has_video %}
+    {% assign item_style = 'style="width: 78%"' %}
+  {% endif %}
+
+  {% if has_slides and has_COL_UID %}
+    {% assign item_style = 'style="width: 78%"' %}
+  {% endif %}
+
+  {% if has_video and has_COL_UID %}
+    {% assign item_style = 'style="width: 78%"' %}
+  {% endif %}
+
+  {% if has_link and has_slides and has_video %}
+    {% assign item_style = 'style="width: 70%"' %}
+  {% endif %}
+
+  {% if has_link and has_slides and has_COL_UID %}
+    {% assign item_style = 'style="width: 70%"' %}
+  {% endif %}
+
+  {% if has_link and has_COL_UID and has_video %}
+    {% assign item_style = 'style="width: 70%"' %}
+  {% endif %}
+
+  {% if has_COL_UID and has_slides and has_video %}
+    {% assign item_style = 'style="width: 70%"' %}
+  {% endif %}
+
+  {% if has_link and has_slides and has_video and has_COL_UID %}
+    {% assign item_style = 'style="width: 63%"' %}
+  {% endif %}
 
   <li data-icon="false" class="prog-item {{ progitemclass }}">
     <div data-role="collapsible" class="paper-navgroup" data-collapsed="true" data-iconpos="right" data-collapsed-icon="carat-d" data-expanded-icon="carat-u">
@@ -29,7 +73,7 @@
         <div class="ui-li-aside">
           {% if has_COL_UID %}
           <div class="button-paper">
-              <a href="{{ keynote.COL_UID }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-text" aria-hidden="true"></i></a>
+              <a href="{{ keynote.COL_UID }}" onclick="window.location='{{ keynote.COL_UID }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-text" aria-hidden="true"></i></a>
             </div>
           {% endif %}
           {% if has_slides %}
