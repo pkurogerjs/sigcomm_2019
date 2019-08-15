@@ -8,6 +8,7 @@
   {% if keynote.link   and keynote.link   != "" %}{% assign has_link   = true %}{% else %}{% assign has_link   = nil %}{% endif %}
   {% if keynote.slides and keynote.slides != "" %}{% assign has_slides = true %}{% else %}{% assign has_slides = nil %}{% endif %}
   {% if keynote.video and keynote.video  != "" %}{% assign has_video  = true %}{% else %}{% assign has_video  = nil %}{% endif %}
+  {% if keynote.COL_UID and keynote.COL_UID  != "" %}{% assign has_COL_UID  = true %}{% else %}{% assign has_COL_UID  = nil %}{% endif %}
 
   {% comment %}<!-- make space for the button(s) -->{% endcomment %}
   {% if has_link or  has_slides %}{% assign item_style = 'style="width: 85%"' %}{% endif %}{%
@@ -26,6 +27,11 @@
           <p>{{ keynote.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}</p>
         </div>
         <div class="ui-li-aside">
+          {% if has_COL_UID %}
+          <div class="button-paper">
+              <a href="{{ keynote.COL_UID }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-text" aria-hidden="true"></i></a>
+            </div>
+          {% endif %}
           {% if has_slides %}
             <div class="button-paper">
               <a href="{{ keynote.slides }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i></a>
