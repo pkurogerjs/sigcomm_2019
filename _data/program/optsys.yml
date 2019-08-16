@@ -112,7 +112,7 @@
   room: ''
   title: 'Optical switching in data centers: Opportunities and Challenges (30min)'
   authors: 'Hitesh Ballani (Microsoft research)'
-  abstract: ''
+  abstract: 'Most infrastructure technologies underlying today’s data centers were designed in the pre-cloud era. They thus represent compromises, encumbered by legacy thinking. We are exploring optical technologies for next-generation cloud infrastructure across three primary resources, networking, storage, and compute. In this talk, I will outline challenges for future data centers, the importance of cross-layer approaches to solutions, and present our work on optical networking and storage.'
   bio: ''  
   photo: ''
   link: ''
