@@ -9,15 +9,52 @@ group: Social events
 
 ## {{ page.title }}
 
-### Laoshe Teahouse (Student dinner)
+### Hotel Nikko New Century Beijing (Student Dinner)
 
-Laoshe Teahouse in Beijing was founded in 1988 with more than 5000 square meters business area. Its predecessor can be traced back to the Dawancha in Qianmen in 1979. Laoshe Teahouse is located in the southwest of Tian&apos;anmen Square. It has unique geographical location and profound cultural heritage.
+The SIGCOMM 2019 Student Dinner will be in Hotel Nikko New Century Beijing from 6:30 pm to 9:00 pm on Tuesday, August 20, 2019.
 
-Laoshe Teahouse takes &quot;revitalizing the tea culture of ancient China and fostering national art&quot; as its business purpose. It collects Beijing-style tea culture, opera culture, catering culture.
-
-Since its opening, Laoshe Teahouse has received more than 170 foreign leaders from 80 countries, including former US President Bush, former Secretary of State Kissinger, former Russian Prime Minister Primakov, and former German Prime Minister Kohl. It has a large number of social celebrities and more than 6 million Chinese and foreign tourists. It has 11 chain stores throughout the country. It is known as a &quot;window&quot; for displaying exquisite national culture and connecting Chinese and foreign people. &quot;Bridge&quot; of friendship between the people; has the reputation of &quot;Beijing City Business Card&quot; and &quot;Beijing-flavor Humanistic Landmark&quot;; has been awarded the National Cultural Industry Demonstration Base, National AAA Tourism Scenic Spot.
+Address: No.6 Shouti South Road Haidian District, Beijing, 100044, China.
 
 <div class="imagetext">
     <img src="{{ site.baseurl }}/images/local_info/banquet_2_1.png" style="width:48%;" alt="Getting Here 1" />
    <img src="{{ site.baseurl }}/images/local_info/banquet_2_2.png" style="width:48%;"  alt="Getting Here 2" />
+</div>
+
+### Getting There
+
+The shuttle buses will be arranged from Beijing Shangri-La Hotel to Hotel Nikko New Century Beijing, and the distance is about 2.9 kilometers.
+
+<table style="width:100%;">
+  <thead>
+    <tr style="text-align:center;">
+      <td style="width:25%;"><b>Student Dinner</b><br/>Ten Buses<br/>(55 seats/bus)</td>
+      <td style="width:25%;"><b>Departure Time</b></td>
+      <td style="width:25%;"><b>Departure Location</b></td>
+       <td style="width:25%;"><b>Destination</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="text-align:center">
+      <td>From Shangri-La Hotel</td>
+      <td>5:30 p.m. - 6:30 p.m.</td>
+      <td>Shangri-La Hotel car park</td>
+      <td>Hotel Nikko New Century Beijing</td>
+    </tr>
+    <tr style="text-align:center">
+      <td>To Shangri-La Hotel</td>
+      <td>8:30 p.m</td>
+      <td>Hotel Nikko New Century Beijing</td>
+      <td>Shangri-La Hotel</td>
+    </tr>
+  </tbody>
+</table>
+
+<strong>Taxi</strong>
+
+If you miss shuttle buses to the banquet restaurant for some reasons, taxi is also a good choice. It would be helpful for you to find the right place by showing the <a href="{{ site.baseurl }}/files/local_info/Student_dinner_Address.pdf" target="_blank">Chinese characters of the venue name</a> to the taxi driver.
+
+<strong>Route and Map</strong>
+
+<div class="imagetext">
+  <img src="{{site.baseurl}}/images/local_info/Student_dinner_RouteMap.png" style="width:98%;" alt="Student_dinner_RouteMap" />
 </div>

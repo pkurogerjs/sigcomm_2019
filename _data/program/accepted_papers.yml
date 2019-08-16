@@ -1,0 +1,384 @@
+- type: talk
+  time: ''
+  room: ''
+  title: Enabling a Permanent Revolution in Internet Architecture
+  authors: James McCauley, Yotam Harchol (UC Berkeley), Aurojit Panda (NYU), Barath Raghavan (USC), Scott Shenker (UC Berkeley and ICSI)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680147'
+- type: talk
+  time: ''
+  room: ''
+  title: Bridging the Data Charging Gap in the Cellular Edge
+  authors: Yuanjie Li, Kyu-Han Kim, Christina Vlachou, Junqing Xie (Hewlett Packard Labs)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680148'
+- type: talk
+  time: ''
+  room: ''
+  title: TEAVAR&#58; Striking the Right Utilization-Availability Balance in WAN Traffic Engineering
+  authors: Jeremy Bogle, Nikhil Bhatia, Manya Ghobadi (MIT), Ishai Menache, Nikolaj Bjorner (Microsoft Reserach), Asaf Valadarsky, Michael Schapira (Hebrew University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680149'
+- type: talk
+  time: ''
+  room: ''
+  title: HPCC&#58; High Precision Congestion Control
+  authors: Yuliang Li (Harvard University and Alibaba Group), Rui Miao, Hongqiang Liu, Yan Zhuang, Fei Feng, Lingbo Tang, Zheng Cao, Ming Zhang (Alibaba Group), Frank Kelly (University of Cambridge), Mohammad Alizadeh (MIT), Minlan Yu (Harvard University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680140'
+- type: talk
+  time: ''
+  room: ''
+  title: Pluginizing QUIC
+  authors: Quentin De Coninck, François Michel, Maxime Piraux, Florentin Rochet, Thomas Given-Wilson (UCLouvain), Axel Legay (UCLouvain, Aalborg University), Olivier Pereira, Olivier Bonaventure (UCLouvain)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680141'
+- type: talk
+  time: ''
+  room: ''
+  title: Gentle Flow Control&#58; Avoiding Deadlock in Lossless Networks
+  authors: Kun Qian, Wenxue Cheng, Tong Zhang, Fengyuan Ren (Tsinghua University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680142'
+- type: talk
+  time: ''
+  room: ''
+  title: SocksDirect&#58; Datacenter Sockets can be Fast and Compatible
+  authors: Bojie Li (USTC and Microsoft Research), Tianyi Cui (University of Washington), Zibo Wang (USTC and Microsoft Research), Wei Bai, Lintao Zhang (Microsoft Research)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680143'
+- type: talk
+  time: ''
+  room: ''
+  title: Zooming in on Wide-area Latencies to a Global Cloud Provider
+  authors: Yuchen Jin (Microsoft/UWashington), Sundararajan Renganathan, Ganesh Ananthanarayanan (Microsoft), Junchen Jiang (University of Chicago), Venkata N. Padmanabhan, Manuel Schroder, Matt Calder (Microsoft) Arvind Krishnamurthy (UWashington)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680144'
+- type: talk
+  time: ''
+  room: ''
+  title: RF-based Inertial Measurement
+  authors: Chenshu Wu, Feng Zhang, Yusen Fan, K. J. Ray Liu (University of Maryland, College Park)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680255'
+- type: talk
+  time: ''
+  room: ''
+  title: A Large-Scale Analysis of Deployed Traffic Differentiation Practices
+  authors: Fangfan Li (Northeastern University), Arian Akhavan Niaki (University of Massachusetts Ahmerst), David Choffnes (Northeastern University), Phillipa Gill (University of Massachusetts Amherst), Alan Mislove (Northeastern University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680256'
+- type: talk
+  time: ''
+  room: ''
+  title: Residential Links Under the Weather
+  authors: Ramakrishna Padmanabhan (CAIDA, UCSD), Aaron Schulman (UCSD), Dave Levin , Neil Spring (University of Maryland)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680257'
+- type: talk
+  time: ''
+  room: ''
+  title: A Link Layer Protocol for Quantum Networks
+  authors: Axel Dahlberg, Matthew Skrzypczyk, Tim Coopmans, Leon Wubben, Filip Rozpedek, Matteo Pompili, Arian Stolk, Przemysław Pawełczak (QuTech, TU Delft), Rob Knegjens, Julio de Oliveira Filho (QuTech, TNO), Ronald Hanson, Stephanie Wehner (QuTech, TU Delft)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680258'
+- type: talk
+  time: ''
+  room: ''
+  title: A Millimeter Wave Network for Billions of Things
+  authors: Mohammad Hossein Mazaheri, Soroush Ameli, Ali Abedi, Omid Abari (University of Waterloo)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680259'
+- type: talk
+  time: ''
+  room: ''
+  title: Underwater Backscatter Networking
+  authors: JunSu Jang, Fadel Adib (MIT)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680250'
+- type: talk
+  time: ''
+  room: ''
+  title: Validating Datacenters at Scale
+  authors: Karthick Jayaraman (Microsoft), Nikolaj Bjorner (Microsoft Research) ,Jitu Padhye, Amar Agrawal, Ashish Bhargava, Paul-Andre C Bissonnette, Shane Foster, Andrew Helwer, Mark Kasten, Ivan Lee, Anup Namdhari, Haseeb Niaz, Aniruddha Parkhi, Hanukumar Pinnamraju, Adrian Power, Neha Milind Raje, Parag Sharma (Microsoft)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680251'
+- type: talk
+  time: ''
+  room: ''
+  title: Safely and Automatically Updating In-Network ACL Configurations with Intent Language
+  authors: Bingchuan Tian (Nanjing University), Xinyi Zhang (University of California Santa Barbara), Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang (Alibaba Group), Da Yu (Brown University), Chen Tian (Nanjing University), Haitao Zheng, Ben Y. Zhao (University of Chicago)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680252'
+- type: talk
+  time: ''
+  room: ''
+  title: Formal Specification and Testing of QUIC
+  authors: Kennneth L McMillan (Microsoft Research), Lenore D Zuck (UIC)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680253'
+- type: talk
+  time: ''
+  room: ''
+  title: Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks
+  authors: Minsung Kim (Princeton University), Davide Venturelli (USRA Research Institute for Advanced Computer Science), Kyle Jamieson (Princeton Univeristy)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680254'
+- type: talk
+  time: ''
+  room: ''
+  title: Neural Packet Classification
+  authors: Eric Liang (UC Berkeley), Hang Zhu, Xin Jin (Johns Hopkins University), Ion Stoica (UC Berkeley)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680265'
+- type: talk
+  time: ''
+  room: ''
+  title: Learning Scheduling Algorithms for Data Processing Clusters
+  authors: Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan (MIT CSAIL), Zili Meng (Tsinghua University), Mohammad Alizadeh (MIT CSAIL)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680266'
+- type: talk
+  time: ''
+  room: ''
+  title: E2E&#58; Embracing User Heterogeneity to ImproveQuality of Experience on the Web
+  authors: Xu Zhang (The University of Chicago), Siddhartha Sen (Microsoft Research), Daniar Kurniawan, Haryadi Gunawi, Junchen Jiang (The University of Chicago)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680267'
+- type: talk
+  time: ''
+  room: ''
+  title: Graphene&#58; Efficient Interactive Set Reconciliation Applied to Blockchain Propagation
+  authors: A. Pinar Ozisik, Brian N. Levine, George Bissias (University of Massachusetts Amherst), Gavin Andresen, Darren Tapp (Dash.org), Sunny Katkuri (University of Massachusetts Amherst)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680268'
+- type: talk
+  time: ''
+  room: ''
+  title: Offloading Distributed Applications onto SmartNICs using iPipe
+  authors: Ming Liu, Tianyi Cui, Henry N. Schuh, Arvind Krishnamurthy (University of Washington), Simon Peter (The University of Texas at Austin), Karan Gupta (Nutanix)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680269'
+- type: talk
+  time: ''
+  room: ''
+  title: NitroSketch&#58; Robust and General Sketch-based Monitoring in Software Switches
+  authors: Zaoxing Liu (Carnegie Mellon University), Ran Ben Basat (Harvard University), Gil Einziger (Ben-Gurion University of the Negev), Yaron Kassner (Technion), Vladimir Braverman (Johns Hopkins University), Roy Friedman (Technion), Vyas Sekar (Carnegie Mellon University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680260'
+- type: talk
+  time: ''
+  room: ''
+  title: PicNIC&#58; Predictable Virtualized NIC
+  authors: Praveen Kumar (Cornell University), Nandita Dukkipati, Nathan Lewis, Yi Cui, Yaogong Wang, Chonggang Li, Valas Valancius, Jake Adriaens, Steve Gribble (Google), Nate Foster (Cornell University), Amin Vahdat (Google)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680261'
+- type: talk
+  time: ''
+  room: ''
+  title: Fast, Scalable, and Programmable Packet Scheduler in Hardware
+  authors: Vishal Shrivastav (Cornell University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680262'
+- type: talk
+  time: ''
+  room: ''
+  title: Vantage&#58; Optimizing video upload for time-shifted viewing of social live streams
+  authors: Devdeep Ray, Jack Kosaian, K. V. Rashmi, Srinivasan Seshan (Carnegie Mellon University)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680263'
+- type: talk
+  time: ''
+  room: ''
+  title: Pano&#58; Optimizing 360 Video Streaming with a Better Understanding of Quality Perception
+  authors: Yu Guan, Chengyuan Zheng, Xinggong Zhang, Zongming Guo (Peking University), Junchen Jiang (The University of Chicago)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680264'
+- type: talk
+  time: ''
+  room: ''
+  title: End-to-End Transport for Video QOE Fairness
+  authors: Vikram Nathan, Vibhaalakshmi Sivaraman, Ravichandra Addanki, Mehrdad Khani, Prateesh Goyal, Mohammad Alizadeh (MIT CSAIL)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680275'
+- type: talk
+  time: ''
+  room: ''
+  title: Towards Highly Available Clos-Based WAN Routers
+  authors: Sucha Supittayapornpong, Barath Raghavan, Ramesh Govindan (University of Southern California)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680276'
+- type: talk
+  time: ''
+  room: ''
+  title: On Optimal Neighbor Discovery
+  authors: Philipp H. Kindt, Samarjit Chakraborty (Technical University of Munich (TUM))
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680277'
+- type: talk
+  time: ''
+  room: ''
+  title: Elmo&#58; Source Routed Multicast for Public Clouds
+  authors: Muhammad Shahbaz (Stanford University), Lalith Suresh (VMware), Jennifer Rexford (Princeton University), Nick Feamster (Princeton University), Ori Rottenstreich (Technion), Mukesh Hira (VMware)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://dl.acm.org/authorize?N680278'
