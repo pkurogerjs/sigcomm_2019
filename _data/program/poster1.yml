@@ -2,7 +2,7 @@
 - type: paper
   time: ''
   room: ''
-  title: AOMO&#58; an AI-aided Optimizer for Microservices Orchestration
+  title: '#4 AOMO&#58; an AI-aided Optimizer for Microservices Orchestration'
   authors: Xue Leng (Zhejiang University), Tzung-Han Juang, Yan Chen and Han Liu (Northwestern University)
   abstract: ''
   bio: ''
@@ -14,7 +14,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Towards Automated Inter-Service Authorization for Microservice Applications
+  title: '#6 Towards Automated Inter-Service Authorization for Microservice Applications'
   authors:  Xing Li (Zhejiang University), Yan Chen (Northwestern University) and Zhiqiang Lin (Ohio State University)
   abstract: ''
   bio: ''
@@ -26,7 +26,7 @@
 - type: paper
   time: ''
   room: ''
-  title: λ−NIC&#58; Interactive Serverless Compute on SmartNICs
+  title: '#104 λ−NIC&#58; Interactive Serverless Compute on SmartNICs'
   authors: Sean Choi, Muhammad Shahbaz, Balaji Prabhakar (Stanford University) and Mendel Rosenblum (Stanford Unversity)
   abstract: ''
   bio: ''
@@ -38,7 +38,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Toward a Production-ready General-purpose RDMAenabled RPC
+  title: '#20 Toward a Production-ready General-purpose RDMAenabled RPC'
   authors: Zhaogeng Li, Ning Liu and Jiaoren Wu (Baidu Inc.)
   abstract: ''
   bio: ''
@@ -50,7 +50,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Bounded Latency with RoCE
+  title: '#86 Bounded Latency with RoCE'
   authors: David Balla, Markosz Maliosz, Csaba Simon (Budapest University of Technology and Economics), Dániel Géhberger (Ericsson Research) and Péter Zsitvai (Ericsson)
   abstract: ''
   bio: ''
@@ -62,7 +62,7 @@
 - type: paper
   time: ''
   room: ''
-  title: TinyNet&#58; A Lightweight, Modular, and Unified Network Architecture for the Internet of Things
+  title: '#8 TinyNet&#58; A Lightweight, Modular, and Unified Network Architecture for the Internet of Things'
   authors: Gonglong Chen, Yihui Wang, Huikang Li and Wei Dong (Zhejiang University)
   abstract: ''
   bio: ''
@@ -74,7 +74,7 @@
 - type: paper
   time: ''
   room: ''
-  title: iTLS/iDTLS&#58; Lightweight End-to-End Security Protocol for IoT Through Minimal Latency
+  title: '#120 iTLS/iDTLS&#58; Lightweight End-to-End Security Protocol for IoT Through Minimal Latency'
   authors: Pengkun Li, Jinshu Su and Xiaofeng Wang (National University of Defense Technology)
   abstract: ''
   bio: ''

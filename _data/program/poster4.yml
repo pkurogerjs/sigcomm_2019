@@ -2,7 +2,7 @@
 - type: paper
   time: ''
   room: ''
-  title: DNS Negative Caching in the Wild
+  title: '#97 DNS Negative Caching in the Wild'
   authors: Yehuda Afek (Tel-Aviv University), Anat Bremler-Barr (IDC) and Lior Shafir (Tel Aviv University)
   abstract: ''
   bio: ''
@@ -14,7 +14,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Deploying Natural Language Intents with Lumi
+  title: '#56 Deploying Natural Language Intents with Lumi'
   authors: Arthur Selle Jacobs, Ricardo Pfitscher, Rafael Ribeiro (Federal University of Rio Grande do Sul (UFRGS)), Ronaldo Alves Ferreira (UFMS), Lisandro Granville (Federal University of Rio Grande do Sul (UFRGS)) and Sanjay Rao (Purdue University)
   abstract: ''
   bio: ''
@@ -26,7 +26,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Fast and Scalable Name Prefix Lookup with Hash Table
+  title: '#84 Fast and Scalable Name Prefix Lookup with Hash Table'
   authors: Jiawei Hu, Ting Huang and Hui Li (Peking University)
   abstract: ''
   bio: ''
@@ -38,7 +38,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Learning Tree&#58; Neural Network-based Index for NDN Forwarding Plane
+  title: '#43 Learning Tree&#58; Neural Network-based Index for NDN Forwarding Plane'
   authors: Zhuo Li, Liu Yan and Kaihua Liu (Tianjin University)
   abstract: ''
   bio: ''
@@ -50,7 +50,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Cheetah&#58; Accelerating Database Queries with Switch Pruning
+  title: '#51 Cheetah&#58; Accelerating Database Queries with Switch Pruning'
   authors: Muhammad Tirmazi, Ran Ben Basat, Jiaqi Gao and Minlan Yu (Harvard University)
   abstract: ''
   bio: ''
@@ -62,7 +62,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Attack Time Localization using Interval Queries
+  title: '#57 Attack Time Localization using Interval Queries'
   authors: Nikita Ivkin (Amazon), Ran Ben Basat (Harvard University), Zaoxing Liu (Carnegie Mellon University), Gil Einziger (Ben Gurion University), Roy Friedman (Technion) and Vladimir Braverman (Johns Hopkins University)
   abstract: ''
   bio: ''

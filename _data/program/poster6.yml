@@ -2,7 +2,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Smile, you are in the spotlight!
+  title: '#66 Smile, you are in the spotlight!'
   authors: Jona Beysens, Qing Wang and Sofie Pollin (KU Leuven)
   abstract: ''
   bio: ''
@@ -14,7 +14,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Device-Aware Adaptive Video Streaming
+  title: '#64 Device-Aware Adaptive Video Streaming'
   authors: Arsalan Ali Jumani, Fizza Zafar, Zafar Ayyub Qazi and Ihsan Ayyub Qazi (LUMS)
   abstract: ''
   bio: ''
@@ -26,7 +26,7 @@
 - type: paper
   time: ''
   room: ''
-  title: White Mirror&#58; Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis
+  title: '#80 White Mirror&#58; Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis'
   authors: Gargi Mitra, Prasanna Karthik Vairam, Patanjali SLPSK, Nitin Chandrachoodan and Kamakoti Veezhinathan (Indian Institute of Technology Madras)
   abstract: ''
   bio: ''
@@ -38,7 +38,7 @@
 - type: paper
   time: ''
   room: ''
-  title: L3VTP&#58; A Low-Latency Live Video Transmission Platform
+  title: '#89 L3VTP&#58; A Low-Latency Live Video Transmission Platform'
   authors: Gang Yi (Tsinghua University), Dan Yang (Beijing University of Posts and Telecommunications), Mowei Wang (Tsinghua University), Weihua Li, Yi Li (PowerInfo) and Yong Cui (Tsinghua University)
   abstract: ''
   bio: ''
@@ -50,7 +50,7 @@
 - type: paper
   time: ''
   room: ''
-  title: QUINCE&#58; A unified crowdsourcing-based QoE measurement platform
+  title: '#41 QUINCE&#58; A Unified Crowdsourcing-based QoE Measurement Platform'
   authors: Ricky Mok (CAIDA/UCSD), Ginga KAWAGUTI (NTT) and K.C. Claffy (CAIDA/UCSD)
   abstract: ''
   bio: ''
@@ -62,7 +62,7 @@
 - type: paper
   time: ''
   room: ''
-  title: A Light-weight Wi-Fi Fingerprint Generator with AR
+  title: '#74 A Light-weight Wi-Fi Fingerprint Generator with AR'
   authors: huhan Shen, Bingxian Lu, Zhanwu Yang, Yinghua Dong, Bin Han and Lei Wang (Dalian University of Technology)
   abstract: ''
   bio: ''
