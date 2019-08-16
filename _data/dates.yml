@@ -108,3 +108,18 @@ poster_demo-camera_ready:
   date: July 1, 2019
   info_main: Camera Ready Deadline
   info: Camera Ready Deadline
+poster_demo-location:
+  track: posters_demos
+  date: August 16, 2019
+  info_main: <strong>Location&#58;</strong> the Garden Wing Ballroom, 1<sup>st</sup> floor, Shangri-La Hotel
+  info: <strong>Location&#58;</strong> the Garden Wing Ballroom, 1<sup>st</sup> floor, Shangri-La Hotel
+poster_demo-setup:
+  track: posters_demos
+  date: August 20, 2019
+  info_main: <strong>Set-up time&#58;</strong> after lunch on Tuesday, Aug. 20<sup>th</sup>, 2019
+  info: <strong>Set-up time&#58;</strong> after lunch on Tuesday, Aug. 20<sup>th</sup>
+poster_demo-session:
+  track: posters_demos
+  date: August 21, 2019
+  info_main: <strong>Session time&#58;</strong> afternoon on Wednesday, Aug. 21<sup>st</sup>, 2019
+  info: <strong>Session time&#58;</strong> afternoon on Wednesday, Aug. 21<sup>st</sup>

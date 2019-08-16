@@ -160,6 +160,10 @@ committees:
 
 ### <a href="https://dl.acm.org/citation.cfm?id=3342280" target="_blank" style="color:#9a0000;text-decoration:none;font-weight:normal;"><i class="fa fa-link"></i> Click here to access the proceedings of posters and demos</a>
 
+## <i class="fa fa-calendar"></i> Important Dates
+
+{% include dates.html track = "posters_demos" %}
+
 ## Posters
 
 ### Microservices, Serverless Computing and IoT
@@ -267,10 +271,6 @@ The posters and demos submitted to SIGCOMM 2019 must be original and cannot be c
 Please submit your abstract at <a href="https://sigcomm19posters.hotcrp.com/">https://sigcomm19posters.hotcrp.com/</a>. Submissions are single blind, so please include authors’ names and affiliation. When submitting (a poster or demo), indicate if the submission should be considered for the SRC.
 
 </div>
-
-## <i class="fa fa-calendar"></i> Important Dates
-
-{% include dates.html track = "posters_demos" %}
 
 ## Organizers
 
