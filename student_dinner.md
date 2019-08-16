@@ -16,8 +16,8 @@ The SIGCOMM 2019 Student Dinner will be in Hotel Nikko New Century Beijing from 
 Address: No.6 Shouti South Road Haidian District, Beijing, 100044, China.
 
 <div class="imagetext">
-    <img src="{{ site.baseurl }}/images/local_info/banquet_2_1.png" style="width:48%;" alt="Getting Here 1" />
-   <img src="{{ site.baseurl }}/images/local_info/banquet_2_2.png" style="width:48%;"  alt="Getting Here 2" />
+    <img src="{{ site.baseurl }}/images/local_info/student_dinner_1.png" style="width:48%;" alt="Getting Here 1" />
+   <img src="{{ site.baseurl }}/images/local_info/student_dinner_2.png" style="width:48%;"  alt="Getting Here 2" />
 </div>
 
 ### Getting There
