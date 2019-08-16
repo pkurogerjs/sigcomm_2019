@@ -2,7 +2,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Decoupling Delay and Resource Sharing Targets with Efficient Core-Stateless AQM
+  title: '#83 Decoupling Delay and Resource Sharing Targets with Efficient Core-Stateless AQM'
   authors: Ferenc Fejes, Sándor Laki, Gergő Gombos (ELTE Eötvös Loránd University, Budapest, Hungary), Szilveszter Nádas and Zoltán Kiss (Ericsson Research)
   abstract: ''
   bio: ''
@@ -14,7 +14,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Towards an AQM Evaluation Testbed with P4 and DPDK
+  title: '#103 Towards an AQM Evaluation Testbed with P4 and DPDK'
   authors: Sándor Laki (Eötvös Loránd University), Péter Vörös (Eötvös Loránd University, Faculty of Informatics, Department of Information Systems) and Ferenc Fejes (Eötvös Loránd University)
   abstract: ''
   bio: ''
@@ -26,7 +26,7 @@
 - type: paper
   time: ''
   room: ''
-  title: The Performance of Multi-Path TCP with Overlapping Paths
+  title: '#77 The Performance of Multi-Path TCP with Overlapping Paths'
   authors: Lajos Zongor, Zalán Heszberger, Alija Pasic and Janos Tapolcai (Budapest University of Technology)
   abstract: ''
   bio: ''
@@ -38,7 +38,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Web Quality of Experience from Encrypted Packets
+  title: '#22 Web Quality of Experience from Encrypted Packets'
   authors: Alexis Huet, Zied Ben Houidi, Shengming Cai, Hao Shi, Jinchun Xu and Dario Rossi (Huawei Technologies Co. Ltd)
   abstract: ''
   bio: ''
@@ -50,7 +50,7 @@
 - type: paper
   time: ''
   room: ''
-  title: iFIT&#58; Intelligent Flow Information Telemetry
+  title: '#11 iFIT&#58; Intelligent Flow Information Telemetry'
   authors: Bo Lu, Ling Xu, Yuezhong Song, Longfei Dai, Min Liu, Tianran Zhou, Zhenbin Li and Haoyu Song (Huawei Technologies)
   abstract: ''
   bio: ''
@@ -62,7 +62,7 @@
 - type: paper
   time: ''
   room: ''
-  title: Cooperative Signaling of DDoS Attacks in a Blockchain-based Network
+  title: '#26 Cooperative Signaling of DDoS Attacks in a Blockchain-based Network'
   authors: Bruno Rodrigues and Burkhard Stiller (University of Zurich)
   abstract: ''
   bio: ''
@@ -74,7 +74,7 @@
 - type: paper
   time: ''
   room: ''
-  title: NOracle&#58; Who is communicating with whom in my network?
+  title: '#35 NOracle&#58; Who is communicating with whom in my network?'
   authors: Patrick Kalmbach (Technical University of Munich (TUM)), Fabian Lipp, David Hock (Infosim GmbH), Wolfgang Kellerer (Technical University of Munich (TUM)) and Andreas Blenk (Technische Universitaet Muenchen)
   abstract: ''
   bio: ''
