@@ -73,12 +73,12 @@
         <div class="ui-li-aside">
           {% if has_COL_UID %}
           <div class="button-paper">
-              <a href="{{ keynote.COL_UID }}" onclick="window.location='{{ keynote.COL_UID }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-text" aria-hidden="true"></i></a>
+              <a href="{{ keynote.COL_UID }}" onclick="window.location='{{ keynote.COL_UID }}'; event.stopPropagation();" rel="external" class="ui-link"><i class="fa fa-file-text" aria-hidden="true"></i></a>
             </div>
           {% endif %}
           {% if has_slides %}
             <div class="button-paper">
-              <a href="{{ keynote.slides }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i></a>
+              <a href="{{ keynote.slides }}" onclick="window.location='{{ keynote.slides }}'; event.stopPropagation();" rel="external" class="ui-link"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i></a>
             </div>
           {% endif %}
            {% if has_link %}
@@ -91,7 +91,7 @@
 
           {% if has_video %}
             <div class="button-paper">
-              <a href="{{ keynote.video }}" onclick="window.location='{{ keynote.video }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link"><i class="fa fa-video-camera" aria-hidden="true"></i></a>
+              <a href="{{ keynote.video }}" onclick="window.location='{{ keynote.video }}'; event.stopPropagation();" rel="external" class="ui-link"><i class="fa fa-video-camera" aria-hidden="true"></i></a>
             </div>
 <!--	  
             <div class="button-paper">
