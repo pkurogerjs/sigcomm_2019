@@ -24,7 +24,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: break
     time: 10:30am - 11:00am
     room: 
@@ -38,7 +38,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 11:00am - 12:30pm
     room: 
@@ -52,7 +52,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: break
     time: 12:30pm - 1:30pm
     room: 
@@ -66,7 +66,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 1:30pm - 2:30pm
     room: 
@@ -80,7 +80,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1 
+    COL_UID: '' 
   - type: session
     time: 2:30pm - 3:30pm
     room:
@@ -94,7 +94,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
 
   - type: break
     time: 3:30pm - 4:00pm
@@ -109,7 +109,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 4:00pm - 5:00pm
     room: 
@@ -123,7 +123,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 5:00pm - 5:30pm
     room: 
@@ -137,7 +137,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
 
 
 organizers:

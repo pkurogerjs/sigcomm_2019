@@ -5,3 +5,4 @@ _site
 .sass-cache
 *.pyc
 .DS_STORE
+files/local_info/.DS_Store

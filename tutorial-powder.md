@@ -24,7 +24,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: talk
     time: 8:30am - 9:00am
     room: 
@@ -38,7 +38,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: talk
     time: 9:30am - 10:30am
     room: 
@@ -52,7 +52,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: break
     time: 10:30am - 11:00am
     room: 
@@ -66,7 +66,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 11:00am - 12:40pm
     room:
@@ -80,7 +80,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: talk
     time: 11:00am - 11:30am
     room: 
@@ -94,7 +94,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: talk
     time: 11:30am - 12:30pm
     room: 
@@ -108,7 +108,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1 
+    COL_UID: '' 
   - type: talk
     time: 12:30pm - 12:40pm
     room: 
@@ -122,7 +122,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
 
 organizers:
 - name:        Kirk Webb

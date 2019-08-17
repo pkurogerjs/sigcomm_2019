@@ -28,7 +28,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 10:00am - 10:30am
     room: 
@@ -42,7 +42,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: break
     time: 10:30am - 11:00am
     room: 
@@ -56,7 +56,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 11:00am - 12:30pm
     room: 
@@ -70,7 +70,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: break
     time: 12:30pm - 2:00pm
     room: 
@@ -84,7 +84,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1 
+    COL_UID: '' 
   - type: session
     time: 2:00pm - 3:15pm
     room: 
@@ -98,7 +98,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: break
     time: 3:15pm - 3:45pm
     room: 
@@ -112,7 +112,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
   - type: session
     time: 3:45pm - 5:30pm
     room: 
@@ -126,7 +126,7 @@ data:
     video: ''
     remote: ''
     remote-qa: ''
-    COL_UID: wt_mon_break_1
+    COL_UID: ''
 
 organizers:
 - name:        Stephen Ibanez
