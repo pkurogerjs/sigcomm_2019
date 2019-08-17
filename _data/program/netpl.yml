@@ -23,7 +23,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: keynote
+- type: talk
   time: 
   room: ''
   title: 'Keynote 1: Network Verification in Azure'
@@ -131,8 +131,8 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: keynote
-  time: '13:30pm - 15:00pm'
+- type: talk
+  time: '13:30pm - 14:15pm'
   room: ''
   title: 'Keynote 2: Building Efficient Packet Processing Flows with NPL'
   authors: 'Venkat Pullela (Broadcom)'
@@ -144,8 +144,8 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: keynote
-  time: ''
+- type: talk
+  time: '14:15pm - 15:00pm'
   room: ''
   title: 'Keynote 3: Finding Needle in a Haystack - Provenance support for network diagnostics'
   authors: 'Wenchao Zhou (Georgetown University)'
@@ -168,7 +168,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: keynote
+- type: talk
   time: 15:30pm - 16:00pm
   room: ''
   title: 'Keynote 4: Localizing Router Configuration Errors Using Unsatisfiable Cores'
