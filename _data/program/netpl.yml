@@ -23,7 +23,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk
+- type: keynote
   time: 
   room: ''
   title: 'Keynote 1: Network Verification in Azure'
@@ -120,7 +120,7 @@
   video: ''
   COL_UID: ''
 - type: break
-  time: '12:00pm - 13:30pm'
+  time: '11:30am - 13:30pm'
   room: ''
   title: 'Lunch Break'
   authors: ''
@@ -131,7 +131,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk
+- type: keynote
   time: '13:30pm - 14:15pm'
   room: ''
   title: 'Keynote 2: Building Efficient Packet Processing Flows with NPL'
@@ -144,7 +144,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk
+- type: keynote
   time: '14:15pm - 15:00pm'
   room: ''
   title: 'Keynote 3: Finding Needle in a Haystack - Provenance support for network diagnostics'
@@ -168,7 +168,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk
+- type: keynote
   time: 15:30pm - 16:00pm
   room: ''
   title: 'Keynote 4: Localizing Router Configuration Errors Using Unsatisfiable Cores'

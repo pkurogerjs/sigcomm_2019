@@ -72,7 +72,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: break
-    time: 12:30pm - 2:00pm
+    time: 11:30am - 2:00pm
     room: 
     title: Lunch Break
     authors: ''
