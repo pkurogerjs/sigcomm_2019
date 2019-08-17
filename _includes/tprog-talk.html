@@ -65,7 +65,7 @@
       <h4>
         <div {{ item_style }}>
           <p class="keynote-header">
-              <h2>({{ keynote.time  }}) {{ keynote.title }}</h2>
+              <h2>{% if keynote.time != nil and keynote.time != "" %}({{ keynote.time  }}) {% endif  %}{{ keynote.title }}</h2>
           </p>
           <!-- /* the spaces after various "%s" below are important for correct list filtering! */ -->
           <p>{{ keynote.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}</p>
