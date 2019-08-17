@@ -11,7 +11,8 @@
   {% if keynote.COL_UID and keynote.COL_UID  != "" %}{% assign has_COL_UID  = true %}{% else %}{% assign has_COL_UID  = nil %}{% endif %}
 
   {% comment %}<!-- make space for the button(s) -->{% endcomment %}
-  {% if has_link or  has_slides or has_COL_UID%}
+  {% assign item_style = 'style="width:85%"'  %}
+  {% if has_link or  has_slides or has_COL_UID or has_video %}
     {% assign item_style = 'style="width: 85%"' %}
   {% endif %}
 
@@ -93,10 +94,10 @@
             <div class="button-paper">
               <a href="{{ keynote.video }}" onclick="window.location='{{ keynote.video }}'; event.stopPropagation();" rel="external" class="ui-link"><i class="fa fa-video-camera" aria-hidden="true"></i></a>
             </div>
-<!--
+	  {% else  %}
             <div class="button-paper">
               <a href="http://www.xuetangx.com/courses/course-v1:TsinghuaX+20190815x+2019_T3/about" onclick="window.location='http://www.xuetangx.com/courses/course-v1:TsinghuaX+20190815x+2019_T3/about'; event.stopPropagation();" rel="external" class="ui-link"><i class="fa fa-video-camera" aria-hidden="true"></i></a>
-            </div> -->
+            </div>
           {% endif %}
         </div>
       </h4>

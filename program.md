@@ -6,7 +6,7 @@ group: Program
 
 # {{page.title}}
 
-{% include program-online.html type="program" %}
+{% include program-online-main.html type="program" %}
 
 <strong>The final program may be adjusted.</strong>
 
