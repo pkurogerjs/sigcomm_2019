@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACM SIGCOMM 2018 Best-of-CCR Session
+title: ACM SIGCOMM 2019 Best-of-CCR Session
 group: Parallel events
 ---
 

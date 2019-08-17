@@ -865,7 +865,7 @@
   COL_UID: ''
 - type: session
   time: 3:15 pm - 4:55 pm
-  room: Garden Wing Ballroom, 1<sup>st</sup> floor
+  room: Garden Wing Ballroom, 1<sup>st</sup> floor<br/>Best of CCR session chair&#58; Sergey Gorinsky (IMDEA Networks Institute)
   title: Poster, Demo & CCR papers
   authors: ''
   abstract: ''
@@ -875,6 +875,30 @@
   slides: ''
   video: ''
   COL_UID: ''
+- type: talk
+  time: 3:15 pm - 3:40 pm
+  room: ''
+  title: Looking for Hypergiants in PeeringDB
+  authors: Timm Böttger, Felix Cuadrado, and Steve Uhlig (Queen Mary University of London)
+  abstract: Hypergiants, such as Google or Netflix, are important organisations in the Internet ecosystem, due to their sheer impact in terms of traffic volume exchanged. However, the research community still lacks a sufficiently crisp definition for them, beyond naming specific instances of them. In this paper we analyse PeeringDB data and identify features that differentiate hypergiants from the other organisations. To this end, we first characterise the organisations present in PeeringDB, allowing us to identify discriminating properties of these organisations. We then use these properties to separate the data in two clusters, differentiating hypergiants from other organisations. We conclude this paper by investigating how hypergiants and other organisations exploit the IXP ecosystem to reach the global IPv4 space.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://ccronline.sigcomm.org/2018/looking-for-hypergiants-in-peeringdb/'
+- type: talk
+  time: 3:40 pm - 4:05 pm
+  room: ''
+  title: The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research
+  authors: Vaibhav Bajpai (TU Munich), Anna Brunstrom (Karlstad University), Anja Feldmann (Max Planck Institute for Informatics), Wolfgang Kellerer (TU Munich), Aiko Pras (University of Twente), Henning Schulzrinne (Columbia University), Georgios Smaragdakis (TU Berlin), Matthias Wählisch (FU Berlin), and Klaus Wehrle (RWTH Aachen University)
+  abstract: Reproducibility is one of the key characteristics of good science, but hard to achieve for experimental disciplines like Internet measurements and network systems. This guide provides advice to researchers, particularly those new to the field, on designing experiments so that their work is more likely to be reproducible and to serve as a foundation for follow-on work by others.
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: 'https://ccronline.sigcomm.org/2019/the-dagstuhl-beginners-guide-to-reproducibility-for-experimental-networking-research/'
 - type: workshop
   time: 4:55 pm - 6:00 pm
   room: Valley Wing Ballroom, 2<sup>nd</sup> floor
