@@ -28,7 +28,7 @@
   room: ''
   title: 'Keynote: How to Make Decisions (Optimally)'
   authors: 'Siddhartha Sen (Microsoft)'
-  abstract: ''
+  abstract: 'I will describe an agenda for applying artificial intelligence to networked systems that is minimally disruptive, synergistic with human solutions, and safe. First, I will develop a paradigm that combines reinforcement learning with the ability to ask counterfactual ("what if") questions about any decision-making system, provided there is sufficient randomness in the decisions. We will apply this methodology to infrastructure systems in Azure and face some interesting challenges and opportunities. Then, I will propose an abstraction called a “safeguard” that protects an AI system from violating a safety specification, while allowing the system (and the safeguard) to adapt and learn.'
   bio: 'Siddhartha Sen is a Principal Researcher in the Microsoft Research New York City lab, and previously a researcher in the MSR Silicon Valley lab. He uses data structures, algorithms, and machine learning to build more powerful distributed systems. His current mission is to optimize cloud infrastructure decisions in a way that is minimally disruptive, synergistic with human solutions, and safe. Siddhartha received his BS degrees in computer science and mathematics and his MEng degree in computer science from MIT. From 2004-2007 he worked as a developer at Microsoft and built a network load balancer for Windows Server. He returned to academia and completed his PhD from Princeton University in 2013. Siddhartha received the inaugural Google Fellowship in Fault-Tolerant Computing in 2009, the best student paper award at PODC 2012, and the best paper award at ASPLOS 2017.'
   photo: ''
   link: ''
