@@ -159,6 +159,10 @@ synchronization, and IoT applications in NDN.
 - name:             Lixia Zhang
   affiliation:      UCLA, USA
   bio:              "<p>Lixia Zhang is a Professor in the Computer Science Department of UCLA.  She received her Ph.D. in computer science from MIT and was a member of the research staff at Xerox PARC before joining UCLA. She is a fellow of ACM and IEEE, the recipient of IEEE Internet Award, and the holder of UCLA Postel Chair in Computer Science.  Since 2010 she has been leading the effort on the design and development of the NDN architecture (http://named-data.net/).</p>"
+- name:           Yanbiao Li 
+  affiliation:    Hunan University, China
+  bio:  "" 
+ 
 ---
 
 # {{ page.title }}
