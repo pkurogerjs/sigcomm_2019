@@ -241,7 +241,7 @@
   COL_UID: ''
 - type: topic-preview
   time: 5:00 pm - 6:15 pm
-  room: Garden Wing Ballroom III, 1<sup>st</sup> floor
+  room: Garden Wing Ballroom III, 1<sup>st</sup> floor<br/><strong>Session chair:</strong> Shengling Wang (Beijing Normal University)
   title: Topic Preview 1
   authors: ''
   abstract: ''
@@ -733,7 +733,7 @@
   COL_UID: ''
 - type: topic-preview
   time: 12:10 pm - 1:25 pm
-  room: Valley Wing Ruby Ballroom, 3<sup>rd</sup> floor
+  room: Valley Wing Ruby Ballroom, 3<sup>rd</sup> floor<br/><strong>Session chair:</strong> Paolo Costa (Microsoft Research, UK)
   title: Topic Preview 2
   authors: ''
   abstract: ''
