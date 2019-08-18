@@ -78,7 +78,14 @@
              {% if has_link %}
                 <td>
                 <a style="color: dimgray;" href="{{paper.link}}" rel="external" target="_blank">
-                    <i class="fa fa-file-text"></i>
+                    <i class="fa fa-file-video-o"></i>
+                </a>
+            </td>
+          {% endif %}
+          {% if has_video %}
+                <td>
+                <a style="color: dimgray;" href="{{paper.video}}" rel="external" target="_blank">
+                    <i class="fa fa-video-camera"></i>
                 </a>
             </td>
           {% endif %}
