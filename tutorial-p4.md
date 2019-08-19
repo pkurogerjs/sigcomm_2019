@@ -16,7 +16,7 @@ data:
     time: Friday, August 23, 2018
     room: ''
   - type: session
-    time: 9:00am - 10:00am
+    time: 08:30am - 09:30am
     room: 
     title: P4 Language Overview
     authors: ''
@@ -30,7 +30,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: session
-    time: 10:00am - 10:30am
+    time: 09:30am - 10:00am
     room: 
     title: Collaborative Lab Exercises - Part I
     authors: ''
@@ -44,7 +44,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: break
-    time: 10:30am - 11:00am
+    time: 10:00am - 10:30am
     room: 
     title: Tea/Coffee Break
     authors: ''
@@ -58,7 +58,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: session
-    time: 11:00am - 12:30pm
+    time: 10:30am - 12:00pm
     room: 
     title: Collaborative Lab Exercises - Part II
     authors: ''
@@ -72,7 +72,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: break
-    time: 11:30am - 2:00pm
+    time: 11:30am - 1:30pm
     room: 
     title: Lunch Break
     authors: ''
@@ -86,7 +86,7 @@ data:
     remote-qa: ''
     COL_UID: '' 
   - type: session
-    time: 2:00pm - 3:15pm
+    time: 1:30pm - 3:00pm
     room: 
     title: Mini Research Workshop - Part I
     authors: ''
@@ -100,7 +100,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: break
-    time: 3:15pm - 3:45pm
+    time: 3:00pm - 3:30pm
     room: 
     title: Tea/Coffee Break
     authors: ''
@@ -114,7 +114,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: session
-    time: 3:45pm - 5:30pm
+    time: 3:30pm - 5:00pm
     room: 
     title: Mini Research Workshop - Part II
     authors: ''
