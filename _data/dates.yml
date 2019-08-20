@@ -116,8 +116,8 @@ poster_demo-location:
 poster_demo-setup:
   track: posters_demos
   date: August 20, 2019
-  info_main: <strong>Set-up time&#58;</strong> after lunch on Tuesday, Aug. 20<sup>th</sup>, 2019
-  info: <strong>Set-up time&#58;</strong> after lunch on Tuesday, Aug. 20<sup>th</sup>
+  info_main: <strong>Set-up time&#58;</strong> after 8 pm on Tuesday, Aug. 20<sup>th</sup>, and Wednesday morning
+  info: <strong>Set-up time&#58;</strong> after 8 pm on Tuesday, Aug. 20<sup>th</sup>, and Wednesday morning
 poster_demo-session:
   track: posters_demos
   date: August 21, 2019
