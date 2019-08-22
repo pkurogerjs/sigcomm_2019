@@ -93,7 +93,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342203&ftid=2080641&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
   time: '11:00am - 11:25am'
@@ -105,7 +105,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342201&ftid=2080639&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
   time: '11:25am - 11:50am'
@@ -117,7 +117,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342200&ftid=2080638&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: break
   time: '11:30am - 13:30pm'
@@ -204,7 +204,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342198&ftid=2080636&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
   time: 14:40pm - 15:05pm
@@ -216,7 +216,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342204&ftid=2080642&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: break
   time: 15:05pm - 15:30pm
@@ -264,7 +264,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342199&ftid=2080637&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
   time: 16:00pm - 16:25pm
@@ -276,7 +276,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342205&ftid=2080643&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
   time: 16:25pm - 16:50pm
@@ -290,7 +290,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342202&ftid=2080640&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: session
   time: 16:50pm - 17:30pm
