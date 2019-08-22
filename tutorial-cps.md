@@ -12,7 +12,7 @@ data:
     time: Friday, August 23, 2019
     room: ''
   - type: session
-    time: 8:30am - 10:30am
+    time: 08:30am - 10:00am
     room: 
     title: Session I
     authors: ''
@@ -26,7 +26,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 8:30am - 9:00am
+    time: 08:30am - 08:50am
     room: 
     title: Introduction to CPS and its network infrastructure evolution
     authors: 'Liang Cheng, Lehigh University, USA'
@@ -40,7 +40,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 9:00am - 9:30am
+    time: 08:50am - 09:20am
     room: 
     title: Min-plus calculus and network calculus
     authors: 'Liang Cheng, Lehigh University, USA'
@@ -54,7 +54,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 9:30am - 9:50am
+    time: 09:20am - 09:40am
     room: 
     title: Case study of wireless sensor networks
     authors: 'Steffen Bondorf, Norwegian University of Science and Technology, Norway'
@@ -68,7 +68,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 9:50am - 10:10am
+    time: 09:40am - 10:00am
     room: 
     title: Case study of smart-grid substation networks
     authors: 'Liang Cheng, Lehigh University, USA'
@@ -81,24 +81,10 @@ data:
     remote: ''
     remote-qa: ''
     COL_UID: ''
-  - type: talk 
-    time: 10:10am - 10:30am
-    room: 
-    title: Review exercise
-    authors: 'Liang Cheng, Lehigh University, USA'
-    abstract: ''
-    bio: ''
-    photo: ''
-    link: ''
-    slides: ''
-    video: ''
-    remote: ''
-    remote-qa: ''
-    COL_UID: ''
   - type: break
-    time: 10:30am - 11:00am
-    room: 
-    title: Coffee Break
+    time: 10:00am - 10:30am
+    room:
+    title: Coffee/tea Break
     authors: ''
     abstract: ''
     bio: ''
@@ -110,7 +96,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: session
-    time: 11:00am - 12:40pm
+    time: 10:30am - 12:00pm
     room:
     title: Session II
     authors: ''
@@ -124,7 +110,21 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 11:00am - 11:30am
+    time: 10:30am - 10:50am
+    room:
+    title: Review exercise
+    authors: 'Liang Cheng, Lehigh University, USA'
+    abstract: ''
+    bio: ''
+    photo: ''
+    link: ''
+    slides: ''
+    video: ''
+    remote: ''
+    remote-qa: ''
+    COL_UID: ''
+  - type: talk
+    time: 10:50am - 11:10am
     room: 
     title: Introduction to DNC (NetworkCalculus.org) 
     authors: 'Steffen Bondorf, Norwegian University of Science and Technology, Norway'
@@ -138,7 +138,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 11:30am - 12:30pm
+    time: 11:10am - 11:55pm
     room: 
     title: Hands-on labs 
     authors: 'Steffen Bondorf, Norwegian University of Science and Technology, Norway'
@@ -152,7 +152,7 @@ data:
     remote-qa: ''
     COL_UID: ''
   - type: talk
-    time: 12:30pm - 12:40pm
+    time: 11:55pm - 12:00pm
     room: 
     title: Summary and outlook
     authors: 'Liang Cheng, Lehigh University, USA'

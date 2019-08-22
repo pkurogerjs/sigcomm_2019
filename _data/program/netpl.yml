@@ -132,7 +132,7 @@
   video: ''
   COL_UID: ''
 - type: keynote
-  time: '13:30pm - 14:15pm'
+  time: '13:30pm - 14:30pm'
   room: ''
   title: 'Keynote 2: Building Efficient Packet Processing Flows with NPL'
   authors: 'Venkat Pullela (Broadcom)'
@@ -145,7 +145,7 @@
   video: ''
   COL_UID: ''
 - type: keynote
-  time: '14:15pm - 15:00pm'
+  time: '14:30pm - 15:00pm'
   room: ''
   title: 'Keynote 3: Finding Needle in a Haystack - Provenance support for network diagnostics'
   authors: 'Wenchao Zhou (Georgetown University)'
@@ -184,7 +184,7 @@
   time: 16:00pm - 17:00pm
   room: ''
   title: 'Network Programmability: Boom or Bust?'
-  authors: 'speakers TBC'
+  authors: 'Kun Tan (Huawei), Hongjang Liu (Alibaba), Venkat Pullela (Broadcom)'
   abstract: ''
   bio: ''
   photo: ''
