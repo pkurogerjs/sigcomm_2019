@@ -18,7 +18,7 @@ dates:
 <div class="imagetext">
     <img src="{{ site.baseurl }}/images/hackathon/hackathon.png" style="width:100%;"  alt="hackathon" />
 </div>
-<br>
+<br/>
 
 
 ## Introduction
@@ -68,6 +68,10 @@ Hongbin Luo <luohb@buaa.edu.cn>, BUAA, China<br><br>
 
 Hope to see you in Beijing!
 
+### Agenda (Invited only)
 
+<div class="imagetext">
+    <img src="{{ site.baseurl }}/images/hackathon/hackathon_schedule.jpeg" style="width:100%;"  alt="hackathon" />
+</div>
 
 
