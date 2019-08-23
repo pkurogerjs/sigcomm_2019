@@ -80,7 +80,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342070&ftid=2080729&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680258'
 - type: talk
   time: ''
@@ -92,7 +92,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342068&ftid=2080730&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680259'
 - type: talk
   time: ''
@@ -104,7 +104,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342091&ftid=2080731&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680250'
 - type: break
   time: 11:30 am - 1:30 pm
@@ -212,7 +212,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342094&ftid=2080732&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680251'
 - type: talk
   time: ''
@@ -224,7 +224,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342088&ftid=2080733&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680252'
 - type: talk
   time: ''
@@ -236,7 +236,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342087&ftid=2080734&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680253'
 - type: break
   time: 2:45 pm - 3:15 pm
