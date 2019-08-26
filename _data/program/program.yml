@@ -1235,11 +1235,11 @@
   slides: ''
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680278'
-- type: workshop
+- type: session
   time: 5:45 pm - 6:05 pm
   room: ''
   title: Closing
-  authors: ''
+  authors: 'Yong Cui (Tsinghua University, China)'
   abstract: ''
   bio: ''
   photo: ''
