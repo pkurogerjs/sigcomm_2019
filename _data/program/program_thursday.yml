@@ -55,7 +55,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_6_1.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680254'
 - type: talk
@@ -67,7 +67,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_6_2.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680265'
 - type: talk
@@ -79,7 +79,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_6_3.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680266'
 - type: break
@@ -115,7 +115,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_7_1.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680267'
 - type: talk
@@ -139,7 +139,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_7_3.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680269'
 - type: break
@@ -175,7 +175,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_8_1.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680260'
 - type: talk
@@ -187,7 +187,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_8_2.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680261'
 - type: talk
@@ -199,7 +199,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_8_3.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680262'
 - type: break
@@ -235,7 +235,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_9_1.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680263'
 - type: talk
@@ -247,7 +247,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_9_2.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680264'
 - type: talk
@@ -259,7 +259,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_9_3.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680275'
 - type: session
@@ -283,7 +283,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_10_1.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680276'
 - type: talk
@@ -295,7 +295,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_10_2.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680277'
 - type: talk
@@ -307,7 +307,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_10_3.pptx'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680278'
 - type: session

@@ -79,7 +79,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_4_1.pptx'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342070&ftid=2080729&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680258'
 - type: talk
@@ -103,7 +103,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_4_3.key'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342091&ftid=2080731&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680250'
 - type: break
@@ -211,7 +211,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_5_1.pptx'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342094&ftid=2080732&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680251'
 - type: talk
@@ -223,7 +223,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_5_2.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342088&ftid=2080733&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680252'
 - type: talk
@@ -235,7 +235,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_5_3.pptx'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342087&ftid=2080734&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680253'
 - type: break
