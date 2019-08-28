@@ -12,7 +12,7 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: 09:00am - 10:00am 
+  time: 09:00am - 10:00am
   room: ''
   title: Opening remarks
   authors: ''
@@ -24,7 +24,7 @@
   video: ''
   COL_UID: ''
 - type: keynote
-  time: 
+  time:
   room: ''
   title: 'Keynote 1: Network Verification in Azure'
   authors: 'Karthick Jayaraman (Microsoft)'
@@ -35,7 +35,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: break 
+- type: break
   time: '10:00am - 10:30am'
   room: ''
   title: 'Coffee break'
@@ -69,7 +69,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3349590&ftid=2081188&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
@@ -81,7 +81,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3349591&ftid=2081189&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
@@ -93,12 +93,12 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3349592&ftid=2081190&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
   room: ''
-  title: 'Dataplane verification for P4' 
+  title: 'Dataplane verification for P4'
   authors: 'D. Dumitrescu (University Politehnica of Bucharest)'
   abstract: ''
   bio: ''

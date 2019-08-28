@@ -12,7 +12,7 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: 09:00am - 10:00am 
+  time: 09:00am - 10:00am
   room: ''
   title: 'Opening + Keynote'
   authors: ''
@@ -35,7 +35,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: break 
+- type: break
   time: 10:00am - 10:30am
   room: ''
   title: Coffee break
@@ -59,7 +59,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk 
+- type: talk
   time: ''
   room: ''
   title: 'DeePCCI: Deep Learning-based Passive Congestion Control Identification'
@@ -69,9 +69,9 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342211&ftid=2081193&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
-- type: talk 
+- type: talk
   time: ''
   room: ''
   title: 'Contextual Multi-Armed Bandits for Link Adaptation in Cellular Networks'
@@ -81,9 +81,9 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342212&ftid=2081194&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
-- type: talk 
+- type: talk
   time: ''
   room: ''
   title: 'RL-Cache: Learning-Based Cache Admission for Content Delivery'
@@ -93,9 +93,9 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342214&ftid=2081195&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
-- type: talk 
+- type: talk
   time: ''
   room: ''
   title: 'Cracking Open the Black Box: What Observations Can Tell Us About Reinforcement Learning Agents'
@@ -105,9 +105,9 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342210&ftid=2081192&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
-- type: talk 
+- type: talk
   time: ''
   room: ''
   title: 'Verifying Deep-RL-Driven Systems'
@@ -117,7 +117,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342218&ftid=2081196&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: break
   time: 11:30am - 13:30pm
@@ -153,7 +153,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342207&ftid=2081198&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
@@ -165,7 +165,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342215&ftid=2081201&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
@@ -177,7 +177,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342208&ftid=2081199&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
@@ -201,7 +201,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342216&ftid=2081202&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: break
   time: '15:00pm - 15:30pm'
@@ -237,7 +237,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342213&ftid=2081200&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
@@ -249,7 +249,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342206&ftid=2081197&dwn=1&CFID=68272303&CFTOKEN=cb3e4900d754680a-631968DC-068F-F9E5-816436936C17C7A1'
   COL_UID: ''
 - type: talk
   time: ''
