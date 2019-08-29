@@ -1052,7 +1052,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_7_2.pdf'
   video: ''
   COL_UID: 'https://dl.acm.org/authorize?N680268'
 - type: talk
