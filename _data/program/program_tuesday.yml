@@ -56,7 +56,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3359767&ftid=2081421&dwn=1&CFID=94189529&CFTOKEN=1225c1f4527372ab-C44CF538-0187-E87F-02A7768DFA2DEDA6'
   COL_UID: ''
 - type: talk
   time: 9:30 am - 10:15 am
@@ -68,7 +68,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3359768&ftid=2081424&dwn=1&CFID=94189529&CFTOKEN=1225c1f4527372ab-C44CF538-0187-E87F-02A7768DFA2DEDA6'
   COL_UID: ''
 - type: break
   time: 10:15 am - 10:45 am

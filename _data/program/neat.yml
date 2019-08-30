@@ -12,7 +12,7 @@
   video: ''
   COL_UID: ''
 - type: session
-  time: 09:05am - 09:15am 
+  time: 09:05am - 09:15am
   room: ''
   title: Welcome
   authors: 'General Chair: Kiran Makhijani'
@@ -23,10 +23,10 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: session 
+- type: session
   time: 09:15am - 10:00am
   room: ''
-  title: 'Session 1: Keynote I' 
+  title: 'Session 1: Keynote I'
   authors: 'Session Chair: Prof K.K. Ramakrishnan'
   abstract: ''
   bio: ''
@@ -35,7 +35,7 @@
   slides: ''
   video: ''
   COL_UID: ''
-- type: talk 
+- type: talk
   time: ''
   room: ''
   title: 'Network Support for Emerging Applications: Flexible Network Services as Frameworks?'
@@ -45,7 +45,7 @@
   photo: 'images/speakers/Zhi-Li-Zhang.jpg'
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3359665&ftid=2081364&dwn=1&CFID=94188271&CFTOKEN=5eca60977cc02af-C3E31163-0F58-330A-B0E3B58B803963CC'
   COL_UID: ''
 - type: break
   time: 10:00am - 10:30am
@@ -98,7 +98,7 @@
 - type: talk
   time: '11:00am - 11:25am'
   room: ''
-  title: 'A Framework for Qualitative Communications using Big Packet Protocol' 
+  title: 'A Framework for Qualitative Communications using Big Packet Protocol'
   authors: 'Richard Li (Futurewei Technologies), Kiran Makhijani (Futurewei Technologies), Hamed Yousefi (Futurewei Technologies), Cedric Westphal (Futurewei Technologies), Lijun Dong (Futurewei Technologies), Tim Wauters (Ghent University), Filip De Turck (Ghent University),'
   abstract: ''
   bio: ''
@@ -167,7 +167,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   photo: 'images/speakers/Faten-Zhani.png'
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3359666&ftid=2081419&dwn=1&CFID=94188271&CFTOKEN=5eca60977cc02af-C3E31163-0F58-330A-B0E3B58B803963CC'
   COL_UID: ''
 - type: session
   time: 14:15pm - 14:20pm
@@ -197,7 +197,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   time: 14:25pm - 14:40pm
   room: ''
   title: 'KolmoLD: Data Modelling for the Modern Internet'
-  authors: ' Dmitry Borzov (Huawei Canada), Tingqiu Yuan (Huawei Technologies), Jian Li (Huawei Technologies), 
+  authors: ' Dmitry Borzov (Huawei Canada), Tingqiu Yuan (Huawei Technologies), Jian Li (Huawei Technologies),
             Mikhail Ignatovich (Huawei Canada)'
   abstract: ''
   bio: ''
@@ -282,7 +282,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   time: 16:25pm - 16:50pm
   room: ''
   title: 'Toward Consistent State Management of Adaptive Programmable Networks Based on P4'
-  authors: 'Mu He (Technical University of Munich), Andreas Blenk (Technical University of Munich), Stefan 
+  authors: 'Mu He (Technical University of Munich), Andreas Blenk (Technical University of Munich), Stefan
             Schmid (University of Vienna), Wolfgang Kellerer (Technical University of Munich)
 '
   abstract: ''
@@ -305,7 +305,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   video: ''
   COL_UID: ''
 - type: talk
-  time: 
+  time:
   room: ''
   title: 'Enabling Holographic media for Future Applications: Identifying the missing pieces and limitations in Networks'
   authors: 'Panelists: Richard Li (ITU FG-NET-2030, Chair), Dr. Chongfeng Xie (China Telecom), Prof Faten Zhani (ETS Montreal), Prof Stuart Clayman (UCL, UK), Prof Zhi-Li Zhang (UMN, US)'

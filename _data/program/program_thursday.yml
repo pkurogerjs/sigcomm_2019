@@ -319,7 +319,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/closing.pptx'
   video: ''
   COL_UID: ''
 - type: bestccr
