@@ -1,128 +1,96 @@
-#---
-#- type: day
-#  time: Tuesday-Thursday, August 22-24, 2017
-#  room: ''
-#  title: ''
-#  authors: ''
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: ''
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: session
-#  time: 10:45am - 6:00pm (Tuesday)
-#  room: Illumination Room
-#  title: ''
-#  authors: ''
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: ''
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: session
-#  time: 9:30am - 5:30pm (Wednesday)
-#  room: Illumination Room
-#  title: ''
-#  authors: ''
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: ''
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: session
-#  time: 9:00am - 5:35pm (Thursday)
-#  room: Illumination Room
-#  title: ''
-#  authors: ''
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: ''
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: paper
-#  time: ''
-#  room: ''
-#  title: 'NetO: Alibaba’s WAN Orchestrator'
-#  authors: Xin Wu (Alibaba), Chao Huang (Alibaba), Ming Tang (Alibaba), Yihong Sang
-#    (Alibaba), Wei Zhou (Alibaba), Tao Wang (Alibaba), Yuan He (Alibaba), Dennis Cai
-#    (Alibaba), Haiyong Wang (Alibaba), Ming Zhang (Alibaba)
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: files/program-industrial-demos/sigcomm17industrialdemos-paper1.pdf
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: paper
-#  time: ''
-#  room: ''
-#  title: Timestamp-Aware RTP Video Switching Using Programmable Data Plane
-#  authors: Thomas G. Edwards (FOX), Nick Ciarleglio (Arista Networks)
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: files/program-industrial-demos/sigcomm17industrialdemos-paper2.pdf
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: paper
-#  time: ''
-#  room: ''
-#  title: 'Exablaze: High Precision Timing and Capture'
-#  authors: Matthew Grosvenor (Exablaze)
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: files/program-industrial-demos/sigcomm17industrialdemos-paper3.pdf
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: paper
-#  time: ''
-#  room: ''
-#  title: Leveraging Multipath TCP to create Hybrid Access Networks
-#  authors: Gregory Detal (Tessares), Sebastien Barr (Tessares), Bart Peirens (Tessares),
-#    Olivier Bonaventure (Tessares)
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: files/program-industrial-demos/sigcomm17industrialdemos-paper4.pdf
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: paper
-#  time: ''
-#  room: ''
-#  title: IPv6 Segment Routing
-#  authors: Clarence Filsfils (Cisco Systems), Francois Clad (Cisco Systems), Pablo
-#    Camarillo (Cisco Systems), Jose Liste (Cisco Systems), Prem Jonnalagadda (Barefoot
-#    Networks), Milad Sharif (Barefoot Networks), Stefano Salsano (Universita di Roma
-#    Tor Vergata), Ahmed AbdelSalam (Gran Sasso Science Institute)
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: files/program-industrial-demos/sigcomm17industrialdemos-paper5.pdf
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
-#- type: paper
-#  time: ''
-#  room: ''
-#  title: 'Application Driven Network: Quality of experience guarantee with self learning'
-#  authors: Bo Jin (Huawei), Changtai Li (Huawei), Weichao Li (Huawei), Gong Zhang
-#    (Huawei)
-#  abstract: ''
-#  bio: ''
-#  photo: ''
-#  link: files/program-industrial-demos/sigcomm17industrialdemos-paper6.pdf
-#  slides: ''
-#  video: ''
-#  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#1 Data-driven and Self-evolving Transport'
+  authors: Yiyang Shao, Wei Wang, Kai Zheng (Huawei)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: ' #2 Decentralized Internet Infrastructure(DII)'
+  authors: Fei Yang, Xinpeng Wei, Bingyang Liu, Shen Yan, Delei Yu, Chuang Wang (Huawei)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#3 Deterministic IP Demo Proposal'
+  authors:  Li Qiang, Bingyang Liu (Huawei)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#4 Network Architecture with Intrinsic Security'
+  authors: Weiyu Jiang, Bingyang Liu, Chuang Wang (Huawei Technologies Co., Ltd.)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#8 SONiC&#58; an Open Platform for Cloud Network Research and Development'
+  authors: Wei Bai (Microsoft), Dapeng Liu (Alibaba), Xin Liu (Microsoft), Yongfeng Liu (Alibaba), Guohan Lu, Jitendra Padhye (Microsoft), Guohui Wang, Haiyong Wang, Yongcan Wang (Alibaba), Yongqiang Xiong, Lihua Yuan (Microsoft), Haiyang Zheng (Alibaba)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#9 Open/R – Open Routing for Modern Networks'
+  authors: Saif Hasan, John Strizich, Cen Zhao, Mahesh Maddikayala, Hyojeong Kim (Facebook Inc)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#10 Towards Agile and Manageable Industrial Edge Service'
+  authors: Xiaoyi Fan (Jiangxing Intelligence Inc., Shenzhen, China)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''
+- type: talk
+  time: ''
+  room: ''
+  title: '#11 Seer&#58; AI Based Network Maintenance and Traffic Recognition'
+  authors: David Wang (VP of H3C Group), Chang Xiangqing (System Engineer)
+  abstract: ''
+  bio: ''
+  photo: ''
+  link: ''
+  slides: ''
+  video: ''
+  COL_UID: ''

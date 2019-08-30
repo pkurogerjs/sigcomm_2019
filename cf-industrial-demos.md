@@ -26,6 +26,10 @@ committees:
 
 The 2019 SIGCOMM industrial demo session will continue the highly successful tradition of previous SIGCOMM industrial demo sessions since 2015. The session showcases demos from industry in the areas of networking and cloud, networked systems, as well as new forms of network intelligence and networked applications. The objective of this session is to bring together industry and academia around demos of innovative and cutting-edge technology and products.
 
+## Demos
+
+{% include program-online-main.html type="industrial-demos" %}
+
 ## Why Present Industrial Demos at SIGCOMM?
 
 SIGCOMM is the flagship annual conference of the ACM Special Interest Group on Data Communication (SIGCOMM) on the applications, technologies, architectures, and protocols for computer communication. The conference is single-track and features a high-quality technical program with significant opportunities for technical and social interactions. SIGCOMM is the premier conference in its field and typically attracts over 600 attendees (scientists, engineers, educators, and students).
