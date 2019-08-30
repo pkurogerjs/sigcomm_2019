@@ -1,7 +1,9 @@
 {% if session.video and session.video  != "" %}{% assign has_video  = true %}{% else %}{% assign has_video  = nil %}{% endif %}
+{% if session.slides and session.slides != "" %}{% assign has_slides = true %}{% else %}{% assign has_slides = nil %}{% endif %}
+
 <li class="ui-li ui-bar-a prog-item ui-li-divider {{ progitemclass }} {% if forloop.last %}listlast{% endif %} {% if forloop.last %}listlast{% endif %} {% if site.enable_remote and session.remote and session.remote != "" %}ui-li-has-remote{% endif %}" data-role="list-divider">
 
-  {% if has_video %}
+  {% if has_video or has_slides %}
   <table>
     <tr>
       <td style="width:100%;text-align:left;">
@@ -10,12 +12,20 @@
           {{ session.title }}
         </h3>
       </td>
-
+      {% if has_video %}
       <td>
         <a href="{{session.video}}" rel="external" target="_blank">
           <i style="font-size:100%" class="fa fa-video-camera"></i>
         </a>
       </td>
+      {% endif %}
+      {% if has_slides %}
+      <td>
+        <a href="{{session.slides}}" rel="external" target="_blank">
+          <i style="font-size:100%" class="fa fa-file-powerpoint-o"></i>
+        </a>
+      </td>
+      {% endif %}
     </tr>
   </table>
   {% else %}
@@ -29,7 +39,7 @@
 <!--{% if session.link and session.link != "" %}-->
     <!--<div style="float:right; text-align: right;"><a href="{{site.baseurl}}/{{ session.link }}"><i class="fa fa-calendar"></i></a></div>-->
     <!--{% endif %}-->
-  
+
 
   {% if include.is_break != true %}
     {% if session.authors and session.authors != "" %}
