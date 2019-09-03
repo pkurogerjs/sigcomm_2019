@@ -2,7 +2,7 @@
 {% if paper.slides and paper.slides != "" %}{% assign has_slides = true %}{% else %}{% assign has_slides = nil %}{% endif %}
 {% if paper.video  and paper.video != "" %}{% assign has_video  = true %}{% else %}{% assign has_video  = nil %}{% endif %}
 {% if paper.COL_UID  and paper.COL_UID != "" %}{% assign has_COL_UID  = true %}{% else %}{% assign has_COL_UID  = nil %}{% endif %}
-  
+
 {% comment %}<!-- make space for the button(s) -->{% endcomment %}
 {% if has_link or  has_slides or has_COL_UID%}
     {% assign item_style = 'style="width: 85%"' %}
@@ -67,18 +67,25 @@
                 </p>
                 <!-- /* the spaces after various "%s" below are important for correct list filtering! */ -->
                 <p>{{ paper.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}</p>
-             </td> 
+             </td>
              {% if has_COL_UID %}
                 <td>
                 <a style="color: dimgray;" href="{{paper.COL_UID}}" rel="external" target="_blank">
                     <i class="fa fa-file-text"></i>
                 </a>
             </td>
-          {% endif %}           
+          {% endif %}
              {% if has_link %}
                 <td>
                 <a style="color: dimgray;" href="{{paper.link}}" rel="external" target="_blank">
                     <i class="fa fa-file-video-o"></i>
+                </a>
+            </td>
+          {% endif %}
+           {% if has_slides %}
+                <td>
+                <a style="color: dimgray;" href="{{paper.slides}}" rel="external" target="_blank">
+                    <i class="fa fa-file-powerpoint-o"></i>
                 </a>
             </td>
           {% endif %}
