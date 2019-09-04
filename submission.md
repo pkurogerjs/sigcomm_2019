@@ -66,6 +66,14 @@ All submitted papers will be judged based on their quality and relevance through
 - Use care in naming your files. Source file names (e.g., “Alice-n-Bob.dvi”) are often embedded in the final output as readily accessible comments.
 - Use care in referring to related work, particularly your own. Do not omit references to provide anonymity, as this leaves the reviewer unable to grasp the context. Instead, reference your past work in the third person, just as you would any other piece of related work by another author.
 
+In addition to submitting an anonymized paper, double-blind reviewing requires that both authors and reviewers take care while reviewing is happening.
+
+For **authors**: you are welcome to release your paper in a non-peer-reviewed location (such as a technical report by your institution or arxive), but you should not broadcast information about the publication widely. For example, do not post it to large mailing lists or social media forums where TPC members would easily encouter it, and do not do general press releases. Authors are also welcome to talk about their work (as work-in-progress) at local institutions. In either cause, authors should be aware of TPC members who might encouter the work and avoid sharing the work in a way the a TPC member would encounter it.
+
+(Note that the [ACM policy on simultaneous submission](https://www.acm.org/publications/policies/simultaneous-submissions) considers technical reports as not a concurrent publication.)
+
+**Program committee members** are expected to not actively attempt to denonanymize papers. In either case, if there is a breach of double-blind reviewing, the author and the TPC member should let the TPC chairs know.
+
 ## Experience Papers
 Unlike some previous years, SIGCOMM 2019 will not have a separate experience track. However, we do encourage the submission of experience papers, particularly from industry, that provide detailed technical insight into real-world deployments of novel networking technologies and systems. 
 
