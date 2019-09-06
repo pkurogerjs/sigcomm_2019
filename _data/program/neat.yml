@@ -44,7 +44,7 @@
   bio: "Zhi-Li Zhang received Ph.D. degrees  in computer science from the University of Massachusetts.  He joined the faculty of the Department of Computer Science and Engineering at the University of Minnesota in 1997, where  he is currently the McKnight Distinguished University Professor and  Qwest Chair Professor in Telecommunications. He currently also serves as the Associate Director for Research at the Digital Technology Center, University of Minnesota. Prof. Zhang's research interests lie broadly in computer and communication networks, Internet technology, multimedia systems and content distribution networks, cyber-physical systems and Internet-of-Things, and (applied) machine learning and data mining. Prof. Zhang has published more than 100 journal and conference/workshop papers, many of them in top venues in networking and related fields. He is co-recipient of several Best Papers awards including IEEE INFOCOM10, ICNP03, ACM SIGMETRICS96 and RAID13 conferences as well as ACM SIGCOMM APNet’18 and NetAI’19 workshops.  Prof. Zhang has chaired several major conferences in networking including IEEE INFOCOM, ACM SIGMETRICS, IEEE ICNP, IFIP Networking and ACM Internet Measurement Conference (IMC), and served on the Editorial Board of several journals such as IEEE/ACM Transactions on Networking, ACM TOMPECS, and PACM MACS. He is a Fellow of IEEE. "
   photo: 'images/speakers/Zhi-Li-Zhang.jpg'
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/keynote_1_1.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3359665&ftid=2081364&dwn=1&CFID=94188271&CFTOKEN=5eca60977cc02af-C3E31163-0F58-330A-B0E3B58B803963CC'
   COL_UID: ''
 - type: break
@@ -92,7 +92,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_2_1.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342203&ftid=2080641&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
@@ -104,7 +104,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_2_2.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342201&ftid=2080639&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
@@ -116,7 +116,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_2_3.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342200&ftid=2080638&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: break
@@ -166,7 +166,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
 '
   photo: 'images/speakers/Faten-Zhani.png'
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/keynote_3_1.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3359666&ftid=2081419&dwn=1&CFID=94188271&CFTOKEN=5eca60977cc02af-C3E31163-0F58-330A-B0E3B58B803963CC'
   COL_UID: ''
 - type: session
@@ -203,7 +203,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_4_1.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342198&ftid=2080636&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
@@ -215,7 +215,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_4_2.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342204&ftid=2080642&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: break
@@ -275,7 +275,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_5_2.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342205&ftid=2080643&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: talk
@@ -289,7 +289,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/paper_5_3.pdf'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342202&ftid=2080640&dwn=1&CFID=67112645&CFTOKEN=9762a643fe437126-26D52A73-D1A1-14DB-6E770583ACC12E3A'
   COL_UID: ''
 - type: session
@@ -313,7 +313,7 @@ In this talk, we start by analyzing the characteristics and requirements of futu
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/workshop_neat/panel_6_1.pdf'
   video: ''
   COL_UID: ''
 - type: session
