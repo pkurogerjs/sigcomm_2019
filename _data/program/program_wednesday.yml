@@ -91,7 +91,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_4_2.pptx'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342068&ftid=2080730&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680259'
 - type: talk
@@ -271,7 +271,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/bestccr_1.pdf'
   video: ''
   COL_UID: 'https://ccronline.sigcomm.org/2018/looking-for-hypergiants-in-peeringdb/'
 - type: talk
@@ -283,7 +283,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/bestccr_2.pdf'
   video: ''
   COL_UID: 'https://ccronline.sigcomm.org/2019/the-dagstuhl-beginners-guide-to-reproducibility-for-experimental-networking-research/'
 - type: workshop

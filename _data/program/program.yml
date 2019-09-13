@@ -392,7 +392,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/keynote.pptx.ppt'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3359768&ftid=2081424&dwn=1&CFID=94189529&CFTOKEN=1225c1f4527372ab-C44CF538-0187-E87F-02A7768DFA2DEDA6'
   COL_UID: ''
 - type: break
@@ -704,7 +704,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/paper_4_2.pptx'
   video: 'https://dl.acm.org/ft_gateway.cfm?id=3342068&ftid=2080730&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
   COL_UID: 'https://dl.acm.org/authorize?N680259'
 - type: talk
@@ -884,7 +884,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/bestccr_1.pdf'
   video: ''
   COL_UID: 'https://ccronline.sigcomm.org/2018/looking-for-hypergiants-in-peeringdb/'
 - type: talk
@@ -896,7 +896,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: 'files/slides/bestccr_2.pdf'
   video: ''
   COL_UID: 'https://ccronline.sigcomm.org/2019/the-dagstuhl-beginners-guide-to-reproducibility-for-experimental-networking-research/'
 - type: workshop
