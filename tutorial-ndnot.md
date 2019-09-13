@@ -21,7 +21,7 @@ data:
     photo: ''
     link: ''
     slides: ''
-    video: ''
+    video: 'https://dl.acm.org/ft_gateway.cfm?id=3362072&ftid=2083839&dwn=1&CFID=71208038&CFTOKEN=ae7dec0eebb1bfa8-978DFA7A-E4B0-3248-768F2C1B471BF062'
     remote: ''
     remote-qa: ''
     COL_UID: ''
@@ -49,7 +49,7 @@ data:
     photo: ''
     link: ''
     slides: ''
-    video: ''
+    video: 'https://dl.acm.org/ft_gateway.cfm?id=3362073&ftid=2083841&dwn=1&CFID=71208038&CFTOKEN=ae7dec0eebb1bfa8-978DFA7A-E4B0-3248-768F2C1B471BF062'
     remote: ''
     remote-qa: ''
     COL_UID: ''
@@ -77,7 +77,7 @@ data:
     photo: ''
     link: ''
     slides: ''
-    video: ''
+    video: 'https://dl.acm.org/ft_gateway.cfm?id=3362074&ftid=2083842&dwn=1&CFID=71208038&CFTOKEN=ae7dec0eebb1bfa8-978DFA7A-E4B0-3248-768F2C1B471BF062'
     remote: ''
     remote-qa: ''
     COL_UID: '' 
@@ -91,7 +91,7 @@ data:
     photo: ''
     link: ''
     slides: ''
-    video: ''
+    video: 'https://dl.acm.org/ft_gateway.cfm?id=3362075&ftid=2083843&dwn=1&CFID=71208038&CFTOKEN=ae7dec0eebb1bfa8-978DFA7A-E4B0-3248-768F2C1B471BF062'
     remote: ''
     remote-qa: ''
     COL_UID: ''
@@ -120,7 +120,7 @@ data:
     photo: ''
     link: ''
     slides: ''
-    video: ''
+    video: 'https://dl.acm.org/ft_gateway.cfm?id=3362075&ftid=2083843&dwn=1&CFID=71208038&CFTOKEN=ae7dec0eebb1bfa8-978DFA7A-E4B0-3248-768F2C1B471BF062'
     remote: ''
     remote-qa: ''
     COL_UID: ''
@@ -134,7 +134,7 @@ data:
     photo: ''
     link: ''
     slides: ''
-    video: ''
+    video: 'https://dl.acm.org/ft_gateway.cfm?id=3362076&ftid=2083844&dwn=1&CFID=71208038&CFTOKEN=ae7dec0eebb1bfa8-978DFA7A-E4B0-3248-768F2C1B471BF062'
     remote: ''
     remote-qa: ''
     COL_UID: ''
@@ -169,7 +169,7 @@ synchronization, and IoT applications in NDN.
 
 ## Tutorial Program (subject to changes)
 
-{% include program.html type="tutorial-p4" data=page.data %}
+{% include program-main.html type="tutorial-p4" data=page.data %}
 
 
 ## Call For Participation
