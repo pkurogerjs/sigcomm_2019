@@ -45,7 +45,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3363543&ftid=2084442&dwn=1&CFID=159460867&CFTOKEN=7070e44d43938165-D885A65D-B3D9-07A3-59A4737F18C11906'
   COL_UID: ''
 - type: talk
   time: ''
@@ -57,7 +57,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3363544&ftid=2084437&dwn=1&CFID=159460867&CFTOKEN=7070e44d43938165-D885A65D-B3D9-07A3-59A4737F18C11906'
   COL_UID: ''
 - type: talk
   time: ''
@@ -129,7 +129,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3363545&ftid=2084438&dwn=1&CFID=159460867&CFTOKEN=7070e44d43938165-D885A65D-B3D9-07A3-59A4737F18C11906'
   COL_UID: ''
 - type: talk
   time: ''
@@ -141,7 +141,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3363546&ftid=2084441&dwn=1&CFID=159460867&CFTOKEN=7070e44d43938165-D885A65D-B3D9-07A3-59A4737F18C11906'
   COL_UID: ''
 - type: talk
   time: ''
@@ -153,7 +153,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3363547&ftid=2084439&dwn=1&CFID=159460867&CFTOKEN=7070e44d43938165-D885A65D-B3D9-07A3-59A4737F18C11906'
   COL_UID: ''
 - type: break
   time: 17:15pm - 17:25pm Short Break
@@ -189,7 +189,7 @@
   photo: ''
   link: ''
   slides: ''
-  video: ''
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3363548&ftid=2084440&dwn=1&CFID=159460867&CFTOKEN=7070e44d43938165-D885A65D-B3D9-07A3-59A4737F18C11906'
   COL_UID: ''
 - type: session
   time: 18:30pm - 19:00pm
