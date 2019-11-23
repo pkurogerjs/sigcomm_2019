@@ -104,8 +104,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_1_1.pdf'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342075'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342075&ftid=2080718&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680147'
 - type: talk
   time: ''
   room: ''
@@ -116,8 +116,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_1_2.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342074'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342074&ftid=2080719&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680148'
 - type: talk
   time: ''
   room: ''
@@ -128,8 +128,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_1_3.pdf'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342069'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342069&ftid=2080720&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680149'
 - type: break
   time: 11:30 am - 1:30 pm
   room: Garden Wing Ballroom, 1<sup>st</sup> floor and Valley Wing Jade Room, 3<sup>rd</sup> floor
@@ -164,8 +164,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_1.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342085'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342085&ftid=2080721&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680140'
 - type: talk
   time: ''
   room: ''
@@ -176,8 +176,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_2.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342078'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342078&ftid=2080722&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680141'
 - type: talk
   time: ''
   room: ''
@@ -188,8 +188,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_3.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342065'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342065&ftid=2080723&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680142'
 - type: talk
   time: ''
   room: ''
@@ -200,8 +200,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_4.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342071'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342071&ftid=2080724&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680143'
 - type: break
   time: 3:10 pm - 3:40 pm
   room: ''
@@ -236,8 +236,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_1.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342073'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342073&ftid=2080725&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680144'
 - type: talk
   time: ''
   room: ''
@@ -248,8 +248,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_2.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342081'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342081&ftid=2080726&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680255'
 - type: talk
   time: ''
   room: ''
@@ -260,8 +260,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_3.pptx'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342092'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342092&ftid=2080727&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680256'
 - type: talk
   time: ''
   room: ''
@@ -272,8 +272,8 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_4.key'
-  video: ''
-  COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342084'
+  video: 'https://dl.acm.org/ft_gateway.cfm?id=3342084&ftid=2080728&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC'
+  COL_UID: 'https://dl.acm.org/authorize?N680257'
 - type: bestccr
   time: 6:30 pm - 9:00 pm
   room: 'Hotel Nikko New Century Beijing<br/><strong>Notice: </strong>Shuttle buses depart from Shangri-La Hotel Lobby during 5:30 pm – 6:30 pm'
