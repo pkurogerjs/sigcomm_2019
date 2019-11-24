@@ -104,7 +104,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_1_1.pdf'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342075&file=p1-mccauley.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342075&file=p1-mccauley.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342075'
 - type: talk
   time: ''
@@ -116,7 +116,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_1_2.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342074&file=p15-li.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342074&file=p15-li.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342074'
 - type: talk
   time: ''
@@ -128,7 +128,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_1_3.pdf'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342069&file=p29-bogle.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342069&file=p29-bogle.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342069'
 - type: break
   time: 11:30 am - 1:30 pm
@@ -164,7 +164,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_1.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342085&file=p44-li.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342085&file=p44-li.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342085'
 - type: talk
   time: ''
@@ -176,7 +176,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_2.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342078&file=p59-de_coninck.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342078&file=p59-de_coninck.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342078'
 - type: talk
   time: ''
@@ -188,7 +188,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_3.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342065&file=p75-qian.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342065&file=p75-qian.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342065'
 - type: talk
   time: ''
@@ -200,7 +200,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_2_4.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342071&file=p90-li.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342071&file=p90-li.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342071'
 - type: break
   time: 3:10 pm - 3:40 pm
@@ -236,7 +236,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_1.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342073&file=p104-jin.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342073&file=p104-jin.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342073'
 - type: talk
   time: ''
@@ -248,7 +248,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_2.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342081&file=p117-wu.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342081&file=p117-wu.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342081'
 - type: talk
   time: ''
@@ -260,7 +260,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_3.pptx'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342092&file=p130-li.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342092&file=p130-li.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342092'
 - type: talk
   time: ''
@@ -272,7 +272,7 @@
   photo: ''
   link: ''
   slides: 'files/slides/paper_3_4.key'
-  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342084&file=p145-padmanabhan.mp4&download=true'
+  video: 'https://dlnext.acm.org/action/downloadSupplement?doi=10.1145%2F3341302.3342084&file=p145-padmanabhan.mp4'
   COL_UID: 'https://dlnext.acm.org/doi/abs/10.1145/3341302.3342084'
 - type: bestccr
   time: 6:30 pm - 9:00 pm
